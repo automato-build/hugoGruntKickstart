@@ -14,26 +14,27 @@ theme ="automato"
 	[params.navigation]
 		brand = "a u t o m a t o"
 
+
+  [[params.navigation.links]]
+    name     = "About"
+    link = "/about"
 	[[params.navigation.links]]
-    name     = "works"
+    name     = "Works"
     link = "/portfolio"
   [[params.navigation.links]]
-    name     = "research"
+    name     = "Research"
     link = "/research"
   [[params.navigation.links]]
-    name     = "about"
-    link = "/about"
-  [[params.navigation.links]]
-    name     = "market"
-    link = "/market"
-  [[params.navigation.links]]
-    name     = "blog"
+    name     = "Blog"
     link = "/blog"
+  [[params.navigation.links]]
+    name     = "Market"
+    link = "/market"
 
   #section hero
   [params.hero]
-  claim="Research, design & prototype from 7 hours in the future"
-  backgroundGif="politicsofpower.gif"
+  #claim="Research, design & prototype from 7 hours in the future"
+  backgroundGif="rail.jpg"
 
   #section portfolio
   [params.portfolio]

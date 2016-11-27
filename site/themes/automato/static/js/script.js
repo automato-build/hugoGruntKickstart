@@ -1,3 +1,14 @@
+function setIntroClaim(){
+  var timezone = new Date().getTimezoneOffset();
+  timezone = parseInt((timezone<0? '+':'-')+(parseInt(Math.abs(timezone/60))));
+
+  var thefuture = 'We are a design farm based in Shanghai.<br/>We live in the same future.';
+  if(timezone != 8) thefuture = 'We are a design farm based in Shanghai.<br/>We live ' + (8-timezone) + ' hours in the future.';
+    
+
+  $('#claim').html(thefuture);
+}
+
 var $root = $('html, body');
 $('a').click(function() {
     $root.animate({
@@ -14,6 +25,8 @@ window.onload = function() {
     $('#heroCarousel').carousel({
 		interval: 3000
 	});
+
+  setIntroClaim();
 }
 
 
