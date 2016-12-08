@@ -39,17 +39,20 @@ $('.dropDown.menu').click(function() {
 $('#hero #mato').hover(
   function() {
     $('.mato.explain').fadeIn(100);
-    console.log("hey");
+    $('#hero').addClass('mato');
+
   },
   function() {
     $('.mato.explain').fadeOut(200);
+    $('#hero').removeClass('mato');
+
   }
 );
 
 $('#hero #auto').hover(
   function() {
     $('.auto.explain').fadeIn(100);
-    console.log("hey");
+
   },
   function() {
     $('.auto.explain').fadeOut(200);

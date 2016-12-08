@@ -7,7 +7,7 @@
 @light-gray: #EFEFEF;
 @white: #fff;
 @rat: #9B928C;
-@red: #bd1e2d;
+@red: #FF5050;
 @black: #000000; // Font-Size
 @base-font-size: 1em; // Line-Height
 @base-line-height: 1.5;
@@ -279,7 +279,10 @@ a:hover {
 
 #hero {
     margin: 0;
-
+    z-index: 1;
+    &.mato{
+      background-color: black;
+    }
     .middle {
         height: 180px;
         width: 100%;
@@ -295,14 +298,19 @@ a:hover {
       width: 100%;
       height: 100%;
       z-index: -1;
-        .explain {
+        &.explain {
             position: absolute;
             width: 50%;
             height: 100%;
             background: @red;
             display: none;
+            z-index: 100;
             &.auto{
               left: 50%;
+              background-image: url('/img/DSC00635.jpg');
+            }
+            &.mato{
+              background-image: url('/img/pop6a.jpg');
             }
         }
     }
@@ -331,11 +339,14 @@ a:hover {
             position: absolute;
             left: 50%;
             width: 50%;
-
             h1 {
                 width: 100%;
                 text-align: left;
                 color: @red;
+            }
+            &.inverted{
+              background-color: @black;
+              color: @white;
             }
         }
     }
