@@ -1,7 +1,37 @@
-<section id="hero" class="bg-img fill cover" style="background-image:url({{$.Site.BaseURL}}img/{{.Site.Params.hero.backgroundGif}})" >
+<section id="hero" class="bg-img fill cover">
+
     <div class="row middle">
-        <div class="container">
-            <h1>{{ .Site.Params.hero.claim }}</h1>
-          </div>
+        <div id="left">
+            <div id="auto">
+                <h1>{{ .Site.Params.hero.auto.title }}</h1>
+
+                <ul class="replacement_words">
+                    {{range  .Site.Params.hero.auto.replacement_words}}
+                        <li class="verb">{{.}}</li>
+                    {{end}}
+                </ul>
+            </div>
+        </div>
+
+        <div id="right">
+            <div id="mato">
+                <h1>{{ .Site.Params.hero.mato.title }}</h1>
+
+                <ul class="replacement_words">
+                    {{range  .Site.Params.hero.mato.replacement_words}}
+                        <li class="verb">{{.}}</li>
+                    {{end}}
+                </ul>
+            </div>
+        </div>
     </div>
+    <div class="overlay ">
+        <div class="explain auto">
+            ciao
+        </div>
+        <div class=" explain mato">
+            ciao
+        </div>
+    </div>
+
 </section>

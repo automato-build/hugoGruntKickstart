@@ -35,6 +35,16 @@ theme ="automato"
   claim="Research, design & prototype from 7 hours in the future"
   backgroundGif="politicsofpower.gif"
 
+    [params.hero.auto]
+    title="a u t o "
+    replacement_words= ["factory","design","things", "real"]
+
+
+    [params.hero.mato]
+    title="m a t o "
+    replacement_words= ["farm","art","research", "fiction"]
+
+
   #section portfolio
   [params.portfolio]
   title="We research and develop future products and interfaces sometimes real sometimes fictional."

@@ -11,6 +11,15 @@
         <a class="navbar-brand page-scroll" href="{{ .Site.BaseURL }}#page-top">
             {{ with .Site.Params.navigation.brand }}{{ . }}{{ end }}
         </a>
+        <ul class="stickymenu">
+        {{ range .Site.Params.navigation.links }}
+            <li>
+                <a class="menu-item page-scroll" href="{{ $.Site.BaseURL }}{{ .link }}">
+                    {{ .name }}
+                </a>
+            </li>
+        {{end}}
+        </ul>
       </div>
     </div>
 </nav>
