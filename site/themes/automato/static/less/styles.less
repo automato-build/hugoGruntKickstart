@@ -36,12 +36,12 @@
 html {
     height: 100%;
     width: 100%;
-    font-family: soleil;
+    font-family: 'Rajdhani', sans-serif;
 }
 
 body {
     height: 100%;
-    font-family: soleil;
+    font-family: 'Rajdhani', sans-serif;
 
 }
 
@@ -63,11 +63,12 @@ h5 {
         text-decoration: none;
     }
     .transition( font-size 1s);
-    font-family: soleil;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bold;
 }
 
 p {
-    font-family: soleil;
+  font-family: 'Rajdhani', sans-serif;
 }
 
 a:focus,
@@ -282,6 +283,9 @@ a:hover {
     z-index: 1;
     &.mato{
       background-color: black;
+      #mato h1{
+        color: @white !important;
+      }
     }
     .middle {
         height: 180px;
@@ -305,12 +309,33 @@ a:hover {
             background: @red;
             display: none;
             z-index: 100;
+
+            .content{
+              width: 100%;
+              padding: 10%;
+              text-align: center;
+
+              h1{
+                padding: 20%;
+                text-align: center;
+                color: @white;
+              }
+            }
+
             &.auto{
               left: 50%;
               background-image: url('/img/DSC00635.jpg');
+              background-color: @white;
+              background-blend-mode: multiply;
+
+
             }
             &.mato{
               background-image: url('/img/pop6a.jpg');
+              background-color: @red;
+              background-blend-mode: multiply;
+
+
             }
         }
     }
@@ -326,6 +351,7 @@ a:hover {
         #auto {
             position: absolute;
             width: 50%;
+            padding-right: 2em;
 
             h1 {
                 width: 100%;
@@ -339,6 +365,8 @@ a:hover {
             position: absolute;
             left: 50%;
             width: 50%;
+            padding-left: 2em;
+
             h1 {
                 width: 100%;
                 text-align: left;

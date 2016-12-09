@@ -38,12 +38,11 @@ $('.dropDown.menu').click(function() {
 
 $('#hero #mato').hover(
   function() {
-    $('.mato.explain').fadeIn(100);
+    $('.mato.explain').fadeIn(400);
     $('#hero').addClass('mato');
-
   },
   function() {
-    $('.mato.explain').fadeOut(200);
+    $('.mato.explain').fadeOut(400);
     $('#hero').removeClass('mato');
 
   }
@@ -51,15 +50,12 @@ $('#hero #mato').hover(
 
 $('#hero #auto').hover(
   function() {
-    $('.auto.explain').fadeIn(100);
-
+    $('.auto.explain').fadeIn(400);
   },
   function() {
-    $('.auto.explain').fadeOut(200);
+    $('.auto.explain').fadeOut(400);
   }
 );
-
-
 
 
 var randomTextInHero = function() {

@@ -38,11 +38,15 @@ theme ="automato"
     [params.hero.auto]
     title="a u t o "
     replacement_words= ["factory","design","things", "real"]
+    claim="we prototype for you"
+    openingTime="9am-9pm"
 
 
     [params.hero.mato]
     title="m a t o "
     replacement_words= ["farm","art","research", "fiction"]
+    claim="research in the intersection of technology and society"
+    openingTime="9pm-9am"
 
 
   #section portfolio
