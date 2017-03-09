@@ -46,12 +46,14 @@ module.exports = (grunt) ->
                         # Copy the source.
                         { rename: false, width: '100%', height: '100%' }
                         # different sizes for non cropped images
-                        { name: '2000', width: 2000 }
-                        { name: '1024', width: 1024 }
+                        #{ name: '2000', width: 2000 }
+                        #{ name: '1024', width: 1024 }
                         { name: '768', width: 768 }
                         { name: '480', width: 768 }
 
-                        { name: 'wide', width: 1024, height :300, aspectRatio:false }
+                        #{ name: 'wide', width: 1024, height :300, aspectRatio:false }
+                        #{ name: 'thumb', width: 200, height :200, aspectRatio:false }
+
 
 
                     ]

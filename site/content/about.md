@@ -1,9 +1,8 @@
 +++
 date = "2016-10-25T11:04:14+08:00"
 title = "aboutPage"
-frontType = "image"
+frontType = "text"
 vimeoId = ""
-img = ["dress.jpg"]
 externalLink= ""
 +++
 
@@ -12,7 +11,10 @@ Our work focuses on exploring the next evolution of what interaction design migh
 We research and develop future products and interfaces, sometimes real and sometimes fictional.
 We collaborate with studios, companies, and institutions to ideate & prototype with emerging technologies. Our team can talk fluently to both people and machines, but we like machines more.
 We also teach and talk a lot about machines, mundane appliances, and dogs…with very painful accents.
-If you have a future to explore or if you are just scared of it, send us an email.
+**If you have a future to explore or if you are just scared of it, send us an email.**
+![dress](/img/dress_480.jpg)
+![dress](/img/dress_480.jpg)
+![dress](/images/2016/11/dress_480.jpg)
 
 
 #### Teaching and Workshops
