@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio-rsses on My New Hugo Site</title>
+    <link>https://automato-build.github.io/website/portfolio/index.xml</link>
+    <description>Recent content in Portfolio-rsses on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Oct 2016 11:04:14 +0800</lastBuildDate>
+    <atom:link href="https://automato-build.github.io/website/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ethical things</title>
+      <link>https://automato-build.github.io/website/portfolio/ethical_Thing/</link>
+      <pubDate>Tue, 25 Oct 2016 11:04:14 +0800</pubDate>
+      
+      <guid>https://automato-build.github.io/website/portfolio/ethical_Thing/</guid>
+      <description>&lt;p&gt;Due to fast-developing technology and its endless promises, autonomous systems are heading increasingly towards complex algorithms aimed at solving situations requiring some form of moral reasoning. Autonomous vehicles and lethal battlefield robots are good examples of such products due to the tremendous complexity of their tasks that they must carry out.&lt;/p&gt;
+
+&lt;p&gt;When it comes to discussion around the ethics of machines, the focus is often put on extreme examples (such as the above mentioned projects) where human life and death are involved. But what about more mundane and insignificant objects of our everyday lives? Soon, «smart» objects might also need to have moral capacities as “they know too much” about their surroundings to take a neutral stance.  If a « smart » coffee machine knows about its user’s heart problems, should it accept giving him a coffee when he requests one?&lt;/p&gt;
+
+&lt;p&gt;Even with such a banal situation, the level of complexity of such products cannot accommodate all parties. The system will be designed to take into account certain inputs, to process a &amp;lsquo;certain&amp;rsquo; type of information under a &amp;lsquo;certain&amp;rsquo; kind of logic. How are these “certainties” defined, and by whom? And, moreover, as the nature of ethics is very subjective, how will machines be able to deal with the variety of profiles, beliefs, and cultures?
+The “Ethical Objects” project looks at how an object, facing everyday ethical dilemmas, can keep a dose of humanity in its final decision while staying flexible enough to accommodate various ethical beliefs.
+In order to achieve that, our “ethical fan” connects to a crowd-sourcing website every time it faces an ethical dilemma. The fan is designed to let the user set various traits (such as religion, degree, sex, and age) as criterion to choose the worker who should respond to the dilemma, in order to assure that a part of the user’s culture and belief system is in line with the worker, or ethical agent.&lt;/p&gt;
+
+
+
+    &lt;div class=&#34;container&#34;&gt;
+        &lt;div id=&#34;gridGallery&#34;&gt;
+            
+                
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6&#34;&gt;
+                            &lt;img src=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;img-responsive&#34;/&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6&#34;&gt;
+                            &lt;img src=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;img-responsive&#34;/&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6&#34;&gt;
+                            &lt;img src=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;img-responsive&#34;/&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6&#34;&gt;
+                            &lt;img src=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;img-responsive&#34;/&gt;
+                        &lt;/a&gt;
+                    
+                
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>politics of power</title>
+      <link>https://automato-build.github.io/website/portfolio/politics_of_power/</link>
+      <pubDate>Tue, 25 Oct 2016 11:04:14 +0800</pubDate>
+      
+      <guid>https://automato-build.github.io/website/portfolio/politics_of_power/</guid>
+      <description>&lt;p&gt;With a growing number of networked and autonomous objects as well as the outbreak of fields such as « the IoT », communication protocols used by connected products are increasingly important as they act as the network’s backbone.
+Since the end product is « black-boxed » to the user, we often assume that all nodes of a network are equal.
+But is it?&lt;/p&gt;
+
+&lt;p&gt;For example, in a home, two appliances in the same network must be working at the same time, but because of a power shortage, they cannot run in parallel. This bring us to question, who should be given the priority and why?
+In every existing network – be it machine or nature, rules are established in order to determine its structure, hierarchy, and the way the communication will be synchronized between all the actors of the network. But who and what criterions will define this power hierarchy? Products and networks are inherently embedded with ideologies of the designers, engineers, and other stakeholders who shape their trajectory along the way.&lt;/p&gt;
+
+&lt;p&gt;“Politics of Power” is an exploration of these questions on a micro-scale by using a simple ubiquitous product, the multi-plug.
+The project looks at how a mass-manufactured product – although developed for a precise and unique purpose – could behave differently depending on the nature of its communication protocol and how the design of the product itself could reflect these hidden logic and rules.
+Three multi-plugs – Model D, M and T – are designed to look and behave based on different ideologies and structures, allowing people to experience the hidden politics of networks in an everyday life products through an electrical system.&lt;/p&gt;
+
+
+
+    &lt;div class=&#34;container&#34;&gt;
+        &lt;div id=&#34;gridGallery&#34;&gt;
+            
+                
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/pop1a.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6&#34;&gt;
+                            &lt;img src=&#34;https://automato-build.github.io/website/img/pop1a.jpg&#34; class=&#34;img-responsive&#34;/&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/pop1a.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6&#34;&gt;
+                            &lt;img src=&#34;https://automato-build.github.io/website/img/pop1a.jpg&#34; class=&#34;img-responsive&#34;/&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/pop6a.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6&#34;&gt;
+                            &lt;img src=&#34;https://automato-build.github.io/website/img/pop6a.jpg&#34; class=&#34;img-responsive&#34;/&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/pop5a.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6&#34;&gt;
+                            &lt;img src=&#34;https://automato-build.github.io/website/img/pop5a.jpg&#34; class=&#34;img-responsive&#34;/&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/pop8.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6&#34;&gt;
+                            &lt;img src=&#34;https://automato-build.github.io/website/img/pop8.jpg&#34; class=&#34;img-responsive&#34;/&gt;
+                        &lt;/a&gt;
+                    
+                
+            
+                
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+
+
+
+    &lt;div class=&#34;container&#34;&gt;
+        &lt;div id=&#34;gridGallery&#34;&gt;
+            
+                
+            
+                
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/model-d.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6&#34;&gt;
+                            &lt;img src=&#34;https://automato-build.github.io/website/img/model-d.jpg&#34; class=&#34;img-responsive&#34;/&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/model-m.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6&#34;&gt;
+                            &lt;img src=&#34;https://automato-build.github.io/website/img/model-m.jpg&#34; class=&#34;img-responsive&#34;/&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/model-t.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6&#34;&gt;
+                            &lt;img src=&#34;https://automato-build.github.io/website/img/model-t.jpg&#34; class=&#34;img-responsive&#34;/&gt;
+                        &lt;/a&gt;
+                    
+                
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+
+&lt;div class=&#39;code-tabs&#39;&gt;
+  &lt;ul class=&#34;nav nav-tabs&#34;&gt;&lt;/ul&gt;
+  &lt;div class=&#34;tab-content&#34;&gt;
+  &lt;div class=&#34;tab-pane&#34; title=&#34;Model M&#34;&gt;
+  &lt;pre&gt;&lt;code&gt;# Constitution for Pyramidal arch
+# --- Establish Pyramidal ---
+# Define which plug has the
+# highest power
+
+Assign_Hierarchical_Power:
+
+Top_Pyramid = HIGHEST_POWER_LEVEL
+Middle_Pyramid = MIDDLE_POWER_LEVEL
+Bottom_Pyramid = LOWEST_POWER_LEVEL
+
+Top_Lifespan = Random(X_MINUTES)
+
+# --- Pyramidal Setup ---
+Pyramidal_Constitution:
+Assign_Hierarchical_Power()
+
+# --- Pyramidal Refresh ---
+Refresh_Pyramidal:
+
+Top_Pyramid = NO_POWER_LEVEL
+Middle_Pyramid = HIGHEST_POWER_LEVEL
+Bottom_Pyramid = LOWEST_POWER_LEVEL
+
+if Current_Time &amp;gt;= Mourning_Time:
+Assign_Hierarchical_Power()
+Assign_Hierarchical_Power()
+
+// --- Top Unplugged ---
+// Delegate when the top is unplugged
+Top_Unplugged:
+// The top is more of an icon
+//no big power changes if he isnt here
+Middle_Pyramid = HIGHEST_POWER_LEVEL
+Bottom_Pyramid = LOWEST_POWER_LEVEL
+# --- Middle Unplugged ---
+# Delegate when one plug in middle is
+# unplugged
+Middle_Unplugged:
+# If all middle plugs are out
+# then the bottom level is in chaos
+if Middle_Pyramid == 0:
+
+Bottom_Pyramid = UNSTABLE_POWER_LEVEL
+
+# --- Bottom Unplugged ---
+# Delegate when one plug in bottom is
+# unplugged
+Bottom_Unplugged:
+
+# Plebs, nothing happen
+NULL
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;/div&gt;
+
+  &lt;div class=&#34;tab-pane&#34; title=&#34;Model T&#34;&gt;
+  &lt;pre&gt;&lt;code&gt;# Constitution for Pyramidal arch
+# --- Establish Pyramidal ---
+# Define which plug has the
+# highest power
+
+Assign_Hierarchical_Power:
+
+Top_Pyramid = HIGHEST_POWER_LEVEL
+Middle_Pyramid = MIDDLE_POWER_LEVEL
+Bottom_Pyramid = LOWEST_POWER_LEVEL
+
+Top_Lifespan = Random(X_MINUTES)
+
+# --- Pyramidal Setup ---
+Pyramidal_Constitution:
+Assign_Hierarchical_Power()
+
+# --- Pyramidal Refresh ---
+Refresh_Pyramidal:
+
+Top_Pyramid = NO_POWER_LEVEL
+Middle_Pyramid = HIGHEST_POWER_LEVEL
+Bottom_Pyramid = LOWEST_POWER_LEVEL
+
+if Current_Time &amp;gt;= Mourning_Time:
+Assign_Hierarchical_Power()
+Assign_Hierarchical_Power()
+
+// --- Top Unplugged ---
+// Delegate when the top is unplugged
+Top_Unplugged:
+// The top is more of an icon
+//no big power changes if he isnt here
+Middle_Pyramid = HIGHEST_POWER_LEVEL
+Bottom_Pyramid = LOWEST_POWER_LEVEL
+# --- Middle Unplugged ---
+# Delegate when one plug in middle is
+# unplugged
+Middle_Unplugged:
+# If all middle plugs are out
+# then the bottom level is in chaos
+if Middle_Pyramid == 0:
+
+Bottom_Pyramid = UNSTABLE_POWER_LEVEL
+
+# --- Bottom Unplugged ---
+# Delegate when one plug in bottom is
+# unplugged
+Bottom_Unplugged:
+
+# Plebs, nothing happen
+NULL
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
