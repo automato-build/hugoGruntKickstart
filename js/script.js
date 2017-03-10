@@ -33,37 +33,52 @@ $('.dropDown.menu').click(function() {
 
 
 
-$('.dropDown.menu').click(function(){
-  $(this).fadeOut(400);
+$('.dropDown.menu').click(function() {
+    $(this).fadeOut(400);
 });
 
 $('.tab-content').find('.tab-pane').each(function(idx, item) {
-  var navTabs = $(this).closest('.code-tabs').find('.nav-tabs'),
-      title = $(this).attr('title');
-  navTabs.append('<li><a href="#">'+title+'</a></li');
+    var navTabs = $(this).closest('.code-tabs').find('.nav-tabs'),
+        title = $(this).attr('title');
+    navTabs.append('<li><a href="#">' + title + '</a></li');
 });
 
 $('.code-tabs ul.nav-tabs').each(function() {
-  $(this).find("li:first").addClass('active');
+    $(this).find("li:first").addClass('active');
 })
 
 $('.code-tabs .tab-content').each(function() {
-  $(this).find("div:first").addClass('active');
+    $(this).find("div:first").addClass('active');
 });
 
-$('.nav-tabs a').click(function(e){
-  e.preventDefault();
-  var tab = $(this).parent(),
-      tabIndex = tab.index(),
-      tabPanel = $(this).closest('.code-tabs'),
-      tabPane = tabPanel.find('.tab-pane').eq(tabIndex);
-  tabPanel.find('.active').removeClass('active');
-  tab.addClass('active');
-  tabPane.addClass('active');
+$('.nav-tabs a').click(function(e) {
+    e.preventDefault();
+    var tab = $(this).parent(),
+        tabIndex = tab.index(),
+        tabPanel = $(this).closest('.code-tabs'),
+        tabPane = tabPanel.find('.tab-pane').eq(tabIndex);
+    tabPanel.find('.active').removeClass('active');
+    tab.addClass('active');
+    tabPane.addClass('active');
+});
 
 $(document).ready(function() {
-
     $('#gridGallery').lightGallery();
 
 
+    $("img.lazy").lazyload({
+        threshold: 200,
+        effect: "fadeIn"
+    });
+    var mycarousel = $('.owl-carousel').owlCarousel({
+        center: true,
+        items: 1,
+        loop: true,
+        nav: true,
+        lazyLoad: true,
+        navText: [
+            "<i class='fa fa-chevron-left fa-2x' aria-hidden='true'></i>",
+            "<i class='fa fa-chevron-right fa-2x' aria-hidden='true'></i>"
+        ],
+    });
 });

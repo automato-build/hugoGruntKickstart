@@ -9082,6 +9082,12 @@ button.close {
   overflow: visible;
   clip: auto;
 }
+@font-face {
+  font-family: 'AlphaHeadlinePro-Bold';
+  src: url('../fonts/AlphaHeadlinePro-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/AlphaHeadlinePro-Bold.otf') format('opentype'), url('../fonts/AlphaHeadlinePro-Bold.woff') format('woff'), url('../fonts/AlphaHeadlinePro-Bold.ttf') format('truetype'), url('../fonts/AlphaHeadlinePro-Bold.svg#AlphaHeadlinePro-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 html {
   height: 100%;
   width: 100%;
@@ -9174,6 +9180,9 @@ a:hover {
   left: 0;
   right: 0;
   margin: auto;
+}
+.container.offset {
+  margin-left: -30px;
 }
 .list.grid .item .bg-container {
   height: 18em;
@@ -9391,4 +9400,22 @@ a:hover {
   margin-top: 3em;
   background-color: #fff;
   padding: 2em 1em;
+}
+#gridGallery .item {
+  margin: 15px 0;
+}
+#gridGallery .item .thumb {
+  background-position: center;
+  background-size: cover;
+  min-height: 200px;
+  background-color: #fff;
+  transition: background-color 1s;
+  -webkit-transition: background-color 1s;
+  -moz-transition: background-color 1s;
+  -ms-transition: background-color 1s;
+  -o-transition: background-color 1s;
+}
+#gridGallery .item .thumb:hover {
+  background-blend-mode: difference;
+  background-color: #FF5050;
 }
