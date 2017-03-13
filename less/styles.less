@@ -25,16 +25,12 @@
 @mq-xxlarge: ~"(min-width: @{bp-xxlarge})";
 @mq-retina: ~"(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)";
 @navbar-height: 70px;
-
 @font-face {
-  font-family: 'AlphaHeadlinePro-Bold';
-  src:  url('../fonts/AlphaHeadlinePro-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/AlphaHeadlinePro-Bold.otf')  format('opentype'),
-	      url('../fonts/AlphaHeadlinePro-Bold.woff') format('woff'), url('../fonts/AlphaHeadlinePro-Bold.ttf')  format('truetype'), url('../fonts/AlphaHeadlinePro-Bold.svg#AlphaHeadlinePro-Bold') format('svg');
-  font-weight: normal;
-  font-style: normal;
+    font-family: 'AlphaHeadlinePro-Bold';
+    src: url('../fonts/AlphaHeadlinePro-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/AlphaHeadlinePro-Bold.otf') format('opentype'), url('../fonts/AlphaHeadlinePro-Bold.woff') format('woff'), url('../fonts/AlphaHeadlinePro-Bold.ttf') format('truetype'), url('../fonts/AlphaHeadlinePro-Bold.svg#AlphaHeadlinePro-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
-
 
 .transition (@transition) {
     -webkit-transition: @transition;
@@ -83,9 +79,16 @@ p {
     font-size: 15pt;
 }
 
+a {
+    color: @red;
+    text-decoration: none
+}
 a:focus,
 a:hover {
     text-decoration: none;
+    color: @red;
+    font-weight: bold;
+
 }
 
 .fill {
@@ -141,11 +144,11 @@ a:hover {
     margin: auto;
 }
 
-.container.offset{
-  margin-left:-30px;
+.container.offset {
+    margin-left: -30px;
 }
 
-.list.grid {
+.page-list {
     .item {
         .bg-container {
             height: 18em;
@@ -251,13 +254,12 @@ a:hover {
     a.navbar-brand {
         .transition( all 1s);
         color: @black;
-        border: 1px solid @black;
-        color: @black;
-        font-weight: 400;
+        font-weight: 100;
         border: 2px solid @black;
-        height: 1.8em;
-        padding: 5px 10px;
+        height: 2em;
+        padding: 7px 13px;
         margin-top: 1em;
+        font-family: AlphaHeadlinePro-Bold;
     }
 
     button.navbar-toggle {
@@ -327,11 +329,15 @@ a:hover {
 
                     h3 {
                         font-family: AlphaHeadlinePro-Bold;
-                        font-size: 36px;
+                        font-size: 4em;
                         color: #FFFFFF;
                         letter-spacing: 0;
                         text-transform: uppercase;
                     }
+                }
+                .subtitle{
+                  color: @white;
+                  font-size: 2em;
                 }
             }
 
@@ -372,118 +378,131 @@ a:hover {
 .gallery-image {
     float: left;
 }
+#single-page {
+    margin-top: 140px;
 
-#single-project{
-  margin-top: 140px;
-
-  #project-header{
-    .bg-img{
-      min-height: 600px;
+    .columns{
+      column-count: 2;
+      padding: 20px;
+      background-color: @gray-lighter
     }
-  }
+}
+#single-project {
+    margin-top: 140px;
 
-  #project-content{
-      margin-top: -600px;
-      z-index: 1;
-      position: relative;
-      padding-top:2em;
-
-    .title{
-      h1{
-        /* POLITICS OF POWER: */
-        font-family: AlphaHeadlinePro-Bold;
-        font-size: 144px;
-        color: @red;
-        letter-spacing: 0;
-        text-transform: uppercase;
-
-        a{
-          color: @red;
+    #project-header {
+        .bg-img {
+            min-height: 600px;
         }
-      }
     }
 
-    .content{
-      margin-top: 3em;
-      background-color: @white;
-      padding: 2em 1em;
-    }
+    #project-content {
+        margin-top: -600px;
+        z-index: 1;
+        position: relative;
+        padding-top: 2em;
 
-  }
+        .title {
+            h1 {
+                /* POLITICS OF POWER: */
+                font-family: AlphaHeadlinePro-Bold;
+                font-size: 144px;
+                color: @red;
+                letter-spacing: 0;
+                text-transform: uppercase;
+
+                a {
+                    color: @red;
+                }
+            }
+        }
+
+        .content {
+            margin-top: 3em;
+            background-color: @white;
+            padding: 2em 1em;
+        }
+    }
 }
 
-#gridGallery{
-  .item{
-    margin: 15px 0;
+.owl-carousel {
+    .owl-nav {
+        margin-top: -24px;
+        position: absolute;
+        margin-left: -4%;
+        width: 105%;
 
-    .thumb{
-      background-position: center;
-      background-size: cover;
-      min-height: 200px;
-      background-color: @white;
-      .transition (background-color 1s);
+        .owl-prev {
+            float: left;
+        }
 
-      &:hover{
-        background-blend-mode: difference;
-
-        background-color: @red;
-
-      }
+        .owl-next {
+            float: right;
+        }
     }
-  }
-
-
 }
 
+#gridGallery {
+    .item {
+        margin: 15px 0;
 
+        .thumb {
+            background-position: center;
+            background-size: cover;
+            min-height: 200px;
+            background-color: @white;
+            .transition (background-color 1s);
 
+            &:hover {
+                background-blend-mode: difference;
+                background-color: @red;
+            }
+        }
+    }
+}
 
-.code-tabs{
-  pre{
-    background-color: @white;
-    border: 0px;
-    border-radius: 0px;
-    padding: 5px 0px;
-
+.code-tabs {
+    pre {
+        background-color: @white;
+        border: 0;
+        border-radius: 0;
+        padding: 5px 0;
     }
 
-  .nav-tabs{
-    border-bottom: 0px;
+    .nav-tabs {
+        border-bottom: 0;
 
+        li {
+            &.active {
+                a {
+                    border: 0;
+                    background-color: @black;
+                    color: @white;
+                    border-radius: 0;
+                }
+            }
 
-    li{
-      &.active {
-          a{
-            border: 0px;
-            background-color: @black;
-            color: @white;
-            border-radius: 0px;
-          }
-      }
+            a {
+                border: 0;
+                color: @black;
+                .transition(background-color 0.5s);
+            }
 
-      a{
-        border: 0px;
-        color: @black;
-        .transition(background-color 0.5s);
+            a:focus {
+                border: 0;
+                background-color: @black;
+                color: @white;
+                border-radius: 0;
+            }
+
+            a:hover {
+                color: @white;
+                border: 0;
+                background-color: @red;
+                border-radius: 0;
+            }
         }
-      a:focus{
-        border: 0px;
-        background-color: @black;
-        color: @white;
-        border-radius: 0px;
-        }
-      a:hover{
-        color: @white;
-        border: 0px;
-        background-color: @red;
-        border-radius: 0px;
-        }
-      }
     }
 
-  .tab-content{
-
-  }
-
-
+    .tab-content {}
 }
