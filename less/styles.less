@@ -224,6 +224,9 @@ a:hover {
 }
 
 #mainNav {
+
+
+
     .navbar-header {
         text-align: right;
         position: fixed;
@@ -235,6 +238,7 @@ a:hover {
         z-index: 10;
         height: 120px;
         padding-top: 25px;
+
 
         .nav_item {
             font-size: 1.2em;
@@ -271,9 +275,14 @@ a:hover {
     }
 
     &.inverted {
+      .navbar-header {
+        background-color: transparent;
+      }
+
         a.navbar-brand {
             color: @white;
             border: 1px solid @white;
+
         }
 
         .nav_item a {
@@ -349,11 +358,17 @@ a:hover {
 }
 
 #footer {
-    background-color: @light-gray;
+    background-color: @black;
     text-align: center;
     bottom: 0;
     width: 100%;
     margin-bottom: 0;
+    height: 140px;
+
+    h3,h4{
+      color: @white;
+    }
+
 }
 
 .dropDown.menu {

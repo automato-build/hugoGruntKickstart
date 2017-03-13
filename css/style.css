@@ -9287,6 +9287,9 @@ a:hover {
 #mainNav button.navbar-toggle .icon-bar {
   background-color: #000000;
 }
+#mainNav.inverted .navbar-header {
+  background-color: transparent;
+}
 #mainNav.inverted a.navbar-brand {
   color: #fff;
   border: 1px solid #fff;
@@ -9358,11 +9361,16 @@ a:hover {
   opacity: 1;
 }
 #footer {
-  background-color: #EFEFEF;
+  background-color: #000000;
   text-align: center;
   bottom: 0;
   width: 100%;
   margin-bottom: 0;
+  height: 140px;
+}
+#footer h3,
+#footer h4 {
+  color: #fff;
 }
 .dropDown.menu {
   background-color: #FF5050;

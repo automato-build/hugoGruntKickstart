@@ -32,7 +32,6 @@ $('.dropDown.menu').click(function() {
 });
 
 
-
 $('.dropDown.menu').click(function() {
     $(this).fadeOut(400);
 });
@@ -62,8 +61,26 @@ $('.nav-tabs a').click(function(e) {
     tabPane.addClass('active');
 });
 
+
+$('#hero').on('inview', function(event, isInView) {
+    if (isInView) {
+      console.log("hero");
+        $('#mainNav').addClass("inverted");
+    } else {
+      console.log("nothero");
+
+        $('#mainNav').removeClass("inverted");
+    }
+});
+
+
+
 $(document).ready(function() {
     $('#gridGallery').lightGallery();
+
+
+
+
 
 
     $("img.lazy").lazyload({
