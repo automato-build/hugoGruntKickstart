@@ -272,7 +272,6 @@ a:hover {
         z-index: 10;
 
         .navbar-header {
-            background-color: @white;
             height: 80px;
             z-index: 10;
             padding-top: 5px;
@@ -412,13 +411,6 @@ a:hover {
         .bg-img {
             min-height: 600px;
         }
-    }
-
-    #project-content {
-        margin-top: -600px;
-        z-index: 1;
-        position: relative;
-        padding-top: 2em;
 
         .title {
             h1 {
@@ -428,12 +420,22 @@ a:hover {
                 color: @red;
                 letter-spacing: 0;
                 text-transform: uppercase;
+                mix-blend-mode: difference;
 
                 a {
                     color: @red;
                 }
             }
         }
+    }
+
+    #project-content {
+        margin-top: -300px;
+        z-index: 1;
+        position: relative;
+        padding-top: 2em;
+
+
 
         .content {
             margin-top: 3em;
@@ -557,4 +559,20 @@ a:hover {
             }
         }
     }
+}
+
+#brutalistBanner{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 200;
+  background-color: white;
+  border: 2px solid blue;
+  max-width: 100px;
+
+  h1{
+    font-family: monospace;
+  }
+
+
 }

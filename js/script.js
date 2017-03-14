@@ -99,4 +99,21 @@ $(document).ready(function() {
             "<i class='fa fa-chevron-right fa-2x' aria-hidden='true'></i>"
         ],
     });
+
+
+    /* BAFFLE */
+    /* Animation speed value can be increased or decreased. Same with duration */
+    let b = baffle('.baffle', { characters: '█▓▒░🤖', speed: 150 }).reveal(2500); /* Runs animation only once, upon page load */
+    let bl = baffle('.baffle-longer', { characters: '█▓▒░🤖', speed: 150, duration: 3000 }).reveal(2500); /* Animation duration set to 3 seconds */
+    let bf = baffle('.baffle-forever', {characters: '█▓▒░🤖', speed: 150}).start(); /* Animation continues on an endless loop */
+
+    setInterval(resetBannerPosition, 2000);
+
 });
+
+
+
+var resetBannerPosition=function(){
+  $("#brutalistBanner").css('top',Math.random()*800);
+  $("#brutalistBanner").css('left',Math.random()*800);
+}
