@@ -81,14 +81,14 @@ p {
 
 a {
     color: @red;
-    text-decoration: none
+    text-decoration: none;
 }
+
 a:focus,
 a:hover {
     text-decoration: none;
     color: @red;
     font-weight: bold;
-
 }
 
 .fill {
@@ -120,15 +120,6 @@ a:hover {
     width: 100%;
 }
 
-.flex-video {
-    height: 100%;
-
-    iframe {
-        width: 100%;
-        height: 100%;
-    }
-}
-
 .readMore {
     text-align: center;
 
@@ -145,7 +136,7 @@ a:hover {
 }
 
 .container.offset {
-    margin-left: -30px;
+    margin-left: -15px;
 }
 
 .page-list {
@@ -224,9 +215,6 @@ a:hover {
 }
 
 #mainNav {
-
-
-
     .navbar-header {
         text-align: right;
         position: fixed;
@@ -236,9 +224,9 @@ a:hover {
         left: 0;
         right: 0;
         z-index: 10;
-        height: 120px;
+        height: 140px;
         padding-top: 25px;
-
+        .transition(all 0.2s);
 
         .nav_item {
             font-size: 1.2em;
@@ -256,7 +244,7 @@ a:hover {
     }
 
     a.navbar-brand {
-        .transition( all 1s);
+        .transition( all 0.2s);
         color: @black;
         font-weight: 100;
         border: 2px solid @black;
@@ -274,15 +262,27 @@ a:hover {
         }
     }
 
-    &.inverted {
-      .navbar-header {
-        background-color: transparent;
-      }
+    &.transparent {
+        .navbar-header {
+            background-color: transparent;
+        }
+    }
 
+    &.affix {
+        z-index: 10;
+
+        .navbar-header {
+            background-color: @white;
+            height: 80px;
+            z-index: 10;
+            padding-top: 5px;
+        }
+    }
+
+    &.inverted {
         a.navbar-brand {
             color: @white;
             border: 1px solid @white;
-
         }
 
         .nav_item a {
@@ -344,9 +344,10 @@ a:hover {
                         text-transform: uppercase;
                     }
                 }
-                .subtitle{
-                  color: @white;
-                  font-size: 2em;
+
+                .subtitle {
+                    color: @white;
+                    font-size: 2em;
                 }
             }
 
@@ -365,10 +366,10 @@ a:hover {
     margin-bottom: 0;
     height: 140px;
 
-    h3,h4{
-      color: @white;
+    h3,
+    h4 {
+        color: @white;
     }
-
 }
 
 .dropDown.menu {
@@ -393,15 +394,17 @@ a:hover {
 .gallery-image {
     float: left;
 }
+
 #single-page {
     margin-top: 140px;
 
-    .columns{
-      column-count: 2;
-      padding: 20px;
-      background-color: @gray-lighter
+    .columns {
+        column-count: 2;
+        padding: 20px;
+        background-color: @gray-lighter
     }
 }
+
 #single-project {
     margin-top: 140px;
 
@@ -435,7 +438,15 @@ a:hover {
         .content {
             margin-top: 3em;
             background-color: @white;
-            padding: 2em 1em;
+            padding: 2em 0;
+        }
+
+        .attributes {
+            .tag {
+                background-color: @black;
+                color: @white;
+                padding: 1px 6px;
+            }
         }
     }
 }
@@ -518,6 +529,32 @@ a:hover {
             }
         }
     }
+}
 
-    .tab-content {}
+.page-list {
+    .masonryGrid {
+        .grid-item {
+            margin-bottom: 10px;
+        }
+
+        .box-container {
+            display: block;
+
+            .text-bg {}
+
+            .image-box {
+              background-color: @white;
+              .transition (all 0.5s);
+                img{
+                  &:hover {
+                      mix-blend-mode: difference;
+                  }
+                }
+
+                &:hover{
+                  background-color: @red;
+                }
+            }
+        }
+    }
 }

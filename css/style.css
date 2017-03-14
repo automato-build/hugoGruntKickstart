@@ -9168,13 +9168,6 @@ a:hover {
 .responsive_images {
   width: 100%;
 }
-.flex-video {
-  height: 100%;
-}
-.flex-video iframe {
-  width: 100%;
-  height: 100%;
-}
 .readMore {
   text-align: center;
 }
@@ -9188,7 +9181,7 @@ a:hover {
   margin: auto;
 }
 .container.offset {
-  margin-left: -30px;
+  margin-left: -15px;
 }
 .page-list .item .bg-container {
   height: 18em;
@@ -9252,8 +9245,13 @@ a:hover {
   left: 0;
   right: 0;
   z-index: 10;
-  height: 120px;
+  height: 140px;
   padding-top: 25px;
+  transition: all 0.2s;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
 }
 #mainNav .navbar-header .nav_item {
   font-size: 1.2em;
@@ -9268,11 +9266,11 @@ a:hover {
   color: #000000;
 }
 #mainNav a.navbar-brand {
-  transition: all 1s;
-  -webkit-transition: all 1s;
-  -moz-transition: all 1s;
-  -ms-transition: all 1s;
-  -o-transition: all 1s;
+  transition: all 0.2s;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
   color: #000000;
   font-weight: 100;
   border: 2px solid #000000;
@@ -9287,8 +9285,17 @@ a:hover {
 #mainNav button.navbar-toggle .icon-bar {
   background-color: #000000;
 }
-#mainNav.inverted .navbar-header {
+#mainNav.transparent .navbar-header {
   background-color: transparent;
+}
+#mainNav.affix {
+  z-index: 10;
+}
+#mainNav.affix .navbar-header {
+  background-color: #fff;
+  height: 80px;
+  z-index: 10;
+  padding-top: 5px;
 }
 #mainNav.inverted a.navbar-brand {
   color: #fff;
@@ -9425,7 +9432,12 @@ a:hover {
 #single-project #project-content .content {
   margin-top: 3em;
   background-color: #fff;
-  padding: 2em 1em;
+  padding: 2em 0;
+}
+#single-project #project-content .attributes .tag {
+  background-color: #000000;
+  color: #fff;
+  padding: 1px 6px;
 }
 .owl-carousel .owl-nav {
   margin-top: -24px;
@@ -9492,4 +9504,24 @@ a:hover {
   border: 0;
   background-color: #FF5050;
   border-radius: 0;
+}
+.page-list .masonryGrid .grid-item {
+  margin-bottom: 10px;
+}
+.page-list .masonryGrid .box-container {
+  display: block;
+}
+.page-list .masonryGrid .box-container .image-box {
+  background-color: #fff;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+}
+.page-list .masonryGrid .box-container .image-box img:hover {
+  mix-blend-mode: difference;
+}
+.page-list .masonryGrid .box-container .image-box:hover {
+  background-color: #FF5050;
 }

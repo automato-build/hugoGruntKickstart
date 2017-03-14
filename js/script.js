@@ -64,12 +64,11 @@ $('.nav-tabs a').click(function(e) {
 
 $('#hero').on('inview', function(event, isInView) {
     if (isInView) {
-      console.log("hero");
         $('#mainNav').addClass("inverted");
+        $('#mainNav').addClass("transparent");
     } else {
-      console.log("nothero");
-
         $('#mainNav').removeClass("inverted");
+        $('#mainNav').removeClass("transparent");
     }
 });
 
@@ -78,15 +77,17 @@ $('#hero').on('inview', function(event, isInView) {
 $(document).ready(function() {
     $('#gridGallery').lightGallery();
 
+    $(".flex-video").fitVids();
 
-
-
-
+    $('.masonryGrid').masonry({
+      itemSelector: '.grid-item',
+    });
 
     $("img.lazy").lazyload({
         threshold: 200,
         effect: "fadeIn"
     });
+
     var mycarousel = $('.owl-carousel').owlCarousel({
         center: true,
         items: 1,
