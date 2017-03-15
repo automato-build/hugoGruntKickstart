@@ -9338,17 +9338,14 @@ a:hover {
   top: 0;
 }
 #portfolio .portfolio_item .portfolio_item_overlay .inner {
-  height: 100%;
+  height: 30%;
+  top: 35%;
   position: absolute;
   text-align: center;
   width: 100%;
 }
 #portfolio .portfolio_item .portfolio_item_overlay .inner .title {
   text-align: center;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  padding-top: 25%;
 }
 #portfolio .portfolio_item .portfolio_item_overlay .inner .title h3 {
   font-family: AlphaHeadlinePro-Bold;
@@ -9359,21 +9356,9 @@ a:hover {
   text-transform: uppercase;
 }
 #portfolio .portfolio_item .portfolio_item_overlay .inner .subtitle {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  padding-top: 35%;
   color: #fff;
   font-size: 2em;
   opacity: 0;
-  transition: opacity 1s;
-  -webkit-transition: opacity 1s;
-  -moz-transition: opacity 1s;
-  -ms-transition: opacity 1s;
-  -o-transition: opacity 1s;
-}
-#portfolio .portfolio_item .portfolio_item_overlay .inner .subtitle:hover {
-  opacity: 1;
 }
 #footer {
   background-color: #000000;
@@ -9554,4 +9539,28 @@ a:hover {
 }
 #brutalistBanner h1 {
   font-family: monospace;
+}
+#fullMenu {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(255, 0, 0, 0.7);
+  position: fixed;
+  top: 0px;
+  z-index: 9;
+  opacity: 0;
+  display: none;
+}
+#fullMenu .container {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+#fullMenu h1 {
+  width: 100%;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+#fullMenu h1 a {
+  color: #fff;
 }
