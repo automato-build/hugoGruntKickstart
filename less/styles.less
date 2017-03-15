@@ -319,40 +319,47 @@ a:hover {
 
         .portfolio_item_overlay {
             background-color: transparent;
-            opacity: 0;
             height: 100%;
             width: 100%;
             position: absolute;
             top: 0;
-            .transition( opacity 1s);
 
             .inner {
-                height: 30%;
-                top: 35%;
+                height: 100%;
                 position: absolute;
                 text-align: center;
                 width: 100%;
 
                 .title {
                     text-align: center;
+                    position:absolute;
+                    width:100%;
+                    height:100%;
+                    padding-top:25%;
 
                     h3 {
                         font-family: AlphaHeadlinePro-Bold;
                         font-size: 4em;
-                        color: #FFFFFF;
+                        color: @red;
+                        mix-blend-mode: difference;
                         letter-spacing: 0;
                         text-transform: uppercase;
                     }
                 }
 
                 .subtitle {
+                    position:absolute;
+                    width:100%;
+                    height:100%;
+                    padding-top:35%;
                     color: @white;
                     font-size: 2em;
+                    opacity : 0;
+                    .transition( opacity 1s);
+                    &:hover{
+                        opacity:1;
+                    }
                 }
-            }
-
-            &:hover {
-                opacity: 1;
             }
         }
     }

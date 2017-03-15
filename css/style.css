@@ -9332,39 +9332,47 @@ a:hover {
 }
 #portfolio .portfolio_item .portfolio_item_overlay {
   background-color: transparent;
-  opacity: 0;
   height: 100%;
   width: 100%;
   position: absolute;
   top: 0;
-  transition: opacity 1s;
-  -webkit-transition: opacity 1s;
-  -moz-transition: opacity 1s;
-  -ms-transition: opacity 1s;
-  -o-transition: opacity 1s;
 }
 #portfolio .portfolio_item .portfolio_item_overlay .inner {
-  height: 30%;
-  top: 35%;
+  height: 100%;
   position: absolute;
   text-align: center;
   width: 100%;
 }
 #portfolio .portfolio_item .portfolio_item_overlay .inner .title {
   text-align: center;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  padding-top: 25%;
 }
 #portfolio .portfolio_item .portfolio_item_overlay .inner .title h3 {
   font-family: AlphaHeadlinePro-Bold;
   font-size: 4em;
-  color: #FFFFFF;
+  color: #FF5050;
+  mix-blend-mode: difference;
   letter-spacing: 0;
   text-transform: uppercase;
 }
 #portfolio .portfolio_item .portfolio_item_overlay .inner .subtitle {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  padding-top: 35%;
   color: #fff;
   font-size: 2em;
+  opacity: 0;
+  transition: opacity 1s;
+  -webkit-transition: opacity 1s;
+  -moz-transition: opacity 1s;
+  -ms-transition: opacity 1s;
+  -o-transition: opacity 1s;
 }
-#portfolio .portfolio_item .portfolio_item_overlay:hover {
+#portfolio .portfolio_item .portfolio_item_overlay .inner .subtitle:hover {
   opacity: 1;
 }
 #footer {
