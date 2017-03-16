@@ -18,11 +18,11 @@
 @bp-xlarge: 120em; // 1920px
 @bp-xxlarge: 160em; // 2560px
 // Media Queries
-@mq-small: ~"(min-width: @{bp-small})";
-@mq-medium: ~"(min-width: @{bp-medium})";
-@mq-large: ~"(min-width: @{bp-large})";
-@mq-xlarge: ~"(min-width: @{bp-xlarge})";
-@mq-xxlarge: ~"(min-width: @{bp-xxlarge})";
+@mq-small: ~"(max-width: @{bp-small})";
+@mq-medium: ~"(max-width: @{bp-medium})";
+@mq-large: ~"(max-width: @{bp-large})";
+@mq-xlarge: ~"(max-width: @{bp-xlarge})";
+@mq-xxlarge: ~"(max-width: @{bp-xxlarge})";
 @mq-retina: ~"(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)";
 @navbar-height: 70px;
 @font-face {
@@ -93,28 +93,17 @@ a:hover {
 }
 
 .fill {
-    @media @mq-medium {
-        height: 100%;
-
-        .middle {
-            @media @mq-medium {
-                position: relative;
-                top: 50%;
-                transform: translateY(-50%);
-            }
-        }
-    }
+  height: 100%;
 }
 
 .cover {
     height: 100%;
+}
 
-    .middle {
-        position: relative;
-        top: 50%;
-        transform: translateY(-50%);
-        margin-left: 1em;
-    }
+.middle {
+  top: 50%;
+  transform: translateY(-50%);
+  position: relative;
 }
 
 .responsive_images {
@@ -296,9 +285,21 @@ a:hover {
 }
 
 #hero {
+    margin-bottom: 0;
+
     h1 {
-        color: @white;
         font-size: 6em;
+        color: white;
+    }
+    @media @mq-medium {
+        h1 {
+            font-size: 6em;
+        }
+    }
+    @media @mq-small {
+        h1 {
+            font-size: 3em;
+        }
     }
 }
 
@@ -351,7 +352,7 @@ a:hover {
                 .subtitle {
                     color: @white;
                     font-size: 2em;
-                    opacity : 0;
+                    opacity: 0;
                 }
             }
         }
@@ -379,7 +380,7 @@ a:hover {
             display: inline-block;
             height: 40px;
             padding-top: 6px;
-            margin: 0px 10px;
+            margin: 0 10px;
         }
     }
 }
@@ -587,30 +588,30 @@ a:hover {
     }
 }
 
-#fullMenu{
-    width:100vw;
-    height:100vh;
+#fullMenu {
+    width: 100vw;
+    height: 100vh;
     background-color: rgba(255,0,0,0.7);
-    position:fixed;
-    top:0px;
-    z-index:9;
+    position: fixed;
+    top: 0;
+    z-index: 9;
     opacity: 0;
-    display:none;
+    display: none;
 
-    .container{
+    .container {
         position: relative;
-        top:50%;
+        top: 50%;
         transform: translateY(-50%);
     }
 
-    h1{
+    h1 {
         width: 100%;
-        font-size:40px;
-        font-weight:bold;
+        font-size: 40px;
+        font-weight: bold;
         text-align: center;
     }
 
-    h1 a{
+    h1 a {
         color: @white;
     }
 }
@@ -694,5 +695,3 @@ a:hover {
         }
     }
 }
-
-
