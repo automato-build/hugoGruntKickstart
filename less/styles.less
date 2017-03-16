@@ -288,6 +288,10 @@ a:hover {
         .nav_item a {
             color: @white;
         }
+
+        #nav-icon span{
+            background: @white;
+        }
     }
 }
 
@@ -610,3 +614,85 @@ a:hover {
         color: @white;
     }
 }
+
+
+#nav-icon {
+    -moz-transform: rotate(0deg);
+    -moz-transition: .5s ease-in-out;
+    -o-transform: rotate(0deg);
+    -o-transition: .5s ease-in-out;
+    -webkit-transform: rotate(0deg);
+    -webkit-transition: .5s ease-in-out;
+    cursor: pointer;
+    height: 45px;
+    margin: 25px auto;
+    position: relative;
+    transform: rotate(0deg);
+    transition: .5s ease-in-out;
+    width: 30px;
+    span {
+        -moz-transform: rotate(0deg);
+        -moz-transition: .25s ease-in-out;
+        -o-transform: rotate(0deg);
+        -o-transition: .25s ease-in-out;
+        -webkit-transform: rotate(0deg);
+        -webkit-transition: .25s ease-in-out;
+        background: #000;
+        border-radius: 9px;
+        display: block;
+        height: 3px;
+        left: 0;
+        opacity: 1;
+        position: absolute;
+        transform: rotate(0deg);
+        transition: .25s ease-in-out;
+        width: 100%;
+        &:nth-child(1) {
+            -moz-transform-origin: left center;
+            -o-transform-origin: left center;
+            -webkit-transform-origin: left center;
+            top: 0px;
+            transform-origin: left center;
+        }
+        &:nth-child(2) {
+            -moz-transform-origin: left center;
+            -o-transform-origin: left center;
+            -webkit-transform-origin: left center;
+            top: 7px;
+            transform-origin: left center;
+        }
+        &:nth-child(3) {
+            -moz-transform-origin: left center;
+            -o-transform-origin: left center;
+            -webkit-transform-origin: left center;
+            top: 14px;
+            transform-origin: left center;
+        }
+    }
+}
+#nav-icon.open {
+    span {
+        &:nth-child(1) {
+            -moz-transform: rotate(45deg);
+            -o-transform: rotate(45deg);
+            -webkit-transform: rotate(45deg);
+            left: 8px;
+            top: -3px;
+            transform: rotate(45deg);
+        }
+        &:nth-child(2) {
+            opacity: 0;
+            width: 0%;
+        }
+        &:nth-child(3) {
+            -moz-transform: rotate(-45deg);
+            -o-transform: rotate(-45deg);
+            -webkit-transform: rotate(-45deg);
+            left: 8px;
+            top: 17px;
+            transform: rotate(-45deg);
+        }
+    }
+}
+
+

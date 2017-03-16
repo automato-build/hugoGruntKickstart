@@ -6,6 +6,7 @@ var $root = $('html, body');
 //     return false;
 // });
 var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
+var isMenuTransparent;
 
 window.onload = function() {
     //add scrollspy to activate menu on scroll
@@ -19,19 +20,13 @@ window.onload = function() {
 }
 
 
-/*$('#mainNav .navbar-toggle').click(function() {
-    $('.dropDown.menu').toggleClass("hidden");
-    $('#mainNav').toggleClass("expanded");
-    if ($('.dropDown.menu').css('display') == 'none') $('.dropDown.menu').fadeIn(400);
-    else $('.dropDown.menu').fadeOut(400);
-});*/
-
-
 $('#mainNav .navbar-toggle, #fullMenu').click(function(){
     var fm = $('#fullMenu');
     if(fm.is(':visible')){
-        $('#mainNav').removeClass("inverted");
-        $('#mainNav').removeClass("transparent");
+        if(!isMenuTransparent){
+            $('#mainNav').removeClass("inverted");
+            $('#mainNav').removeClass("transparent");
+        }
         $('#fullMenu').animate({
             opacity : 0.0
         }, 1000, function(){
@@ -46,6 +41,10 @@ $('#mainNav .navbar-toggle, #fullMenu').click(function(){
             opacity : 1.0
         }, 1000);
     }
+});
+
+$('#fullMenu').click(function(){
+    $('#nav-icon').removeClass('open');
 });
 
 $('.dropDown.menu').click(function() {
@@ -87,13 +86,19 @@ $('#hero').on('inview', function(event, isInView) {
     if (isInView) {
         $('#mainNav').addClass("inverted");
         $('#mainNav').addClass("transparent");
+        isMenuTransparent = true;
     } else {
         $('#mainNav').removeClass("inverted");
         $('#mainNav').removeClass("transparent");
+        isMenuTransparent = false;
     }
 });
 
 
+
+$('#nav-icon').click(function(){
+    $(this).toggleClass('open');
+});
 
 $(document).ready(function() {
     $('#gridGallery').lightGallery();
@@ -130,6 +135,11 @@ $(document).ready(function() {
 
     setInterval(resetBannerPosition, 2000);
 
+    if($('#mainNav').hasClass('transparent')) isMenuTransparent = true;
+    else isMenuTransparent = false;
+
+
+
 });
 
 
@@ -138,3 +148,4 @@ var resetBannerPosition=function(){
   $("#brutalistBanner").css('top',Math.random()*800);
   $("#brutalistBanner").css('left',Math.random()*800);
 }
+
