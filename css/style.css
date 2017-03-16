@@ -9145,16 +9145,26 @@ a:hover {
   color: #FF5050;
   font-weight: bold;
 }
-.fill {
-  height: 100%;
+@media (min-width: 64em) {
+  .fill {
+    height: 100%;
+  }
+}
+@media (min-width: 64em) and (min-width: 64em) {
+  .fill .middle {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
 }
 .cover {
   height: 100%;
 }
-.middle {
+.cover .middle {
+  position: relative;
   top: 50%;
   transform: translateY(-50%);
-  position: relative;
+  margin-left: 1em;
 }
 .responsive_images {
   width: 100%;
@@ -9297,22 +9307,9 @@ a:hover {
 #mainNav.inverted #nav-icon span {
   background: #fff;
 }
-#hero {
-  margin-bottom: 0;
-}
 #hero h1 {
+  color: #fff;
   font-size: 6em;
-  color: white;
-}
-@media (max-width: 64em) {
-  #hero h1 {
-    font-size: 6em;
-  }
-}
-@media (max-width: 48em) {
-  #hero h1 {
-    font-size: 3em;
-  }
 }
 #portfolio {
   margin-top: 8em;
@@ -9385,7 +9382,7 @@ a:hover {
   display: inline-block;
   height: 40px;
   padding-top: 6px;
-  margin: 0 10px;
+  margin: 0px 10px;
 }
 .dropDown.menu {
   background-color: #FF5050;
@@ -9551,7 +9548,7 @@ a:hover {
   height: 100vh;
   background-color: rgba(255, 0, 0, 0.7);
   position: fixed;
-  top: 0;
+  top: 0px;
   z-index: 9;
   opacity: 0;
   display: none;
