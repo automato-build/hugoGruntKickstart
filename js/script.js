@@ -99,7 +99,16 @@ $('#nav-icon').click(function(){
     $(this).toggleClass('open');
 });
 
+
+
+
 $(document).ready(function() {
+
+  var nav = document.getElementById('mainNav');
+  nav.addEventListener('touchmove', function(e) {
+          e.preventDefault();
+  }, false);
+
     $('#gridGallery').lightGallery();
 
     $(".flex-video").fitVids();

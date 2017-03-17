@@ -55,7 +55,7 @@ html {
 }
 
 body {
-    height: 100%;
+  height: 100%;
     overflow-x: hidden;
 }
 
@@ -220,46 +220,27 @@ a:hover {
     width: 100%;
     background-color: @white;
     .transition(all 0.2s);
-    padding-top: 50px;
     display: table;
 
     &.affix-top {
-        padding-top: 50px;
-
-        .navbar-header {
-            height: @navbar-height;
-        }
+        padding: 50px 0px;
     }
-
     &.affix {
-        padding-top: 30px;
-
-        .navbar-header {
-            height: 60px;
-        }
+        padding: 30px 0px;
     }
+
     @media @mq-small {
-        &.affix-top {
-            padding-top: 20px;
-            padding-bottom: 20px;
+         &.affix-top {
+             padding: 20px 0px;
+         }
+         &.affix {
+           padding: 10px 0px;
+           position: static;
 
-            .navbar-header {
-                height: 40px !important;
-            }
-        }
-
-        &.affix {
-            padding-top: 0;
-
-            .navbar-header {
-                padding-top: 12px;
-                height: 60px;
-            }
-        }
+         }
     }
 
     .navbar-header {
-        height: @navbar-height;
         text-align: right;
         width: 100%;
         .transition(all 0.2s);
@@ -298,7 +279,7 @@ a:hover {
 
     .navbar-toggle {
         float: right;
-        margin: 0;
+        margin: 5px 0px 0px 0px;
 
         .icon-bar {
             background-color: @black;
