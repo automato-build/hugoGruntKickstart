@@ -282,25 +282,22 @@
 
 &lt;p&gt;When it comes to discussion around the ethics of machines, the focus is often put on extreme examples (such as the above mentioned projects) where human life and death are involved. But what about more mundane and insignificant objects of our everyday lives? Soon, «smart» objects might also need to have moral capacities as “they know too much” about their surroundings to take a neutral stance.  If a « smart » coffee machine knows about its user’s heart problems, should it accept giving him a coffee when he requests one?&lt;/p&gt;
 
+&lt;p&gt;Even with such a banal situation, the level of complexity of such products cannot accommodate all parties. The system will be designed to take into account certain inputs, to process a &amp;lsquo;certain&amp;rsquo; type of information under a &amp;lsquo;certain&amp;rsquo; kind of logic&lt;/p&gt;
 
+&lt;p&gt;How are these “certainties” defined, and by whom? And, moreover, as the nature of ethics is very subjective, how will machines be able to deal with the variety of profiles, beliefs, and cultures?&lt;/p&gt;
 
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;img src=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;responsive_images&#34;/&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;The “Ethical Objects” project looks at how an object, facing everyday ethical dilemmas, can keep a dose of humanity in its final decision while staying flexible enough to accommodate various ethical beliefs.&lt;/p&gt;
 
+&lt;p&gt;In order to achieve that, our “ethical fan” connects to a crowd-sourcing website every time it faces an ethical dilemma. The fan is designed to let the user set various traits (such as religion, degree, sex, and age) as criterion to choose the worker who should respond to the dilemma, in order to assure that a part of the user’s culture and belief system is in line with the worker, or ethical agent.&lt;/p&gt;
 
-&lt;p&gt;Even with such a banal situation, the level of complexity of such products cannot accommodate all parties. The system will be designed to take into account certain inputs, to process a &amp;lsquo;certain&amp;rsquo; type of information under a &amp;lsquo;certain&amp;rsquo; kind of logic. How are these “certainties” defined, and by whom? And, moreover, as the nature of ethics is very subjective, how will machines be able to deal with the variety of profiles, beliefs, and cultures?
-The “Ethical Objects” project looks at how an object, facing everyday ethical dilemmas, can keep a dose of humanity in its final decision while staying flexible enough to accommodate various ethical beliefs.
-In order to achieve that, our “ethical fan” connects to a crowd-sourcing website every time it faces an ethical dilemma. The fan is designed to let the user set various traits (such as religion, degree, sex, and age) as criterion to choose the worker who should respond to the dilemma, in order to assure that a part of the user’s culture and belief system is in line with the worker, or ethical agent.&lt;/p&gt;
+&lt;p&gt;Process: &lt;a href=&#34;http://ethicalturks.tumblr.com&#34;&gt;http://ethicalturks.tumblr.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&#34;container offset&#34;&gt;
     &lt;div class=&#34;row&#34;&gt;
 
         
             &lt;div class=&#34;flex-video col-md-12&#34;&gt;
-                &lt;iframe src=&#34;//player.vimeo.com/video/49718712&#34; allowfullscreen&gt;&lt;/iframe&gt;
+                &lt;iframe src=&#34;//player.vimeo.com/video/116183361&#34; allowfullscreen&gt;&lt;/iframe&gt;
             &lt;/div&gt;
             
 
@@ -316,31 +313,39 @@ In order to achieve that, our “ethical fan” connects to a crowd-sourcing web
 
     
 
-        &lt;div id=&#34;gridGallery&#34;&gt;
+        &lt;div class=&#34;owl-carousel col-md-12&#34;&gt;
             
                 
                     
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/dress.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
+                        
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//side.jpg&#34;/&gt;
+                        
+                        
                     
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/dress.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
+                        
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//settingsFS.jpg&#34;/&gt;
+                        
+                        
                     
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/dress.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
+                        
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//settings.jpg&#34;/&gt;
+                        
+                        
                     
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/dress.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/dress.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
+                        
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//zoom.jpg&#34;/&gt;
+                        
+                        
+                    
+                        
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//graph.png&#34;/&gt;
+                        
+                        
                     
                 
             
         &lt;/div&gt;
-
-        
+    
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -353,93 +358,32 @@ In order to achieve that, our “ethical fan” connects to a crowd-sourcing web
       <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
       
       <guid>https://automato-build.github.io/website/portfolio/teach_algorithms/</guid>
-      <description>&lt;p&gt;Many car manufacturers are projecting that by 2025 most cars will operate on driveless systems. While it is valid to think that our roads will be safer as autonomous vehicles replace traditional cars, the unpredictability of real-life situations that involve the complexities of moral and ethical reasoning complicate this assumption.&lt;/p&gt;
+      <description>&lt;p&gt;We think about smart/learning objects as yet not finished entities that can evolve their behaviors by observing, reading and interpreting our habits. They train their algorithms based on deep learning or similar ways to constantly adapt and refine their decisions.&lt;/p&gt;
 
-&lt;p&gt;How can such systems be designed to accommodate the complicatedness of moral and ethical thought processes, especially when human lives are involved? Just like choosing the color of a car, ethics can become a commodified feature in autonomous vehicles that one can buy, change, and repurchase, depending on personal taste.&lt;/p&gt;
+&lt;p&gt;But What if things are not that good at learning after all without some help?&lt;/p&gt;
 
-&lt;p&gt;Three distinct algorithms have been created – each adhering to a specific ethical principle/behaviour set-up – and embedded into driverless virtual cars that are operating in a simulated environment, where these autonomous vehicles will be confronted with various ethical dilemmas.&lt;/p&gt;
+&lt;p&gt;What if in a near future, i could just get a person to train my products better as i do with pets?&lt;/p&gt;
 
+&lt;p&gt;Why having to deal with the initial problems and risk that it might even learn wrongly?&lt;/p&gt;
 
+&lt;p&gt;So, What if there would be an algorithm trainer?&lt;/p&gt;
 
+&lt;p&gt;Commissioned by &lt;a href=&#34;http://thingtank.org/&#34;&gt;ThingTank&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
-    
-
-        &lt;div class=&#34;owl-carousel col-md-12&#34;&gt;
-            
-                
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//pop1a.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//pop1a.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//pop6a.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//pop5a.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//pop8.jpg&#34;/&gt;
-                        
-                        
-                    
-                
-            
-                
-            
-        &lt;/div&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;
-
+&lt;p&gt;By &lt;a href=&#34;http://www.simonerebaudengo.com/#/teacher/&#34;&gt;Simone Rebaudengo&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
-    
-
-        &lt;div id=&#34;gridGallery&#34;&gt;
-            
-                
-            
-                
-                    
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/model-d.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/model-d.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/model-m.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/model-m.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/model-t.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/model-t.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                
-            
-        &lt;/div&gt;
+    &lt;div class=&#34;row&#34;&gt;
 
         
-  &lt;/div&gt;
+            &lt;div class=&#34;flex-video col-md-12&#34;&gt;
+                &lt;iframe src=&#34;//player.vimeo.com/video/125768041&#34; allowfullscreen&gt;&lt;/iframe&gt;
+            &lt;/div&gt;
+            
+
+    &lt;/div&gt;
 &lt;/div&gt;
-&lt;/p&gt;
+
 </description>
     </item>
     

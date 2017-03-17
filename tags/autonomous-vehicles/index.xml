@@ -20,54 +20,22 @@
 
 &lt;p&gt;Three distinct algorithms have been created – each adhering to a specific ethical principle/behaviour set-up – and embedded into driverless virtual cars that are operating in a simulated environment, where these autonomous vehicles will be confronted with various ethical dilemmas.&lt;/p&gt;
 
-
-
+&lt;p&gt;By &lt;a href=&#34;http://mchrbn.net/ethical-autonomous-vehicles/&#34;&gt;Matthieu Cherubini&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
 
-    
+        
+            &lt;div class=&#34;flex-video col-md-12&#34;&gt;
+                &lt;iframe src=&#34;//player.vimeo.com/video/194454704&#34; allowfullscreen&gt;&lt;/iframe&gt;
+            &lt;/div&gt;
+            
 
-        &lt;div class=&#34;owl-carousel col-md-12&#34;&gt;
-            
-                
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//pop1a.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//pop1a.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//pop6a.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//pop5a.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//pop8.jpg&#34;/&gt;
-                        
-                        
-                    
-                
-            
-                
-            
-        &lt;/div&gt;
-    
-  &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 
-&lt;p&gt;
+
 
 
 &lt;div class=&#34;container offset&#34;&gt;
@@ -78,19 +46,25 @@
         &lt;div id=&#34;gridGallery&#34;&gt;
             
                 
-            
-                
                     
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/model-d.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/model-d.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/HumanistBW_iB-01.png&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
+                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/HumanistBW_iB-01.png&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
                         &lt;/a&gt;
                     
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/model-m.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/model-m.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/ProtectorBW_iB-01.png&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
+                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/ProtectorBW_iB-01.png&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
                         &lt;/a&gt;
                     
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/model-t.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/model-t.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/CapitalistBW_iB-01.png&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
+                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/CapitalistBW_iB-01.png&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/Case-Study2B-01.png&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
+                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/Case-Study2B-01.png&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/Case-Study1B-01.png&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
+                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/Case-Study1B-01.png&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
                         &lt;/a&gt;
                     
                 
@@ -100,7 +74,7 @@
         
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;/p&gt;
+
 </description>
     </item>
     
