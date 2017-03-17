@@ -9722,6 +9722,13 @@ a:hover {
   font-size: 140px;
   color: #FF5050;
 }
+#error404 #footer {
+  position: fixed;
+  background-color: transparent;
+}
+#error404 #footer h3 {
+  color: #000000;
+}
 .glitchies-0,
 .glitchies-1,
 .glitchies-2 {
@@ -9897,11 +9904,4 @@ a:hover {
   100% {
     clip: rect(38px, 9999px, 49px, 0);
   }
-}
-#footer {
-  position: fixed;
-  background-color: transparent;
-}
-#footer h3 {
-  color: #000000;
 }

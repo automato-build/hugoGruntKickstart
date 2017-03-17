@@ -13,7 +13,6 @@ window.onload = function() {
     $('body').scrollspy({
         target: ".navbar"
     });
-    AOS.init();
     $('#heroCarousel').carousel({
         interval: 3000
     });
