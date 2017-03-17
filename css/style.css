@@ -9649,8 +9649,8 @@ a:hover {
 .glitchies-0:after,
 .glitchies-1:after,
 .glitchies-2:after {
-  animation: glitch-animation 5s infinite linear alternate-reverse;
-  background: black;
+  animation: glitch-animation 7s infinite linear alternate-reverse;
+  background: rgba(0, 0, 0, 0.5);
   clip: rect(0, 900px, 0, 0);
   color: white;
   content: attr(data-text);
@@ -9663,8 +9663,8 @@ a:hover {
 .glitchies-0:before,
 .glitchies-1:before,
 .glitchies-2:before {
-  animation: glitch-animation-2 7s infinite linear alternate-reverse;
-  background: black;
+  animation: glitch-animation-2 9s infinite linear alternate-reverse;
+  background: rgba(0, 0, 0, 0.5);
   clip: rect(0, 900px, 0, 0);
   color: white;
   content: attr(data-text);
@@ -9675,16 +9675,16 @@ a:hover {
   top: 0;
 }
 .glitchies-1:after {
-  animation: glitch-animation 3s infinite linear alternate-reverse;
+  animation: glitch-animation 5s infinite linear alternate-reverse;
 }
 .glitchies-2:after {
-  animation: glitch-animation 4s infinite linear alternate-reverse;
+  animation: glitch-animation 6s infinite linear alternate-reverse;
 }
 .glitchies-1:before {
-  animation: glitch-animation-2 4s infinite linear alternate-reverse;
+  animation: glitch-animation-2 7s infinite linear alternate-reverse;
 }
 .glitchies-2:before {
-  animation: glitch-animation-2 8s infinite linear alternate-reverse;
+  animation: glitch-animation-2 10s infinite linear alternate-reverse;
 }
 /* Expanded Animations */
 @keyframes glitch-animation {
