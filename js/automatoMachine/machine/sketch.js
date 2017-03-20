@@ -100,7 +100,7 @@ function draw() {
    //console.log(angle);
 
    var i;
-    if(keyDown("x"))
+    if(keyDown(32))
     {
     i=i+1
     var bullet = createSprite(bottle.position.x+30, bottle.position.y+10);

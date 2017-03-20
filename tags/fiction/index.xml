@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://automato-build.github.io/website/tags/fiction/index.xml</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://automato-build.github.io/website/tags/fiction/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>teacher of algorithms</title>
+      <link>https://automato-build.github.io/website/portfolio/teach_algorithms/</link>
+      <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
+      
+      <guid>https://automato-build.github.io/website/portfolio/teach_algorithms/</guid>
+      <description>
+
+&lt;p&gt;We think of smart/learning objects as yet not finished entities that can evolve their behaviors by observing, reading and interpreting our habits. They train their algorithms based on deep learning or similar ways to constantly adapt and refine their decisions.&lt;/p&gt;
+
+&lt;div class=&#34;container offset&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+
+        
+            &lt;div class=&#34;flex-video col-md-12&#34;&gt;
+                &lt;iframe src=&#34;//player.vimeo.com/video/125768041&#34; allowfullscreen&gt;&lt;/iframe&gt;
+            &lt;/div&gt;
+            
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;But what if things are not that good at learning after all without some help?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;What if in a near future, i could just get a person to train my products better as i do with pets?
+Why having to deal with the initial problems and risk that it might even learn wrongly?
+So, What if there would be an algorithm trainer?&lt;/p&gt;
+
+&lt;p&gt;Commissioned by &lt;a href=&#34;http://thingtank.org/&#34;&gt;ThingTank&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;more-props-from-the-teacher-s-school&#34;&gt;More props from the Teacher&amp;rsquo;s school&lt;/h2&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;container offset&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;img src=&#34;https://automato-build.github.io/website/img/studio.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;img src=&#34;https://automato-build.github.io/website/img/Training&amp;#43;dirt.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;img src=&#34;https://automato-build.github.io/website/img/punish.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;img src=&#34;https://automato-build.github.io/website/img/training.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;!-- By [Simone Rebaudengo](http://www.simonerebaudengo.com/#/teacher/) --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -15,7 +15,9 @@
       <pubDate>Wed, 25 Jan 2017 11:04:14 +0800</pubDate>
       
       <guid>https://automato-build.github.io/website/portfolio/trainning_cards/</guid>
-      <description>&lt;p&gt;Recently we hear a lot about Machine Learning, Deep Learning, and Neural Networks as being a revolutionary way for computers and machines in general to sense and recognize the world around them. Security cameras, home robots and other “intelligent” machines will have to recognize not only us but objects, pets and other inhabitants of our life with a training process that is hidden and done digitally through a generic set of images gathered from the web.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Recently we hear a lot about Machine Learning, Deep Learning, and Neural Networks as being a revolutionary way for computers and machines in general to sense and recognize the world around them. Security cameras, home robots and other “intelligent” machines will have to recognize not only us but objects, pets and other inhabitants of our life with a training process that is hidden and done digitally through a generic set of images gathered from the web.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;But how much does it take for a “machine” to learn something?&lt;/em&gt;&lt;/p&gt;
 
@@ -30,6 +32,8 @@
 &lt;p&gt;The Basic set &lt;strong&gt;001 #dog&lt;/strong&gt; is sold for only &lt;strong&gt;5000$&lt;/strong&gt; , but we can create custom TraiNNing Cards sets for any objects you wish your home robot or camera to recognize. We will personally curate the imagery for you and produce a set with our local machine-lovers producers here in China.&lt;/p&gt;
 
 &lt;p&gt;We will ship to you globally, &lt;a href=&#34;mailto:hi@automato.farm&#34;&gt;contact us to get your first set!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-product&#34;&gt;The product&lt;/h2&gt;
 
 
 
@@ -89,6 +93,8 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
+
+&lt;h2 id=&#34;how-it-works&#34;&gt;How it works&lt;/h2&gt;
 
 
 
@@ -156,15 +162,19 @@
       <pubDate>Fri, 25 Nov 2016 11:04:14 +0800</pubDate>
       
       <guid>https://automato-build.github.io/website/portfolio/chips_and_tails/</guid>
-      <description>&lt;p&gt;With objects that learn about our homes and environments or need to be taught about routines and habits, the way we interact with devices and machines will more and more start to look like the one we have with pets.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;With objects that learn about our homes and environments or need to be taught about routines and habits, the way we interact with devices and machines will more and more start to look like the one we have with pets.&lt;/p&gt;
 
 &lt;p&gt;The relationship we have with Roombas, drones, cameras and thermostats might become closer to the one we have with dogs, cats, and birds. What products and services could be sold in a shop where pets are not only animals?&lt;/p&gt;
 
 &lt;p&gt;Chips &amp;amp; Tails is a near future pop-up store where people can buy toys, treats, medicines and services for their non-animal pets.  Through a workshop with 20 artists, designers, writers, veterinaries and dog lovers we imagined, prototyped and packaged over 40 products and services.&lt;/p&gt;
 
-&lt;p&gt;This project’s format is inspired by &lt;a href=&#34;http://www.extrapolationfactory.com/99-FUTURES&#34;&gt;99c futures&lt;/a&gt; by The Extrapolation Factory.&lt;/p&gt;
+&lt;p&gt;This project’s format is inspired by &lt;a href=&#34;http://www.extrapolationfactory.com/99-FUTURES&#34;&gt;99c futures&lt;/a&gt; by The Extrapolation Factory and is a continuation of the work of the &lt;a href=&#34;https://vimeo.com/125768041&#34;&gt;Teacher of algorithms&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Posters made by &lt;a href=&#34;https://dribbble.com/henryhu&#34;&gt;Henry Hu&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Posters made by [Henry Hu](https://dribbble.com/henryhu) --&gt;
+
+&lt;h2 id=&#34;the-products&#34;&gt;The products&lt;/h2&gt;
 
 
 
@@ -271,27 +281,12 @@
                         
                     
                         
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//front.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
                             &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//hi.jpg&#34;/&gt;
                         
                         
                     
                         
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//packaging.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
                             &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//pay.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//wshop.jpg&#34;/&gt;
                         
                         
                     
@@ -307,7 +302,7 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;p&gt;
+&lt;!-- 
 
 
 &lt;div class=&#34;container offset&#34;&gt;
@@ -364,7 +359,9 @@
         
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;/p&gt;
+ --&gt;
+
+&lt;h2 id=&#34;the-service-offerings&#34;&gt;The service offerings&lt;/h2&gt;
 
 &lt;p&gt;
 
@@ -420,7 +417,9 @@
       <pubDate>Mon, 25 Jan 2016 11:04:14 +0800</pubDate>
       
       <guid>https://automato-build.github.io/website/portfolio/politics_of_power/</guid>
-      <description>&lt;p&gt;With a growing number of networked and autonomous objects as well as the outbreak of fields such as « the IoT », communication protocols used by connected products are increasingly important as they act as the network’s backbone.
+      <description>
+
+&lt;p&gt;With a growing number of networked and autonomous objects as well as the outbreak of fields such as « the IoT », communication protocols used by connected products are increasingly important as they act as the network’s backbone.
 Since the end product is « black-boxed » to the user, we often assume that all nodes of a network are equal.
 But is it?&lt;/p&gt;
 
@@ -444,6 +443,8 @@ Three multi-plugs – Model D, M and T – are designed to look and behave based
 &lt;/div&gt;
 
 
+&lt;h2 id=&#34;the-products&#34;&gt;The products&lt;/h2&gt;
+
 
 
 
@@ -458,11 +459,6 @@ Three multi-plugs – Model D, M and T – are designed to look and behave based
                     
                         
                             &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//pop1a.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//technic.jpg&#34;/&gt;
                         
                         
                     
@@ -487,6 +483,17 @@ Three multi-plugs – Model D, M and T – are designed to look and behave based
             
         &lt;/div&gt;
     
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;how-it-works&#34;&gt;How it works&lt;/h2&gt;
+
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;img src=&#34;https://automato-build.github.io/website/img/technic.jpg&#34; class=&#34;responsive_images&#34;/&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -525,6 +532,8 @@ Three multi-plugs – Model D, M and T – are designed to look and behave based
   &lt;/div&gt;
 &lt;/div&gt;
 
+
+&lt;h2 id=&#34;plugs-constitutions&#34;&gt;Plugs Constitutions&lt;/h2&gt;
 
 &lt;div class=&#39;code-tabs&#39;&gt;
   &lt;ul class=&#34;nav nav-tabs&#34;&gt;&lt;/ul&gt;
@@ -827,7 +836,9 @@ destroy(Egalitarian_Constitution()) Authoritarian_Constitution()
       <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
       
       <guid>https://automato-build.github.io/website/portfolio/ethical_Thing/</guid>
-      <description>&lt;p&gt;Due to fast-developing technology and its endless promises, autonomous systems are heading increasingly towards complex algorithms aimed at solving situations requiring some form of moral reasoning. Autonomous vehicles and lethal battlefield robots are good examples of such products due to the tremendous complexity of their tasks that they must carry out.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Due to fast-developing technology and its endless promises, autonomous systems are heading increasingly towards complex algorithms aimed at solving situations requiring some form of moral reasoning. Autonomous vehicles and lethal battlefield robots are good examples of such products due to the tremendous complexity of their tasks that they must carry out.&lt;/p&gt;
 
 &lt;p&gt;When it comes to discussion around the ethics of machines, the focus is often put on extreme examples (such as the above mentioned projects) where human life and death are involved. But what about more mundane and insignificant objects of our everyday lives? Soon, «smart» objects might also need to have moral capacities as “they know too much” about their surroundings to take a neutral stance.  If a « smart » coffee machine knows about its user’s heart problems, should it accept giving him a coffee when he requests one?&lt;/p&gt;
 
@@ -853,6 +864,8 @@ destroy(Egalitarian_Constitution()) Authoritarian_Constitution()
     &lt;/div&gt;
 &lt;/div&gt;
 
+
+&lt;h2 id=&#34;the-product&#34;&gt;The product&lt;/h2&gt;
 
 
 
@@ -886,15 +899,21 @@ destroy(Egalitarian_Constitution()) Authoritarian_Constitution()
                         
                         
                     
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//graph.png&#34;/&gt;
-                        
-                        
-                    
                 
             
         &lt;/div&gt;
     
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;the-system&#34;&gt;The system&lt;/h2&gt;
+
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;img src=&#34;https://automato-build.github.io/website/img/graph.png&#34; class=&#34;responsive_images&#34;/&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -907,19 +926,9 @@ destroy(Egalitarian_Constitution()) Authoritarian_Constitution()
       <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
       
       <guid>https://automato-build.github.io/website/portfolio/teach_algorithms/</guid>
-      <description>&lt;p&gt;We think about smart/learning objects as yet not finished entities that can evolve their behaviors by observing, reading and interpreting our habits. They train their algorithms based on deep learning or similar ways to constantly adapt and refine their decisions.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;But What if things are not that good at learning after all without some help?&lt;/p&gt;
-
-&lt;p&gt;What if in a near future, i could just get a person to train my products better as i do with pets?&lt;/p&gt;
-
-&lt;p&gt;Why having to deal with the initial problems and risk that it might even learn wrongly?&lt;/p&gt;
-
-&lt;p&gt;So, What if there would be an algorithm trainer?&lt;/p&gt;
-
-&lt;p&gt;Commissioned by &lt;a href=&#34;http://thingtank.org/&#34;&gt;ThingTank&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;By &lt;a href=&#34;http://www.simonerebaudengo.com/#/teacher/&#34;&gt;Simone Rebaudengo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We think of smart/learning objects as yet not finished entities that can evolve their behaviors by observing, reading and interpreting our habits. They train their algorithms based on deep learning or similar ways to constantly adapt and refine their decisions.&lt;/p&gt;
 
 &lt;div class=&#34;container offset&#34;&gt;
     &lt;div class=&#34;row&#34;&gt;
@@ -933,6 +942,51 @@ destroy(Egalitarian_Constitution()) Authoritarian_Constitution()
     &lt;/div&gt;
 &lt;/div&gt;
 
+
+&lt;p&gt;&lt;strong&gt;But what if things are not that good at learning after all without some help?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;What if in a near future, i could just get a person to train my products better as i do with pets?
+Why having to deal with the initial problems and risk that it might even learn wrongly?
+So, What if there would be an algorithm trainer?&lt;/p&gt;
+
+&lt;p&gt;Commissioned by &lt;a href=&#34;http://thingtank.org/&#34;&gt;ThingTank&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;more-props-from-the-teacher-s-school&#34;&gt;More props from the Teacher&amp;rsquo;s school&lt;/h2&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;container offset&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;img src=&#34;https://automato-build.github.io/website/img/studio.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;img src=&#34;https://automato-build.github.io/website/img/Training&amp;#43;dirt.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;img src=&#34;https://automato-build.github.io/website/img/punish.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;img src=&#34;https://automato-build.github.io/website/img/training.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;!-- By [Simone Rebaudengo](http://www.simonerebaudengo.com/#/teacher/) --&gt;
 </description>
     </item>
     
@@ -942,7 +996,9 @@ destroy(Egalitarian_Constitution()) Authoritarian_Constitution()
       <pubDate>Sat, 25 Oct 2014 11:04:14 +0800</pubDate>
       
       <guid>https://automato-build.github.io/website/portfolio/ethical_autonomous_vehicles/</guid>
-      <description>&lt;p&gt;Many car manufacturers are projecting that by 2025 most cars will operate on driveless systems. While it is valid to think that our roads will be safer as autonomous vehicles replace traditional cars, the unpredictability of real-life situations that involve the complexities of moral and ethical reasoning complicate this assumption.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Many car manufacturers are projecting that by 2025 most cars will operate on driveless systems. While it is valid to think that our roads will be safer as autonomous vehicles replace traditional cars, the unpredictability of real-life situations that involve the complexities of moral and ethical reasoning complicate this assumption.&lt;/p&gt;
 
 &lt;p&gt;How can such systems be designed to accommodate the complicatedness of moral and ethical thought processes, especially when human lives are involved? Just like choosing the color of a car, ethics can become a commodified feature in autonomous vehicles that one can buy, change, and repurchase, depending on personal taste.&lt;/p&gt;
 
@@ -962,6 +1018,8 @@ destroy(Egalitarian_Constitution()) Authoritarian_Constitution()
     &lt;/div&gt;
 &lt;/div&gt;
 
+
+&lt;h2 id=&#34;how-it-works&#34;&gt;How it works&lt;/h2&gt;
 
 
 
