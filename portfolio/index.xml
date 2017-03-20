@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on My New Hugo Site</title>
+    <title>Portfolio-rsses on My New Hugo Site</title>
     <link>https://automato-build.github.io/website/portfolio/index.xml</link>
-    <description>Recent content in Portfolios on My New Hugo Site</description>
+    <description>Recent content in Portfolio-rsses on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Jan 2017 11:04:14 +0800</lastBuildDate>

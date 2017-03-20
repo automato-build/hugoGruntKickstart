@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://automato-build.github.io/website/</loc>
+    <lastmod>2017-03-20T14:19:11+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://automato-build.github.io/website/experiments/vitra/</loc>
     <lastmod>2017-03-20T14:19:11+08:00</lastmod>
   </url>
@@ -54,89 +59,6 @@
   <url>
     <loc>https://automato-build.github.io/website/portfolio/ethical_autonomous_vehicles/</loc>
     <lastmod>2014-10-25T11:04:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/tags/algorithms/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/tags/autonomous-vehicles/</loc>
-    <lastmod>2014-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/tags/ethics/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/experiments/</loc>
-    <lastmod>2017-03-20T14:19:11+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/tags/fiction/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/tags/iot/</loc>
-    <lastmod>2016-11-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/tags/machine-biases/</loc>
-    <lastmod>2016-01-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/tags/machine-learning/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/tags/mturks/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/</loc>
-    <lastmod>2017-03-20T14:19:11+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/tags/neural-networks/</loc>
-    <lastmod>2017-01-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/portfolio/</loc>
-    <lastmod>2017-01-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/tags/real/fictional/</loc>
-    <lastmod>2016-01-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://automato-build.github.io/website/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
