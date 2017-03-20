@@ -9088,6 +9088,12 @@ button.close {
   font-weight: normal;
   font-style: normal;
 }
+::-moz-selection {
+  background: #eb1c24;
+}
+::selection {
+  background: #eb1c24;
+}
 html {
   height: 100%;
   width: 100%;
