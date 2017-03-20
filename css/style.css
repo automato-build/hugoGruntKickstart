@@ -9426,10 +9426,8 @@ a:hover {
 }
 #single-page .columns {
   column-count: 2;
-  padding: 0px;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  background-color: #fff;
+  padding: 20px;
+  background-color: #eeeeee;
 }
 #single-project #project-header .bg-img {
   min-height: 600px;
