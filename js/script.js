@@ -19,30 +19,29 @@ window.onload = function() {
 }
 
 
-$('#mainNav .navbar-toggle, #fullMenu').click(function(){
+$('#mainNav .navbar-toggle, #fullMenu').click(function() {
     var fm = $('#fullMenu');
-    if(fm.is(':visible')){
-        if(!isMenuTransparent){
+    if (fm.is(':visible')) {
+        if (!isMenuTransparent) {
             $('#mainNav').removeClass("inverted");
             $('#mainNav').removeClass("transparent");
         }
         $('#fullMenu').animate({
-            opacity : 0.0
-        }, 1000, function(){
+            opacity: 0.0
+        }, 1000, function() {
             $('#fullMenu').hide();
         });
-    }
-    else{
+    } else {
         $('#mainNav').addClass("inverted");
         $('#mainNav').addClass("transparent");
         $('#fullMenu').show();
         $('#fullMenu').animate({
-            opacity : 1.0
+            opacity: 1.0
         }, 1000);
     }
 });
 
-$('#fullMenu').click(function(){
+$('#fullMenu').click(function() {
     $('#nav-icon').removeClass('open');
 });
 
@@ -95,27 +94,50 @@ $('#hero').on('inview', function(event, isInView) {
 
 
 
-$('#nav-icon').click(function(){
+$('#nav-icon').click(function() {
     $(this).toggleClass('open');
 });
 
 
 
 
+
+// jQuery
+
+
+
+
+
 $(document).ready(function() {
 
-  var nav = document.getElementById('mainNav');
-  nav.addEventListener('touchmove', function(e) {
-          e.preventDefault();
-  }, false);
+    var nav = document.getElementById('mainNav');
+    nav.addEventListener('touchmove', function(e) {
+        e.preventDefault();
+    }, false);
 
     $('#gridGallery').lightGallery();
 
     $(".flex-video").fitVids();
 
-    $('.masonryGrid').masonry({
-      itemSelector: '.grid-item',
+    $('.masonryGrid').imagesLoaded(function() {
+
+        console.log("images loaded");
+
+        var $masonryGrid=$('.masonryGrid').masonry({
+            itemSelector: '.grid-item'
+        });
+
+        $masonryGrid.on( 'layoutComplete', function(){
+          console.log('layout done');
+        } );
+
+        // $masonryGrid.off( 'layoutComplete', onLayout );
+        // // bind event listener to be triggered just once. note ONE not ON
+        // $masonryGrid.one( 'layoutComplete', function() {
+        //   console.log('layout done, just this one time');
+        // });
     });
+
 
     $("img.lazy").lazyload({
         threshold: 200,
@@ -137,13 +159,23 @@ $(document).ready(function() {
 
     /* BAFFLE */
     /* Animation speed value can be increased or decreased. Same with duration */
-    let b = baffle('.baffle', { characters: '█▓▒░🤖', speed: 150 }).reveal(2500); /* Runs animation only once, upon page load */
-    let bl = baffle('.baffle-longer', { characters: '█▓▒░🤖', speed: 150, duration: 3000 }).reveal(2500); /* Animation duration set to 3 seconds */
-    let bf = baffle('.baffle-forever', {characters: '█▓▒░🤖', speed: 150}).start(); /* Animation continues on an endless loop */
+    let b = baffle('.baffle', {
+        characters: '█▓▒░🤖',
+        speed: 150
+    }).reveal(2500); /* Runs animation only once, upon page load */
+    let bl = baffle('.baffle-longer', {
+        characters: '█▓▒░🤖',
+        speed: 150,
+        duration: 3000
+    }).reveal(2500); /* Animation duration set to 3 seconds */
+    let bf = baffle('.baffle-forever', {
+        characters: '█▓▒░🤖',
+        speed: 150
+    }).start(); /* Animation continues on an endless loop */
 
     setInterval(resetBannerPosition, 2000);
 
-    if($('#mainNav').hasClass('transparent')) isMenuTransparent = true;
+    if ($('#mainNav').hasClass('transparent')) isMenuTransparent = true;
     else isMenuTransparent = false;
 
 
@@ -152,7 +184,7 @@ $(document).ready(function() {
 
 
 
-var resetBannerPosition=function(){
-  $("#brutalistBanner").css('top',Math.random()*800);
-  $("#brutalistBanner").css('left',Math.random()*800);
+var resetBannerPosition = function() {
+    $("#brutalistBanner").css('top', Math.random() * 800);
+    $("#brutalistBanner").css('left', Math.random() * 800);
 }
