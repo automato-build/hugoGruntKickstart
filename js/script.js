@@ -153,18 +153,28 @@ $(document).ready(function() {
         effect: "fadeIn"
     });
 
-    var mycarousel = $('.owl-carousel').owlCarousel({
+    // var mycarousel = $('.owl-carousel').owlCarousel({
+    //     center: true,
+    //     items: 1,
+    //     loop: true,
+    //     nav: true,
+    //     lazyLoad: true,
+    //     navText: [
+    //         "<i class='fa fa-chevron-left fa-2x' aria-hidden='true'></i>",
+    //         "<i class='fa fa-chevron-right fa-2x' aria-hidden='true'></i>"
+    //     ],
+    // });
+
+    var herocarousel = $('#hero .owl-carousel').owlCarousel({
         center: true,
         items: 1,
         loop: true,
-        nav: true,
-        lazyLoad: true,
-        navText: [
-            "<i class='fa fa-chevron-left fa-2x' aria-hidden='true'></i>",
-            "<i class='fa fa-chevron-right fa-2x' aria-hidden='true'></i>"
-        ],
+        nav: false,
+        lazyLoad: false,
+        animateOut: 'fadeOut',
+        autoplay:true,
+        autoplayTimeout:5000
     });
-
 
     /* BAFFLE */
     /* Animation speed value can be increased or decreased. Same with duration */

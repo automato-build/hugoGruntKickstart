@@ -59,7 +59,7 @@ html {
 }
 
 body {
-  height: 100%;
+    height: 100%;
     overflow-x: hidden;
 }
 
@@ -226,21 +226,21 @@ a:hover {
     display: table;
 
     &.affix-top {
-        padding: 50px 0px;
+        padding: 50px 0;
     }
+
     &.affix {
-        padding: 30px 0px;
+        padding: 30px 0;
     }
-
     @media @mq-small {
-         &.affix-top {
-             padding: 20px 0px;
-         }
-         &.affix {
-           padding: 10px 0px;
-           position: static;
+        &.affix-top {
+            padding: 20px 0;
+        }
 
-         }
+        &.affix {
+            padding: 10px 0;
+            position: static;
+        }
     }
 
     .navbar-header {
@@ -282,7 +282,7 @@ a:hover {
 
     .navbar-toggle {
         float: right;
-        margin: 5px 0px 0px 0px;
+        margin: 5px 0 0;
 
         .icon-bar {
             background-color: @black;
@@ -312,6 +312,34 @@ a:hover {
 #hero {
     margin-bottom: 0;
     background-position: center;
+
+    .owl-carousel.owl-loaded {
+        position: fixed;
+        height: 100%;
+        width: 100%;
+
+        .owl-stage-outer {
+            height: 100%;
+
+            .owl-stage {
+                height: 100%;
+
+                .owl-item {
+                    height: 100%;
+
+                    .owl-slide {
+                        background-size: cover;
+                        background-position: center;
+                    }
+                }
+            }
+        }
+    }
+
+    .container{
+      position: relative;
+      z-index: 100;
+    }
 
     h1 {
         font-size: 6em;
@@ -741,6 +769,7 @@ a:hover {
             color: @red;
         }
     }
+
     #footer {
         position: fixed;
         background-color: transparent;

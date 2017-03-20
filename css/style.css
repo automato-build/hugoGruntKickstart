@@ -9088,12 +9088,6 @@ button.close {
   font-weight: normal;
   font-style: normal;
 }
-::-moz-selection {
-  background: #eb1c24;
-}
-::selection {
-  background: #eb1c24;
-}
 html {
   height: 100%;
   width: 100%;
@@ -9250,17 +9244,17 @@ a:hover {
   display: table;
 }
 #mainNav.affix-top {
-  padding: 50px 0px;
+  padding: 50px 0;
 }
 #mainNav.affix {
-  padding: 30px 0px;
+  padding: 30px 0;
 }
 @media (max-width: 48em) {
   #mainNav.affix-top {
-    padding: 20px 0px;
+    padding: 20px 0;
   }
   #mainNav.affix {
-    padding: 10px 0px;
+    padding: 10px 0;
     position: static;
   }
 }
@@ -9302,7 +9296,7 @@ a:hover {
 }
 #mainNav .navbar-toggle {
   float: right;
-  margin: 5px 0px 0px 0px;
+  margin: 5px 0 0;
 }
 #mainNav .navbar-toggle .icon-bar {
   background-color: #000000;
@@ -9323,6 +9317,28 @@ a:hover {
 #hero {
   margin-bottom: 0;
   background-position: center;
+}
+#hero .owl-carousel.owl-loaded {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
+#hero .owl-carousel.owl-loaded .owl-stage-outer {
+  height: 100%;
+}
+#hero .owl-carousel.owl-loaded .owl-stage-outer .owl-stage {
+  height: 100%;
+}
+#hero .owl-carousel.owl-loaded .owl-stage-outer .owl-stage .owl-item {
+  height: 100%;
+}
+#hero .owl-carousel.owl-loaded .owl-stage-outer .owl-stage .owl-item .owl-slide {
+  background-size: cover;
+  background-position: center;
+}
+#hero .container {
+  position: relative;
+  z-index: 100;
 }
 #hero h1 {
   font-size: 6em;
@@ -9432,10 +9448,8 @@ a:hover {
 }
 #single-page .columns {
   column-count: 2;
-  padding: 0px;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  background-color: #fff;
+  padding: 20px;
+  background-color: #eeeeee;
 }
 #single-project #project-header .bg-img {
   min-height: 600px;
