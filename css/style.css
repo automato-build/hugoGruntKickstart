@@ -9088,6 +9088,12 @@ button.close {
   font-weight: normal;
   font-style: normal;
 }
+::-moz-selection {
+  background: #eb1c24;
+}
+::selection {
+  background: #eb1c24;
+}
 html {
   height: 100%;
   width: 100%;
@@ -9231,7 +9237,7 @@ a:hover {
   margin-bottom: 1em;
 }
 #mainNav {
-  z-index: 20;
+  z-index: 100;
   position: fixed;
   top: 0;
   width: 100%;
@@ -9338,7 +9344,7 @@ a:hover {
 }
 #hero .container {
   position: relative;
-  z-index: 100;
+  z-index: 1;
 }
 #hero h1 {
   font-size: 6em;
@@ -9448,8 +9454,10 @@ a:hover {
 }
 #single-page .columns {
   column-count: 2;
-  padding: 20px;
-  background-color: #eeeeee;
+  padding: 0px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #fff;
 }
 #single-project #project-header .bg-img {
   min-height: 600px;
