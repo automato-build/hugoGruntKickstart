@@ -9798,6 +9798,22 @@ a:hover {
     margin-top: 0px;
   }
 }
+#experiments .hero,
+#single-page .hero {
+  min-height: 100px;
+  margin-bottom: 3em;
+}
+#experiments .hero h1,
+#single-page .hero h1 {
+  font-size: 2.5em;
+  text-align: left;
+  vertical-align: middle;
+  line-height: 1.5;
+}
+#experiments .hero h1 strong,
+#single-page .hero h1 strong {
+  background-color: #FF5050;
+}
 #error404 .error_message {
   width: 100%;
   height: 100%;

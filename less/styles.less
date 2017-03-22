@@ -8,6 +8,7 @@
 @white: #fff;
 @rat: #9B928C;
 @red: #FF5050;
+@dark-red: rgb(235,28,36);
 @black: #000000; // Font-Size
 @base-font-size: 1em; // Line-Height
 @base-line-height: 1.5;
@@ -33,11 +34,11 @@
 }
 
 ::-moz-selection {
-    background: rgb(235,28,36);
+    background: @dark-red
 }
 
 ::selection {
-    background: rgb(235,28,36);
+    background: @dark-red
 }
 
 .transition (@transition) {
@@ -843,6 +844,23 @@ a:hover {
     @media @mq-small {
         margin-top: 0px;
     }
+}
+
+#experiments,#single-page{
+  .hero{
+    min-height: 100px;
+    margin-bottom: 3em;
+    h1{
+      font-size: 2.5em;
+      text-align: left;
+      vertical-align: middle;
+      line-height: 1.5;
+
+      strong{
+        background-color: @red;
+      }
+    }
+  }
 }
 
 #error404 {
