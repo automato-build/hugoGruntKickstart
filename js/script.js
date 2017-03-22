@@ -41,6 +41,13 @@ $('#mainNav .navbar-toggle, #fullMenu').click(function() {
     }
 });
 
+$("#single-project #project-header .title h1").boxfit(
+  {
+  multiline: true,
+  align_center:false
+  }
+);
+
 $('#fullMenu').click(function() {
     $('#nav-icon').removeClass('open');
 });
@@ -144,7 +151,9 @@ $(document).ready(function() {
     $('.masonryGrid').imagesLoaded(function() {
 
         var $masonryGrid=$('.masonryGrid').masonry({
-            itemSelector: '.grid-item'
+            itemSelector: '.grid-item',
+            columnWidth: '.grid-sizer',
+            percentPosition: true
         });
     });
 

@@ -32,9 +32,13 @@
     font-style: normal;
 }
 
-::-moz-selection { background: rgb(235,28,36);}
-::selection { background: rgb(235,28,36); }
+::-moz-selection {
+    background: rgb(235,28,36);
+}
 
+::selection {
+    background: rgb(235,28,36);
+}
 
 .transition (@transition) {
     -webkit-transition: @transition;
@@ -141,7 +145,6 @@ a:hover {
 .container.offset {
     margin-left: -15px;
     margin-right: -15px;
-
 }
 
 .page-list {
@@ -207,16 +210,8 @@ a:hover {
     background-size: cover;
 }
 
-.overlay-title {
-    position: absolute;
-    left: 3em;
-    text-align: left;
-    top: 1em;
 
-    .title {
-        margin-bottom: 1em;
-    }
-}
+
 
 #mainNav {
     z-index: 100;
@@ -234,15 +229,29 @@ a:hover {
     &.affix {
         padding: 30px 0;
     }
-    @media @mq-small {
-        &.affix-top {
-            padding: 20px 0;
-        }
 
-        &.affix {
-            padding: 10px 0;
-            position: static;
-        }
+    &.home{
+      @media @mq-small {
+          &.affix-top {
+              padding: 20px 0;
+          }
+          &.affix {
+              padding: 10px 0;
+          }
+      }
+    }
+
+    &:not(.home){
+      @media @mq-small {
+          &.affix-top {
+              padding: 20px 0;
+              position: relative !important;
+          }
+          &.affix {
+              padding: 10px 0;
+              position: relative !important;
+          }
+      }
     }
 
     .navbar-header {
@@ -293,6 +302,7 @@ a:hover {
 
     &.transparent {
         background-color: transparent;
+
     }
 
     &.inverted {
@@ -338,9 +348,9 @@ a:hover {
         }
     }
 
-    .container{
-      position: relative;
-      z-index: 1;
+    .container {
+        position: relative;
+        z-index: 1;
     }
 
     h1 {
@@ -414,12 +424,13 @@ a:hover {
 }
 
 #footer {
-    background-color: @black;
-    text-align: center;
-    bottom: 0;
-    width: 100%;
-    margin-bottom: 0;
-    height: 140px;
+  background-color: #000000;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  margin-bottom: 0;
+  min-height: 140px;
+  padding: 20px 0px;
 
     h3,
     h4 {
@@ -428,13 +439,22 @@ a:hover {
 
     .social-links {
         a {
-            width: 40px;
-            border: 1px solid #FF5050;
+            width: 44px;
+            border: 1px solid #fff;
             border-radius: 25px;
             display: inline-block;
-            height: 40px;
-            padding-top: 6px;
+            height: 44px;
+            padding-top: 7px;
             margin: 0 10px;
+            color: #fff;
+            text-align: center;
+            vertical-align: middle;
+            .transition(all 0.5s);
+
+            &:hover {
+                border: 1px solid @red;
+                color: @red;
+            }
         }
     }
 }
@@ -463,15 +483,20 @@ a:hover {
 }
 
 #single-page {
-    margin-top: 140px;
+    //margin-top: 140px;
 
     .columns {
         column-count: 2;
-        padding: 0px;
+        padding: 0;
         margin-top: 50px;
         margin-bottom: 50px;
         background-color: @white;
+
+        @media @mq-small{
+          column-count: 1;
+        }
     }
+
 }
 
 #single-project {
@@ -485,6 +510,8 @@ a:hover {
         }
 
         .title {
+            height: 100%;
+
             h1 {
                 /* POLITICS OF POWER: */
                 font-family: AlphaHeadlinePro-Bold;
@@ -493,8 +520,15 @@ a:hover {
                 letter-spacing: 0;
                 text-transform: uppercase;
                 mix-blend-mode: difference;
+                max-height: 350px;
+                display: block;
+
+                span {
+                    text-align: left;
+                }
                 @media @mq-small {
-                    font-size: 60px;
+                    //font-size: 60px;
+                    height: 100%;
                 }
 
                 a {
@@ -621,21 +655,69 @@ a:hover {
 
         .box-container {
             display: block;
+            position: relative;
 
             .text-bg {}
+            // .image-box {
+            //     background-color: @white;
+            //     .transition (all 0.5s);
+            //
+            //     // img {
+            //     //     &:hover {
+            //     //         mix-blend-mode: difference;
+            //     //     }
+            //     // }
+            //
+            //     // &:hover {
+            //     // //    background-color: @red;
+            //     // }
+            // }
+            .overlay-title {
+                position: absolute;
+                text-align: left;
+                width: 100%;
+                height: 100%;
+                background-color: transparent;
+                top: 0;
+                left: 0;
+                margin: 0;
+                padding: 20px;
+                background-color: transparent;
+                .transition(all .5s);
+                &:hover{
+                  background-color: rgba(255, 0, 0, 0.7);
+                  mix-blend-mode: difference;
+                }
+                .title {
+                    color: @white;
+                    font-family: 'AlphaHeadlinePro-Bold';
+                    font-size: 2.5em;
+                    text-transform: uppercase;
 
-            .image-box {
-                background-color: @white;
-                .transition (all 0.5s);
-
-                img {
-                    &:hover {
-                        mix-blend-mode: difference;
+                    @media @mq-small{
+                      font-size: 1.5em;
                     }
                 }
+                .subtitle {
+                    margin-top: 1em;
+                    color: @white;
+                    font-family: 'Lusitana', serif;
+                    font-size: 1.5em;
+                    font-weight: 100;
 
-                &:hover {
-                    background-color: @red;
+                    &:hover{
+                      font-weight: 100;
+                    }
+                    @media @mq-small{
+                      font-size: 1em;
+                    }
+                }
+                .fa-arrow-right{
+                  color: white;
+                  position: absolute;
+                  bottom: 0px;
+                  right: 0px;
+                  padding: 20px;
                 }
             }
         }
@@ -648,8 +730,9 @@ a:hover {
     left: 0;
     z-index: 200;
     background-color: white;
-    border: 2px solid blue;
-    max-width: 100px;
+    border: 0 solid red;
+    max-width: 150px;
+    text-align: center;
 
     h1 {
         font-family: monospace;
@@ -753,7 +836,7 @@ a:hover {
 .scrolling-content {
     margin-top: @navbar-height+50;
     @media @mq-small {
-        margin-top: 60px;
+        margin-top: 0px;
     }
 }
 

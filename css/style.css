@@ -9228,15 +9228,6 @@ a:hover {
 .bg-img {
   background-size: cover;
 }
-.overlay-title {
-  position: absolute;
-  left: 3em;
-  text-align: left;
-  top: 1em;
-}
-.overlay-title .title {
-  margin-bottom: 1em;
-}
 #mainNav {
   z-index: 100;
   position: fixed;
@@ -9257,12 +9248,21 @@ a:hover {
   padding: 30px 0;
 }
 @media (max-width: 48em) {
-  #mainNav.affix-top {
+  #mainNav.home.affix-top {
     padding: 20px 0;
   }
-  #mainNav.affix {
+  #mainNav.home.affix {
     padding: 10px 0;
-    position: static;
+  }
+}
+@media (max-width: 48em) {
+  #mainNav:not(.home).affix-top {
+    padding: 20px 0;
+    position: relative !important;
+  }
+  #mainNav:not(.home).affix {
+    padding: 10px 0;
+    position: relative !important;
   }
 }
 #mainNav .navbar-header {
@@ -9416,20 +9416,33 @@ a:hover {
   bottom: 0;
   width: 100%;
   margin-bottom: 0;
-  height: 140px;
+  min-height: 140px;
+  padding: 20px 0px;
 }
 #footer h3,
 #footer h4 {
   color: #fff;
 }
 #footer .social-links a {
-  width: 40px;
-  border: 1px solid #FF5050;
+  width: 44px;
+  border: 1px solid #fff;
   border-radius: 25px;
   display: inline-block;
-  height: 40px;
-  padding-top: 6px;
+  height: 44px;
+  padding-top: 7px;
   margin: 0 10px;
+  color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+#footer .social-links a:hover {
+  border: 1px solid #FF5050;
+  color: #FF5050;
 }
 .dropDown.menu {
   background-color: #FF5050;
@@ -9450,15 +9463,17 @@ a:hover {
 .gallery-image {
   float: left;
 }
-#single-page {
-  margin-top: 140px;
-}
 #single-page .columns {
   column-count: 2;
-  padding: 0px;
+  padding: 0;
   margin-top: 50px;
   margin-bottom: 50px;
   background-color: #fff;
+}
+@media (max-width: 48em) {
+  #single-page .columns {
+    column-count: 1;
+  }
 }
 #single-project #project-header .bg-img {
   min-height: 600px;
@@ -9469,6 +9484,9 @@ a:hover {
     max-height: 300px;
   }
 }
+#single-project #project-header .title {
+  height: 100%;
+}
 #single-project #project-header .title h1 {
   /* POLITICS OF POWER: */
   font-family: AlphaHeadlinePro-Bold;
@@ -9477,10 +9495,15 @@ a:hover {
   letter-spacing: 0;
   text-transform: uppercase;
   mix-blend-mode: difference;
+  max-height: 350px;
+  display: block;
+}
+#single-project #project-header .title h1 span {
+  text-align: left;
 }
 @media (max-width: 48em) {
   #single-project #project-header .title h1 {
-    font-size: 60px;
+    height: 100%;
   }
 }
 #single-project #project-header .title h1 a {
@@ -9584,20 +9607,60 @@ a:hover {
 }
 .page-list .masonryGrid .box-container {
   display: block;
+  position: relative;
 }
-.page-list .masonryGrid .box-container .image-box {
-  background-color: #fff;
+.page-list .masonryGrid .box-container .overlay-title {
+  position: absolute;
+  text-align: left;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 20px;
+  background-color: transparent;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   -ms-transition: all 0.5s;
   -o-transition: all 0.5s;
   transition: all 0.5s;
 }
-.page-list .masonryGrid .box-container .image-box img:hover {
+.page-list .masonryGrid .box-container .overlay-title:hover {
+  background-color: rgba(255, 0, 0, 0.7);
   mix-blend-mode: difference;
 }
-.page-list .masonryGrid .box-container .image-box:hover {
-  background-color: #FF5050;
+.page-list .masonryGrid .box-container .overlay-title .title {
+  color: #fff;
+  font-family: 'AlphaHeadlinePro-Bold';
+  font-size: 2.5em;
+  text-transform: uppercase;
+}
+@media (max-width: 48em) {
+  .page-list .masonryGrid .box-container .overlay-title .title {
+    font-size: 1.5em;
+  }
+}
+.page-list .masonryGrid .box-container .overlay-title .subtitle {
+  margin-top: 1em;
+  color: #fff;
+  font-family: 'Lusitana', serif;
+  font-size: 1.5em;
+  font-weight: 100;
+}
+.page-list .masonryGrid .box-container .overlay-title .subtitle:hover {
+  font-weight: 100;
+}
+@media (max-width: 48em) {
+  .page-list .masonryGrid .box-container .overlay-title .subtitle {
+    font-size: 1em;
+  }
+}
+.page-list .masonryGrid .box-container .overlay-title .fa-arrow-right {
+  color: white;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  padding: 20px;
 }
 #brutalistBanner {
   position: fixed;
@@ -9605,8 +9668,9 @@ a:hover {
   left: 0;
   z-index: 200;
   background-color: white;
-  border: 2px solid blue;
-  max-width: 100px;
+  border: 0 solid red;
+  max-width: 150px;
+  text-align: center;
 }
 #brutalistBanner h1 {
   font-family: monospace;
@@ -9722,7 +9786,7 @@ a:hover {
 }
 @media (max-width: 48em) {
   .scrolling-content {
-    margin-top: 60px;
+    margin-top: 0px;
   }
 }
 #error404 .error_message {

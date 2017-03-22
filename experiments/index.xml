@@ -6,8 +6,17 @@
     <description>Recent content in Experiments on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Mar 2017 14:19:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2017 12:48:25 +0800</lastBuildDate>
     <atom:link href="https://automato-build.github.io/website/experiments/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ethical autonomous algorithms</title>
+      <link>https://automato-build.github.io/website/experiments/ethical-autonomous-algorithms/</link>
+      <pubDate>Wed, 22 Mar 2017 12:48:25 +0800</pubDate>
+      
+      <guid>https://automato-build.github.io/website/experiments/ethical-autonomous-algorithms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>vitra</title>
@@ -48,7 +57,7 @@
       <pubDate>Mon, 20 Mar 2017 11:04:14 +0800</pubDate>
       
       <guid>https://automato-build.github.io/website/experiments/welcome/</guid>
-      <description>&lt;p&gt;Yout favourite design collectivw has a new website&lt;/p&gt;
+      <description>&lt;p&gt;Yout favourite design collection has a new website&lt;/p&gt;
 </description>
     </item>
     

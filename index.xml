@@ -6,8 +6,17 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Mar 2017 14:19:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2017 12:48:25 +0800</lastBuildDate>
     <atom:link href="https://automato-build.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ethical autonomous algorithms</title>
+      <link>https://automato-build.github.io/website/experiments/ethical-autonomous-algorithms/</link>
+      <pubDate>Wed, 22 Mar 2017 12:48:25 +0800</pubDate>
+      
+      <guid>https://automato-build.github.io/website/experiments/ethical-autonomous-algorithms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>vitra</title>
@@ -48,7 +57,7 @@
       <pubDate>Mon, 20 Mar 2017 11:04:14 +0800</pubDate>
       
       <guid>https://automato-build.github.io/website/experiments/welcome/</guid>
-      <description>&lt;p&gt;Yout favourite design collectivw has a new website&lt;/p&gt;
+      <description>&lt;p&gt;Yout favourite design collection has a new website&lt;/p&gt;
 </description>
     </item>
     
@@ -462,6 +471,15 @@
       <guid>https://automato-build.github.io/website/about/</guid>
       <description>
 
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;img src=&#34;https://automato-build.github.io/website/img/WechatScreenshot.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
 &lt;h1 id=&#34;we-are-a-design-research-studio-based-in-shanghai-consisting-of-simone-rebaudengo-http-simonerebaudengo-com-matthieu-cherubini-http-mchrbn-net-saurabh-datta-http-www-dattasaurabh-com-and-lorenzo-romagnoli-http-lorenzoromagnoli-me-we-combine-our-pasts-in-computer-science-product-design-and-electrical-engineering-to-work-on-the-fringes-of-product-and-interaction-design&#34;&gt;We are a design &amp;amp; research studio based in Shanghai consisting of &lt;a href=&#34;http://simonerebaudengo.com&#34;&gt;Simone Rebaudengo&lt;/a&gt;, &lt;a href=&#34;http://mchrbn.net/&#34;&gt;Matthieu Cherubini&lt;/a&gt;, &lt;a href=&#34;http://www.dattasaurabh.com&#34;&gt;Saurabh Datta&lt;/a&gt; and &lt;a href=&#34;http://lorenzoromagnoli.me/&#34;&gt;Lorenzo Romagnoli&lt;/a&gt;. We combine our pasts in computer science, product design and electrical engineering to work on the fringes of product and interaction design.&lt;/h1&gt;
 
 &lt;h1 id=&#34;our-work-focuses-on-exploring-the-next-evolution-of-what-interaction-design-might-mean&#34;&gt;Our work focuses on exploring the next evolution of what interaction design might mean.&lt;/h1&gt;
@@ -476,7 +494,7 @@
 
 &lt;h1 id=&#34;if-you-have-a-future-to-explore-or-if-you-are-just-scared-of-it-contact-us-mailto-hi-automato-farm&#34;&gt;If you have a future to explore or if you are just scared of it, &lt;a href=&#34;mailto:hi@automato.farm&#34;&gt;contact us&lt;/a&gt;.&lt;/h1&gt;
 
-&lt;div class=&#34;container offset&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;container offset&#34;&gt;
 
   &lt;div class=&#34;columns col-md-12&#34;&gt;
     &lt;h4 id=&#34;teaching-and-workshops&#34;&gt;Teaching and Workshops&lt;/h4&gt;
@@ -517,11 +535,16 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://interaction17.ixda.org/&#34;&gt;Interaction17&lt;/a&gt;, New York&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://interaction16.ixda.org/&#34;&gt;Interaction16&lt;/a&gt;, Helsinki&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ethicalmachines.com/&#34;&gt;Ethical Machines&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://push-conference.com/2015/&#34;&gt;Push Conference 15&lt;/a&gt;, Münich&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://resonate.io/2014/&#34;&gt;Resonate 14&lt;/a&gt;, Belgrade&lt;/li&gt;
 &lt;li&gt;TEI2015, Stanford&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://node15.vvvv.org/&#34;&gt;NODE15&lt;/a&gt;, Frankfurt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.tasmeemdoha.com/&#34;&gt;Tasmeem Art&amp;amp;Design Biennale&lt;/a&gt;, Doha&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tasmeemdoha.com/&#34;&gt;Tasmeem Art&amp;amp;Design Biennale&lt;/a&gt;, Doha
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cbc.ca/radio/spark/spark-248-1.2848222/brad-the-toaster-1.2848225&#34;&gt;CBC Radio&amp;rsquo;s Spark&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;selected-media&#34;&gt;Selected Media&lt;/h4&gt;
@@ -542,7 +565,7 @@
 
   &lt;/div&gt;
 &lt;/div&gt;
-
+&lt;/p&gt;
 </description>
     </item>
     
