@@ -9183,6 +9183,7 @@ a:hover {
 .container.offset {
   margin-left: -15px;
   margin-right: -15px;
+  padding: 20px 0;
 }
 .page-list .item .bg-container {
   height: 18em;
