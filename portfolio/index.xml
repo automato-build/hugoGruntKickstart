@@ -127,30 +127,12 @@
 
 
 
-
 &lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
-    
-
-        &lt;div class=&#34;owl-carousel col-md-12&#34;&gt;
-            
-                
-            
-                
-            
-                
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://automato-build.github.io/website/img//cards-ncc.gif&#34;/&gt;
-                        
-                        
-                    
-                
-            
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-md-12&#34;&gt;
+            &lt;img src=&#34;https://automato-build.github.io/website/img/cards-ncc.gif&#34; class=&#34;responsive_images&#34;/&gt;
         &lt;/div&gt;
-    
-  &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 </description>
@@ -492,9 +474,11 @@ Three multi-plugs – Model D, M and T – are designed to look and behave based
 
 
 &lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;img src=&#34;https://automato-build.github.io/website/img/technic.jpg&#34; class=&#34;responsive_images&#34;/&gt;
-  &lt;/div&gt;
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-md-12&#34;&gt;
+            &lt;img src=&#34;https://automato-build.github.io/website/img/technic.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 
@@ -912,9 +896,11 @@ destroy(Egalitarian_Constitution()) Authoritarian_Constitution()
 
 
 &lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;img src=&#34;https://automato-build.github.io/website/img/graph.png&#34; class=&#34;responsive_images&#34;/&gt;
-  &lt;/div&gt;
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-md-12&#34;&gt;
+            &lt;img src=&#34;https://automato-build.github.io/website/img/graph.png&#34; class=&#34;responsive_images&#34;/&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 </description>
@@ -954,33 +940,41 @@ So, What if there would be an algorithm trainer?&lt;/p&gt;
 &lt;p&gt;
 
 &lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;img src=&#34;https://automato-build.github.io/website/img/studio.jpg&#34; class=&#34;responsive_images&#34;/&gt;
-  &lt;/div&gt;
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-md-12&#34;&gt;
+            &lt;img src=&#34;https://automato-build.github.io/website/img/studio.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 
 
 &lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;img src=&#34;https://automato-build.github.io/website/img/Training&amp;#43;dirt.jpg&#34; class=&#34;responsive_images&#34;/&gt;
-  &lt;/div&gt;
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-md-12&#34;&gt;
+            &lt;img src=&#34;https://automato-build.github.io/website/img/Training&amp;#43;dirt.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 
 
 &lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;img src=&#34;https://automato-build.github.io/website/img/punish.jpg&#34; class=&#34;responsive_images&#34;/&gt;
-  &lt;/div&gt;
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-md-12&#34;&gt;
+            &lt;img src=&#34;https://automato-build.github.io/website/img/punish.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 
 
 &lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;img src=&#34;https://automato-build.github.io/website/img/training.jpg&#34; class=&#34;responsive_images&#34;/&gt;
-  &lt;/div&gt;
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-md-12&#34;&gt;
+            &lt;img src=&#34;https://automato-build.github.io/website/img/training.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 

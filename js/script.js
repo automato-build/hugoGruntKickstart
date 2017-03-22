@@ -162,24 +162,25 @@ $(document).ready(function() {
         effect: "fadeIn"
     });
 
-    // var mycarousel = $('.owl-carousel').owlCarousel({
-    //     center: true,
-    //     items: 1,
-    //     loop: true,
-    //     nav: true,
-    //     lazyLoad: true,
-    //     navText: [
-    //         "<i class='fa fa-chevron-left fa-2x' aria-hidden='true'></i>",
-    //         "<i class='fa fa-chevron-right fa-2x' aria-hidden='true'></i>"
-    //     ],
-    // });
+    var mycarousel = $('.scrolling-content .owl-carousel').owlCarousel({
+        center: true,
+        items: 1,
+        loop: true,
+        nav: true,
+        lazyLoad: true,
+        navigatio:true,
+        navText: [
+            "<i class='fa fa-chevron-left fa-2x' aria-hidden='true'></i>",
+            "<i class='fa fa-chevron-right fa-2x' aria-hidden='true'></i>"
+        ],
+    });
 
     var herocarousel = $('#hero .owl-carousel').owlCarousel({
         center: true,
         items: 1,
         loop: true,
         nav: false,
-        lazyLoad: false,
+        lazyLoad: true,
         animateOut: 'fadeOut',
         autoplay:true,
         autoplayTimeout:5000

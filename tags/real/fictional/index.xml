@@ -89,9 +89,11 @@ Three multi-plugs – Model D, M and T – are designed to look and behave based
 
 
 &lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;img src=&#34;https://automato-build.github.io/website/img/technic.jpg&#34; class=&#34;responsive_images&#34;/&gt;
-  &lt;/div&gt;
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-md-12&#34;&gt;
+            &lt;img src=&#34;https://automato-build.github.io/website/img/technic.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 
