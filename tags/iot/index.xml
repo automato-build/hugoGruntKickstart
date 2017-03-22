@@ -11,7 +11,7 @@
     <item>
       <title>chips &amp; tails</title>
       <link>https://automato-build.github.io/website/portfolio/chips_and_tails/</link>
-      <pubDate>Fri, 25 Nov 2016 11:04:14 +0800</pubDate>
+      <pubDate>Wed, 25 May 2016 11:04:14 +0800</pubDate>
       
       <guid>https://automato-build.github.io/website/portfolio/chips_and_tails/</guid>
       <description>
@@ -36,7 +36,7 @@
 
     
 
-        &lt;div id=&#34;gridGallery&#34;&gt;
+        &lt;div class=&#34;gridGallery&#34;&gt;
             
                 
                     
@@ -162,7 +162,7 @@
 
     
 
-        &lt;div id=&#34;gridGallery&#34;&gt;
+        &lt;div class=&#34;gridGallery&#34;&gt;
             
                 
             

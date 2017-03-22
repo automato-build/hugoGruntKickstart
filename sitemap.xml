@@ -47,13 +47,18 @@
   </url>
   
   <url>
-    <loc>https://automato-build.github.io/website/portfolio/chips_and_tails/</loc>
+    <loc>https://automato-build.github.io/website/portfolio/white_box/</loc>
     <lastmod>2016-11-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://automato-build.github.io/website/about/</loc>
     <lastmod>2016-10-25T11:04:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://automato-build.github.io/website/portfolio/chips_and_tails/</loc>
+    <lastmod>2016-05-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
@@ -83,8 +88,20 @@
   </url>
   
   <url>
+    <loc>https://automato-build.github.io/website/tags/automation/</loc>
+    <lastmod>2016-11-25T11:04:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://automato-build.github.io/website/tags/autonomous-vehicles/</loc>
     <lastmod>2014-10-25T11:04:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://automato-build.github.io/website/tags/connected-home/</loc>
+    <lastmod>2016-11-25T11:04:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -108,7 +125,7 @@
   
   <url>
     <loc>https://automato-build.github.io/website/tags/iot/</loc>
-    <lastmod>2016-11-25T11:04:14+08:00</lastmod>
+    <lastmod>2016-05-25T11:04:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   

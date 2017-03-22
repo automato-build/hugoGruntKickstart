@@ -216,9 +216,184 @@
     </item>
     
     <item>
+      <title>The White Box</title>
+      <link>https://automato-build.github.io/website/portfolio/white_box/</link>
+      <pubDate>Fri, 25 Nov 2016 11:04:14 +0800</pubDate>
+      
+      <guid>https://automato-build.github.io/website/portfolio/white_box/</guid>
+      <description>
+
+&lt;p&gt;The white Box is a new concept for a home control system that would be &lt;strong&gt;“transparently smart” to its user&lt;/strong&gt;.
+In collaboration with &lt;a href=&#34;http://casajasmina.arduino.cc/&#34;&gt;Casa Jasmina&lt;/a&gt;, the first open-source smart home, we asked ourselves how “smart” can a home be? What kind of smartness are we talking about? Is technology in service of the user or is it becoming the controller of the user?&lt;/p&gt;
+
+&lt;p&gt;If you want to make your home “smart”, most solutions in the market come in form of a black box that takes care of everything for you. Something that doesn’t have to be touched, with a simple and slick UI, something that feels almost magic, but utterly opaque. As these products are designed to to hide control and “simplify” complexity, the user that install them in the home doesn’t actually know what the system does: if it collects data, what kind of data, how the data are transformed or sold by the server administrator etc…&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The white box, is a transparent interface to tweak your home behavior; It is accessible in the same way you can control the main electric switch box at your home, and you can tweak the experience by accessing simple sliders.&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-md-12&#34;&gt;
+            &lt;img src=&#34;https://automato-build.github.io/website/img/whitebox.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;The white box expose the user with a higher level of intelligence than a simple control interface. &lt;strong&gt;It’s an evolution of the “backend” of an home of the future, a switchboard, allowing people to turn on and off and tweak the new inputs and outputs that a home of the future will have.&lt;/strong&gt; You choose which data you want to feed the box, ( Biometric data, Location, Environment, Market data etc..) While with the slider you can tweak the home behavior: choosing how much you want your home to remember or forget; if you want to publicly express what you are doing or keep it private; whether you home should learn from you or teach you best practices; finally, if you want the home to behave in a selfish way or just doing what’s best for the environment and the other .&lt;/p&gt;
+
+&lt;p&gt;We think of the white box as a product that it’s fictional, but real enough to communicate new needs and challenges that “smart” will bring to our homes. As designers, we have to move deeper in machines to understand the new mechanisms that smartness and connectivity bring, we need to design new interfaces to avoid people turning into unaware inputs.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-prototype&#34;&gt;The prototype&lt;/h2&gt;
+
+
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+
+    
+
+        &lt;div class=&#34;gridGallery&#34;&gt;
+            
+                
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/whitebox01.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
+                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/whitebox01.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/whitebox02.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
+                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/whitebox02.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
+                        &lt;/a&gt;
+                    
+                        &lt;a href=&#34;https://automato-build.github.io/website/img/whitebox03.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
+                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/whitebox03.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
+                        &lt;/a&gt;
+                    
+                
+            
+        &lt;/div&gt;
+
+        
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>aboutPage</title>
+      <link>https://automato-build.github.io/website/about/</link>
+      <pubDate>Tue, 25 Oct 2016 11:04:14 +0800</pubDate>
+      
+      <guid>https://automato-build.github.io/website/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;we-are-a-design-research-studio-based-in-shanghai-consisting-of-simone-rebaudengo-http-simonerebaudengo-com-matthieu-cherubini-http-mchrbn-net-saurabh-datta-http-www-dattasaurabh-com-and-lorenzo-romagnoli-http-lorenzoromagnoli-me-we-combine-our-pasts-in-computer-science-product-design-and-electrical-engineering-to-work-on-the-fringes-of-product-and-interaction-design&#34;&gt;We are a design &amp;amp; research studio based in Shanghai consisting of &lt;a href=&#34;http://simonerebaudengo.com&#34;&gt;Simone Rebaudengo&lt;/a&gt;, &lt;a href=&#34;http://mchrbn.net/&#34;&gt;Matthieu Cherubini&lt;/a&gt;, &lt;a href=&#34;http://www.dattasaurabh.com&#34;&gt;Saurabh Datta&lt;/a&gt; and &lt;a href=&#34;http://lorenzoromagnoli.me/&#34;&gt;Lorenzo Romagnoli&lt;/a&gt;. We combine our pasts in computer science, product design and electrical engineering to work on the fringes of product and interaction design.&lt;/h1&gt;
+
+&lt;h1 id=&#34;our-work-focuses-on-exploring-the-next-evolution-of-what-interaction-design-might-mean&#34;&gt;Our work focuses on exploring the next evolution of what interaction design might mean.&lt;/h1&gt;
+
+&lt;h1 id=&#34;bridging-and-blurring-physical-and-digital-interfaces-digging-deeper-into-algorithms-and-behaviors-of-products-translating-complex-black-boxes-into-interfaces-and-using-connectivity-and-intelligence-as-new-materials-to-be-shaped&#34;&gt;Bridging and blurring physical and digital interfaces, digging deeper into algorithms and behaviors of products, translating complex black boxes into interfaces and using connectivity and intelligence as new materials to be shaped.&lt;/h1&gt;
+
+&lt;h1 id=&#34;we-research-and-develop-future-products-and-interfaces-sometimes-real-and-sometimes-fictional&#34;&gt;We research and develop future products and interfaces, sometimes real and sometimes fictional.&lt;/h1&gt;
+
+&lt;h1 id=&#34;we-collaborate-with-studios-companies-and-institutions-to-envision-what-happens-when-emerging-technologies-hits-reality-we-can-talk-fluently-to-both-people-and-machines-but-we-like-machines-more&#34;&gt;We collaborate with studios, companies, and institutions to envision what happens when emerging technologies hits reality. We can talk fluently to both people and machines, but we like machines more.&lt;/h1&gt;
+
+&lt;h1 id=&#34;we-also-teach-and-talk-a-lot-about-machines-mundane-appliances-and-dogs-with-very-painful-accents&#34;&gt;We also teach and talk a lot about machines, mundane appliances, and dogs…with very painful accents.&lt;/h1&gt;
+
+&lt;h1 id=&#34;if-you-have-a-future-to-explore-or-if-you-are-just-scared-of-it-contact-us-mailto-hi-automato-farm&#34;&gt;If you have a future to explore or if you are just scared of it, &lt;a href=&#34;mailto:hi@automato.farm&#34;&gt;contact us&lt;/a&gt;.&lt;/h1&gt;
+
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-md-12&#34;&gt;
+            &lt;img src=&#34;https://automato-build.github.io/website/img/WechatScreenshot.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;container offset&#34;&gt;
+
+  &lt;div class=&#34;columns col-md-12&#34;&gt;
+    &lt;h4 id=&#34;teaching-and-workshops&#34;&gt;Teaching and Workshops&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ciid.dk/&#34;&gt;Copenhagen Institute of Interaction Design&lt;/a&gt;, Copenhagen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hesge.ch/head/en&#34;&gt;HEAD&lt;/a&gt;, Geneva&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.maind.supsi.ch/&#34;&gt;Master of Advanced Studies in Interaction Design&lt;/a&gt;, Lugano&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tjdi.tongji.edu.cn/?lang=en&#34;&gt;Tongji University&lt;/a&gt;, Shanghai&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cafa.edu.cn/&#34;&gt;China Academy of Fine Arts&lt;/a&gt;, Beijing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;selected-awards&#34;&gt;Selected Awards&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fastcodesign.com/product/politics-of-power&#34;&gt;FastCompany’s 2016 Design Awards&lt;/a&gt; – Honorable Mention&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.postscapes.com/2015-16/top-design-fiction-project/&#34;&gt;IoT Award 2016&lt;/a&gt;– Design Fiction Winner&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hack.wired.jp/en/winners/&#34;&gt;Wired Creative Hack Award 2016&lt;/a&gt;-Quasi Grand Prix Winner&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.core77.com/posts/36960/&#34;&gt;Core77 Awards 2015&lt;/a&gt; – Speculative Concept Runner-up&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toshare.it/tshr/share-prize/?lang=en&#34;&gt;Share Prize 2014&lt;/a&gt; - Winner&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://awards.ixda.org/entry/2014/addicted-products&#34;&gt;IxDA Award 2014&lt;/a&gt; - Best In show&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://robotfilmfestival.com/2014films/&#34;&gt;Robot Film Festival 2014&lt;/a&gt; – Botsker Prize&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;selected-exhibitions&#34;&gt;Selected Exhibitions&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.design-museum.de/en/exhibitions/detailpages/hello-robot-design-between-human-and-machine.html&#34;&gt;Hello Robot&lt;/a&gt;,Vitra Design Museum, Weil Am Rhein&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toshare.it/&#34;&gt;Share Festival&lt;/a&gt;, Casa Jasmina, Torino&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adhocracy.athens.sgt.gr/&#34;&gt;Adhocracy&lt;/a&gt;, Onassis Cultural Center, Athens&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.biennale-design.com/saint-etienne/2017/fr/home/&#34;&gt;Biennale Internationale Design&lt;/a&gt;, St-Etienne&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sonarplusd.com/&#34;&gt;Sonar+D&lt;/a&gt;, Barcelona&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fact.co.uk/&#34;&gt;FACT Center&lt;/a&gt;, Liverpool&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;selected-talks-interviews&#34;&gt;Selected Talks &amp;amp; Interviews&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://interaction17.ixda.org/&#34;&gt;Interaction17&lt;/a&gt;, New York&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://interaction16.ixda.org/&#34;&gt;Interaction16&lt;/a&gt;, Helsinki&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ethicalmachines.com/&#34;&gt;Ethical Machines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://push-conference.com/2015/&#34;&gt;Push Conference 15&lt;/a&gt;, Münich&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://resonate.io/2014/&#34;&gt;Resonate 14&lt;/a&gt;, Belgrade&lt;/li&gt;
+&lt;li&gt;TEI2015, Stanford&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://node15.vvvv.org/&#34;&gt;NODE15&lt;/a&gt;, Frankfurt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tasmeemdoha.com/&#34;&gt;Tasmeem Art&amp;amp;Design Biennale&lt;/a&gt;, Doha
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cbc.ca/radio/spark/spark-248-1.2848222/brad-the-toaster-1.2848225&#34;&gt;CBC Radio&amp;rsquo;s Spark&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;selected-media&#34;&gt;Selected Media&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://form.de/en/magazine/form268/filter&#34;&gt;form design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://we-make-money-not-art.com/house-guests-where-even-plugs-and-bread-crumbs-have-a-mind-of-their-own/&#34;&gt;We Make Money not Art&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CreativeApplications &lt;a href=&#34;http://www.creativeapplications.net/objects/politics-of-power-products-with-embedded-ideologies/&#34;&gt;1&lt;/a&gt; – &lt;a href=&#34;http://www.creativeapplications.net/objects/ethical-things-the-mundane-the-insignificant-and-the-smart-things&#34;&gt;2&lt;/a&gt;– &lt;a href=&#34;http://www.creativeapplications.net/processing/conditional_lover-a-physical-bot-that-automates-your-tinder/&#34;&gt;3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fastcodesign.com/3056806/innovation-by-design/the-ideologies-hidden-in-your-gadgets-visualized-with-power-strips&#34;&gt;Fast Company&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://motherboard.vice.com/read/a-fat-man-and-a-skinny-man-are-in-a-room-who-does-the-robot-choose&#34;&gt;Motherboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wired.com/2015/08/robot-better-tinder/&#34;&gt;Wired&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hyperallergic.com/182595/the-dystopian-possibilities-of-a-drawing-machine/&#34;&gt;Hyperallergic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.designindaba.com/articles/creative-work/ethical-things-look-morality-smart-devices&#34;&gt;Design Indaba&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.psfk.com/2015/03/ethical-things-ethical-fan-moral-decisions-technology-ai.html&#34;&gt;pfsk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theatlantic.com/technology/archive/2013/09/if-this-toaster-could-talk/279276/&#34;&gt;The Atlantic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://news.bbc.co.uk/2/hi/programmes/click_online/9714635.stm&#34;&gt;BBC Click&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>chips &amp; tails</title>
       <link>https://automato-build.github.io/website/portfolio/chips_and_tails/</link>
-      <pubDate>Fri, 25 Nov 2016 11:04:14 +0800</pubDate>
+      <pubDate>Wed, 25 May 2016 11:04:14 +0800</pubDate>
       
       <guid>https://automato-build.github.io/website/portfolio/chips_and_tails/</guid>
       <description>
@@ -243,7 +418,7 @@
 
     
 
-        &lt;div id=&#34;gridGallery&#34;&gt;
+        &lt;div class=&#34;gridGallery&#34;&gt;
             
                 
                     
@@ -369,7 +544,7 @@
 
     
 
-        &lt;div id=&#34;gridGallery&#34;&gt;
+        &lt;div class=&#34;gridGallery&#34;&gt;
             
                 
             
@@ -471,114 +646,6 @@
     </item>
     
     <item>
-      <title>aboutPage</title>
-      <link>https://automato-build.github.io/website/about/</link>
-      <pubDate>Tue, 25 Oct 2016 11:04:14 +0800</pubDate>
-      
-      <guid>https://automato-build.github.io/website/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;we-are-a-design-research-studio-based-in-shanghai-consisting-of-simone-rebaudengo-http-simonerebaudengo-com-matthieu-cherubini-http-mchrbn-net-saurabh-datta-http-www-dattasaurabh-com-and-lorenzo-romagnoli-http-lorenzoromagnoli-me-we-combine-our-pasts-in-computer-science-product-design-and-electrical-engineering-to-work-on-the-fringes-of-product-and-interaction-design&#34;&gt;We are a design &amp;amp; research studio based in Shanghai consisting of &lt;a href=&#34;http://simonerebaudengo.com&#34;&gt;Simone Rebaudengo&lt;/a&gt;, &lt;a href=&#34;http://mchrbn.net/&#34;&gt;Matthieu Cherubini&lt;/a&gt;, &lt;a href=&#34;http://www.dattasaurabh.com&#34;&gt;Saurabh Datta&lt;/a&gt; and &lt;a href=&#34;http://lorenzoromagnoli.me/&#34;&gt;Lorenzo Romagnoli&lt;/a&gt;. We combine our pasts in computer science, product design and electrical engineering to work on the fringes of product and interaction design.&lt;/h1&gt;
-
-&lt;h1 id=&#34;our-work-focuses-on-exploring-the-next-evolution-of-what-interaction-design-might-mean&#34;&gt;Our work focuses on exploring the next evolution of what interaction design might mean.&lt;/h1&gt;
-
-&lt;h1 id=&#34;bridging-and-blurring-physical-and-digital-interfaces-digging-deeper-into-algorithms-and-behaviors-of-products-translating-complex-black-boxes-into-interfaces-and-using-connectivity-and-intelligence-as-new-materials-to-be-shaped&#34;&gt;Bridging and blurring physical and digital interfaces, digging deeper into algorithms and behaviors of products, translating complex black boxes into interfaces and using connectivity and intelligence as new materials to be shaped.&lt;/h1&gt;
-
-&lt;h1 id=&#34;we-research-and-develop-future-products-and-interfaces-sometimes-real-and-sometimes-fictional&#34;&gt;We research and develop future products and interfaces, sometimes real and sometimes fictional.&lt;/h1&gt;
-
-&lt;h1 id=&#34;we-collaborate-with-studios-companies-and-institutions-to-envision-what-happens-when-emerging-technologies-hits-reality-we-can-talk-fluently-to-both-people-and-machines-but-we-like-machines-more&#34;&gt;We collaborate with studios, companies, and institutions to envision what happens when emerging technologies hits reality. We can talk fluently to both people and machines, but we like machines more.&lt;/h1&gt;
-
-&lt;h1 id=&#34;we-also-teach-and-talk-a-lot-about-machines-mundane-appliances-and-dogs-with-very-painful-accents&#34;&gt;We also teach and talk a lot about machines, mundane appliances, and dogs…with very painful accents.&lt;/h1&gt;
-
-&lt;h1 id=&#34;if-you-have-a-future-to-explore-or-if-you-are-just-scared-of-it-contact-us-mailto-hi-automato-farm&#34;&gt;If you have a future to explore or if you are just scared of it, &lt;a href=&#34;mailto:hi@automato.farm&#34;&gt;contact us&lt;/a&gt;.&lt;/h1&gt;
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-    &lt;div class=&#34;row&#34;&gt;
-        &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;img src=&#34;https://automato-build.github.io/website/img/WechatScreenshot.jpg&#34; class=&#34;responsive_images&#34;/&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-
-  &lt;div class=&#34;columns col-md-12&#34;&gt;
-    &lt;h4 id=&#34;teaching-and-workshops&#34;&gt;Teaching and Workshops&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://ciid.dk/&#34;&gt;Copenhagen Institute of Interaction Design&lt;/a&gt;, Copenhagen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hesge.ch/head/en&#34;&gt;HEAD&lt;/a&gt;, Geneva&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.maind.supsi.ch/&#34;&gt;Master of Advanced Studies in Interaction Design&lt;/a&gt;, Lugano&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tjdi.tongji.edu.cn/?lang=en&#34;&gt;Tongji University&lt;/a&gt;, Shanghai&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cafa.edu.cn/&#34;&gt;China Academy of Fine Arts&lt;/a&gt;, Beijing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;selected-awards&#34;&gt;Selected Awards&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.fastcodesign.com/product/politics-of-power&#34;&gt;FastCompany’s 2016 Design Awards&lt;/a&gt; – Honorable Mention&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.postscapes.com/2015-16/top-design-fiction-project/&#34;&gt;IoT Award 2016&lt;/a&gt;– Design Fiction Winner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hack.wired.jp/en/winners/&#34;&gt;Wired Creative Hack Award 2016&lt;/a&gt;-Quasi Grand Prix Winner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.core77.com/posts/36960/&#34;&gt;Core77 Awards 2015&lt;/a&gt; – Speculative Concept Runner-up&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.toshare.it/tshr/share-prize/?lang=en&#34;&gt;Share Prize 2014&lt;/a&gt; - Winner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://awards.ixda.org/entry/2014/addicted-products&#34;&gt;IxDA Award 2014&lt;/a&gt; - Best In show&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://robotfilmfestival.com/2014films/&#34;&gt;Robot Film Festival 2014&lt;/a&gt; – Botsker Prize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;selected-exhibitions&#34;&gt;Selected Exhibitions&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.design-museum.de/en/exhibitions/detailpages/hello-robot-design-between-human-and-machine.html&#34;&gt;Hello Robot&lt;/a&gt;,Vitra Design Museum, Weil Am Rhein&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.toshare.it/&#34;&gt;Share Festival&lt;/a&gt;, Casa Jasmina, Torino&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://adhocracy.athens.sgt.gr/&#34;&gt;Adhocracy&lt;/a&gt;, Onassis Cultural Center, Athens&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.biennale-design.com/saint-etienne/2017/fr/home/&#34;&gt;Biennale Internationale Design&lt;/a&gt;, St-Etienne&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sonarplusd.com/&#34;&gt;Sonar+D&lt;/a&gt;, Barcelona&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.fact.co.uk/&#34;&gt;FACT Center&lt;/a&gt;, Liverpool&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;selected-talks-interviews&#34;&gt;Selected Talks &amp;amp; Interviews&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://interaction17.ixda.org/&#34;&gt;Interaction17&lt;/a&gt;, New York&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://interaction16.ixda.org/&#34;&gt;Interaction16&lt;/a&gt;, Helsinki&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ethicalmachines.com/&#34;&gt;Ethical Machines&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://push-conference.com/2015/&#34;&gt;Push Conference 15&lt;/a&gt;, Münich&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://resonate.io/2014/&#34;&gt;Resonate 14&lt;/a&gt;, Belgrade&lt;/li&gt;
-&lt;li&gt;TEI2015, Stanford&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://node15.vvvv.org/&#34;&gt;NODE15&lt;/a&gt;, Frankfurt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.tasmeemdoha.com/&#34;&gt;Tasmeem Art&amp;amp;Design Biennale&lt;/a&gt;, Doha
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cbc.ca/radio/spark/spark-248-1.2848222/brad-the-toaster-1.2848225&#34;&gt;CBC Radio&amp;rsquo;s Spark&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;selected-media&#34;&gt;Selected Media&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://form.de/en/magazine/form268/filter&#34;&gt;form design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://we-make-money-not-art.com/house-guests-where-even-plugs-and-bread-crumbs-have-a-mind-of-their-own/&#34;&gt;We Make Money not Art&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;CreativeApplications &lt;a href=&#34;http://www.creativeapplications.net/objects/politics-of-power-products-with-embedded-ideologies/&#34;&gt;1&lt;/a&gt; – &lt;a href=&#34;http://www.creativeapplications.net/objects/ethical-things-the-mundane-the-insignificant-and-the-smart-things&#34;&gt;2&lt;/a&gt;– &lt;a href=&#34;http://www.creativeapplications.net/processing/conditional_lover-a-physical-bot-that-automates-your-tinder/&#34;&gt;3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.fastcodesign.com/3056806/innovation-by-design/the-ideologies-hidden-in-your-gadgets-visualized-with-power-strips&#34;&gt;Fast Company&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://motherboard.vice.com/read/a-fat-man-and-a-skinny-man-are-in-a-room-who-does-the-robot-choose&#34;&gt;Motherboard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wired.com/2015/08/robot-better-tinder/&#34;&gt;Wired&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hyperallergic.com/182595/the-dystopian-possibilities-of-a-drawing-machine/&#34;&gt;Hyperallergic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.designindaba.com/articles/creative-work/ethical-things-look-morality-smart-devices&#34;&gt;Design Indaba&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.psfk.com/2015/03/ethical-things-ethical-fan-moral-decisions-technology-ai.html&#34;&gt;pfsk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theatlantic.com/technology/archive/2013/09/if-this-toaster-could-talk/279276/&#34;&gt;The Atlantic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://news.bbc.co.uk/2/hi/programmes/click_online/9714635.stm&#34;&gt;BBC Click&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
       <title>politics of power</title>
       <link>https://automato-build.github.io/website/portfolio/politics_of_power/</link>
       <pubDate>Mon, 25 Jan 2016 11:04:14 +0800</pubDate>
@@ -675,7 +742,7 @@ Three multi-plugs – Model D, M and T – are designed to look and behave based
 
     
 
-        &lt;div id=&#34;gridGallery&#34;&gt;
+        &lt;div class=&#34;gridGallery&#34;&gt;
             
                 
             
@@ -1164,80 +1231,6 @@ So, What if there would be an algorithm trainer?&lt;/p&gt;
 &lt;/p&gt;
 
 &lt;!-- By [Simone Rebaudengo](http://www.simonerebaudengo.com/#/teacher/) --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ethical autonomous vehicles</title>
-      <link>https://automato-build.github.io/website/portfolio/ethical_autonomous_vehicles/</link>
-      <pubDate>Sat, 25 Oct 2014 11:04:14 +0800</pubDate>
-      
-      <guid>https://automato-build.github.io/website/portfolio/ethical_autonomous_vehicles/</guid>
-      <description>
-
-&lt;p&gt;Many car manufacturers are projecting that by 2025 most cars will operate on driveless systems. While it is valid to think that our roads will be safer as autonomous vehicles replace traditional cars, the unpredictability of real-life situations that involve the complexities of moral and ethical reasoning complicate this assumption.&lt;/p&gt;
-
-&lt;p&gt;How can such systems be designed to accommodate the complicatedness of moral and ethical thought processes, especially when human lives are involved? Just like choosing the color of a car, ethics can become a commodified feature in autonomous vehicles that one can buy, change, and repurchase, depending on personal taste.&lt;/p&gt;
-
-&lt;p&gt;Three distinct algorithms have been created – each adhering to a specific ethical principle/behaviour set-up – and embedded into driverless virtual cars that are operating in a simulated environment, where these autonomous vehicles will be confronted with various ethical dilemmas.&lt;/p&gt;
-
-&lt;p&gt;By &lt;a href=&#34;http://mchrbn.net/ethical-autonomous-vehicles/&#34;&gt;Matthieu Cherubini&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&#34;container offset&#34;&gt;
-    &lt;div class=&#34;row&#34;&gt;
-
-        
-            &lt;div class=&#34;flex-video col-md-12&#34;&gt;
-                &lt;iframe src=&#34;//player.vimeo.com/video/194454704&#34; allowfullscreen&gt;&lt;/iframe&gt;
-            &lt;/div&gt;
-            
-
-    &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;how-it-works&#34;&gt;How it works&lt;/h2&gt;
-
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
-    
-
-        &lt;div id=&#34;gridGallery&#34;&gt;
-            
-                
-                    
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/HumanistBW_iB-01.png&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/HumanistBW_iB-01.png&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/ProtectorBW_iB-01.png&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/ProtectorBW_iB-01.png&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/CapitalistBW_iB-01.png&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/CapitalistBW_iB-01.png&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/Case-Study2B-01.png&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/Case-Study2B-01.png&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/Case-Study1B-01.png&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/Case-Study1B-01.png&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                
-            
-        &lt;/div&gt;
-
-        
-  &lt;/div&gt;
-&lt;/div&gt;
-
 </description>
     </item>
     
