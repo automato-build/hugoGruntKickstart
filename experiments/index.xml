@@ -43,8 +43,6 @@
 
 &lt;p&gt;This project’s format is inspired by &lt;a href=&#34;http://www.extrapolationfactory.com/99-FUTURES&#34;&gt;99c futures&lt;/a&gt; by The Extrapolation Factory and is a continuation of the work of the &lt;a href=&#34;https://vimeo.com/125768041&#34;&gt;Teacher of algorithms&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;!&amp;ndash; Posters made by &lt;a href=&#34;https://dribbble.com/henryhu&#34;&gt;Henry Hu&lt;/a&gt;-&amp;gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;the-products&#34;&gt;The products&lt;/h2&gt;
 
 
@@ -173,7 +171,7 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&amp;lt;!&amp;ndash; 
+&lt;!-- 
 
 
 &lt;div class=&#34;container offset&#34;&gt;
@@ -230,7 +228,7 @@
         
   &lt;/div&gt;
 &lt;/div&gt;
--&amp;gt;&lt;/p&gt;
+ --&gt;
 
 &lt;h2 id=&#34;the-service-offerings&#34;&gt;The service offerings&lt;/h2&gt;
 
