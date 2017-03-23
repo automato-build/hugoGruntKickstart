@@ -9202,6 +9202,9 @@ a:hover {
 .project .bg-img {
   background-position: center;
   background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
 }
 .project .overlay {
   position: absolute;
@@ -9224,9 +9227,15 @@ a:hover {
   height: 30em;
   width: 100%;
   background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
 }
 .bg-img {
   background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
 }
 #mainNav {
   z-index: 100;
@@ -9342,6 +9351,9 @@ a:hover {
 #hero .owl-carousel.owl-loaded .owl-stage-outer .owl-stage .owl-item .owl-slide {
   background-size: cover;
   background-position: center;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
 }
 #hero .container {
   position: relative;
@@ -9374,6 +9386,9 @@ a:hover {
   transition: background 1s;
   background-position: center;
   background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
   position: relative;
 }
 #portfolio .portfolio_item:hover {
@@ -9565,6 +9580,9 @@ a:hover {
 .gridGallery .item .thumb {
   background-position: center;
   background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
   min-height: 200px;
   background-color: #fff;
   -webkit-transition: background-color 1s;
