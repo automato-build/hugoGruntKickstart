@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoughts on automato.farm</title>
-    <link>https://www.automato.farm/tags/thoughts/index.xml</link>
+    <link>http://www.automato.farm/tags/thoughts/index.xml</link>
     <description>Recent content in Thoughts on automato.farm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://www.automato.farm/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.automato.farm/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Year 0</title>
-      <link>https://www.automato.farm/experiments/00_welcome/</link>
+      <link>http://www.automato.farm/experiments/00_welcome/</link>
       <pubDate>Sat, 18 Mar 2017 11:04:14 +0800</pubDate>
       
-      <guid>https://www.automato.farm/experiments/00_welcome/</guid>
+      <guid>http://www.automato.farm/experiments/00_welcome/</guid>
       <description>&lt;p&gt;We launched finally a new website as a way to actually start to make automato.farm somehow less fictional and to put our work in shape and to create a space where we can also share our group and personal explorations beyond the work that we do. You will see all the weird little experiments that we do. From code snippets and awful wires mash ups and from lenghty articles to short stories.&lt;/p&gt;
 </description>
     </item>

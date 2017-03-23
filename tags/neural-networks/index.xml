@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neural Networks on automato.farm</title>
-    <link>https://www.automato.farm/tags/neural-networks/index.xml</link>
+    <link>http://www.automato.farm/tags/neural-networks/index.xml</link>
     <description>Recent content in Neural Networks on automato.farm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://www.automato.farm/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.automato.farm/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>traiNNing cards</title>
-      <link>https://www.automato.farm/portfolio/trainning_cards/</link>
+      <link>http://www.automato.farm/portfolio/trainning_cards/</link>
       <pubDate>Wed, 25 Jan 2017 11:04:14 +0800</pubDate>
       
-      <guid>https://www.automato.farm/portfolio/trainning_cards/</guid>
+      <guid>http://www.automato.farm/portfolio/trainning_cards/</guid>
       <description>
 
 &lt;p&gt;Recently we hear a lot about Machine Learning, Deep Learning, and Neural Networks as being a revolutionary way for computers and machines in general to sense and recognize the world around them. Security cameras, home robots and other “intelligent” machines will have to recognize not only us but objects, pets and other inhabitants of our life with a training process that is hidden and done digitally through a generic set of images gathered from the web.&lt;/p&gt;
@@ -24,7 +24,7 @@
 
 &lt;p&gt;In order to be able to recognize something as basic as a dog (or any kind of objects), a machine will rely most of the time on what is called a neural network (NN). This has to be trained with a certain number of images representing that object as well as images that do not represent that object. Based on NN specialists best practices, 5000 images is the right number for a neural network to start having some idea about the object you have trained it with.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.automato.farm/img/dog.gif&#34; alt=&#34;alt text&#34; /&gt; &lt;img src=&#34;https://www.automato.farm/img/not-dog.gif&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.automato.farm/img/dog.gif&#34; alt=&#34;alt text&#34; /&gt; &lt;img src=&#34;http://www.automato.farm/img/not-dog.gif&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Our TraiNNing Cards is a set of 5000 training images, physically printed and handpicked by humans to train any of your machines to recognize our first and favorite item in a house: a dog. The set includes both “true” images (dogs) and “false” images (non-dogs) with easy to read QR codes for your machine to clearly identify what is a dog and what is not a dog. It’s like flash cards, but not for your kid…&lt;/p&gt;
 
@@ -47,37 +47,37 @@
                 
                     
                         
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://www.automato.farm/img//front-nnc.jpg&#34;/&gt;
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//front-nnc.jpg&#34;/&gt;
                         
                         
                     
                         
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://www.automato.farm/img//DSC00482-ncc.jpg&#34;/&gt;
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//DSC00482-ncc.jpg&#34;/&gt;
                         
                         
                     
                         
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://www.automato.farm/img//package_all-nnc.jpg&#34;/&gt;
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//package_all-nnc.jpg&#34;/&gt;
                         
                         
                     
                         
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://www.automato.farm/img//DSC00558-nnc.jpg&#34;/&gt;
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//DSC00558-nnc.jpg&#34;/&gt;
                         
                         
                     
                         
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://www.automato.farm/img//tofu-gif-2-nnc.jpg&#34;/&gt;
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//tofu-gif-2-nnc.jpg&#34;/&gt;
                         
                         
                     
                         
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://www.automato.farm/img//DSC00545-nnc.jpg&#34;/&gt;
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//DSC00545-nnc.jpg&#34;/&gt;
                         
                         
                     
                         
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://www.automato.farm/img//training-since-nnc.jpg&#34;/&gt;
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//training-since-nnc.jpg&#34;/&gt;
                         
                         
                     
@@ -110,7 +110,7 @@
                 
                     
                         
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;https://www.automato.farm/img//instructions-01-nnc.jpg&#34;/&gt;
+                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//instructions-01-nnc.jpg&#34;/&gt;
                         
                         
                     
@@ -129,7 +129,7 @@
 &lt;div class=&#34;container offset&#34;&gt;
     &lt;div class=&#34;row&#34;&gt;
         &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;img src=&#34;https://www.automato.farm/img/cards-ncc.gif&#34; class=&#34;responsive_images&#34;/&gt;
+            &lt;img src=&#34;http://www.automato.farm/img/cards-ncc.gif&#34; class=&#34;responsive_images&#34;/&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
