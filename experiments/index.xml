@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experiments on automato.farm</title>
-    <link>https://automato-build.github.io/website/experiments/index.xml</link>
+    <link>https://www.automato.farm/experiments/index.xml</link>
     <description>Recent content in Experiments on automato.farm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Apr 2017 13:19:05 +0800</lastBuildDate>
-    <atom:link href="https://automato-build.github.io/website/experiments/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.automato.farm/experiments/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>piccioni!</title>
-      <link>https://automato-build.github.io/website/experiments/07_Piccioni/</link>
+      <link>https://www.automato.farm/experiments/07_Piccioni/</link>
       <pubDate>Tue, 25 Apr 2017 13:19:05 +0800</pubDate>
       
-      <guid>https://automato-build.github.io/website/experiments/07_Piccioni/</guid>
+      <guid>https://www.automato.farm/experiments/07_Piccioni/</guid>
       <description>&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BR3TCb6FS9L/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;Piccioni #wip #threejs #blender&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;A post shared by Lorenzo Romagnoli (@10r3n20) on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2017-03-20T14:54:32+00:00&#34;&gt;Mar 20, 2017 at 7:54am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
 &lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;
 </description>
@@ -22,46 +22,46 @@
     
     <item>
       <title></title>
-      <link>https://automato-build.github.io/website/experiments/05_realVR_Saurabh_02/</link>
+      <link>https://www.automato.farm/experiments/05_realVR_Saurabh_02/</link>
       <pubDate>Sun, 23 Apr 2017 11:04:16 +0800</pubDate>
       
-      <guid>https://automato-build.github.io/website/experiments/05_realVR_Saurabh_02/</guid>
+      <guid>https://www.automato.farm/experiments/05_realVR_Saurabh_02/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://automato-build.github.io/website/experiments/05_realVR_Saurabh_01/</link>
+      <link>https://www.automato.farm/experiments/05_realVR_Saurabh_01/</link>
       <pubDate>Sun, 23 Apr 2017 11:04:14 +0800</pubDate>
       
-      <guid>https://automato-build.github.io/website/experiments/05_realVR_Saurabh_01/</guid>
+      <guid>https://www.automato.farm/experiments/05_realVR_Saurabh_01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gestures for AR in mobile VR</title>
-      <link>https://automato-build.github.io/website/experiments/08_vrGestures/</link>
+      <link>https://www.automato.farm/experiments/08_vrGestures/</link>
       <pubDate>Wed, 22 Mar 2017 17:03:34 +0800</pubDate>
       
-      <guid>https://automato-build.github.io/website/experiments/08_vrGestures/</guid>
+      <guid>https://www.automato.farm/experiments/08_vrGestures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ethical autonomous algorithms</title>
-      <link>https://automato-build.github.io/website/experiments/04_ethical-autonomous-algorithms/</link>
+      <link>https://www.automato.farm/experiments/04_ethical-autonomous-algorithms/</link>
       <pubDate>Wed, 22 Mar 2017 12:48:25 +0800</pubDate>
       
-      <guid>https://automato-build.github.io/website/experiments/04_ethical-autonomous-algorithms/</guid>
+      <guid>https://www.automato.farm/experiments/04_ethical-autonomous-algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vitra</title>
-      <link>https://automato-build.github.io/website/experiments/03_VitraTwitter_01/</link>
+      <link>https://www.automato.farm/experiments/03_VitraTwitter_01/</link>
       <pubDate>Tue, 21 Mar 2017 14:19:11 +0800</pubDate>
       
-      <guid>https://automato-build.github.io/website/experiments/03_VitraTwitter_01/</guid>
+      <guid>https://www.automato.farm/experiments/03_VitraTwitter_01/</guid>
       <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Political plugs, ethical fan and training dust are all at &lt;a href=&#34;https://twitter.com/hashtag/hellorobot?src=hash&#34;&gt;#hellorobot&lt;/a&gt; &lt;a href=&#34;https://twitter.com/VDM_News&#34;&gt;@VDM_News&lt;/a&gt; !!! In a goooood questioning section... &lt;a href=&#34;https://t.co/bgGWVf09No&#34;&gt;pic.twitter.com/bgGWVf09No&lt;/a&gt;&lt;/p&gt;&amp;mdash; automato (@automato_farm) &lt;a href=&#34;https://twitter.com/automato_farm/status/835074056772849664&#34;&gt;February 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 </description>
@@ -69,19 +69,19 @@
     
     <item>
       <title>Domesticating Intelligence</title>
-      <link>https://automato-build.github.io/website/experiments/01_Domesticating-Intelligence/</link>
+      <link>https://www.automato.farm/experiments/01_Domesticating-Intelligence/</link>
       <pubDate>Sun, 19 Mar 2017 12:48:25 +0800</pubDate>
       
-      <guid>https://automato-build.github.io/website/experiments/01_Domesticating-Intelligence/</guid>
+      <guid>https://www.automato.farm/experiments/01_Domesticating-Intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Year 0</title>
-      <link>https://automato-build.github.io/website/experiments/00_welcome/</link>
+      <link>https://www.automato.farm/experiments/00_welcome/</link>
       <pubDate>Sat, 18 Mar 2017 11:04:14 +0800</pubDate>
       
-      <guid>https://automato-build.github.io/website/experiments/00_welcome/</guid>
+      <guid>https://www.automato.farm/experiments/00_welcome/</guid>
       <description>&lt;p&gt;We launched finally a new website as a way to actually start to make automato.farm somehow less fictional and to put our work in shape and to create a space where we can also share our group and personal explorations beyond the work that we do. You will see all the weird little experiments that we do. From code snippets and awful wires mash ups and from lenghty articles to short stories.&lt;/p&gt;
 </description>
     </item>

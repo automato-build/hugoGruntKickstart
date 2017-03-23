@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fiction on automato.farm</title>
-    <link>https://automato-build.github.io/website/tags/fiction/index.xml</link>
+    <link>https://www.automato.farm/tags/fiction/index.xml</link>
     <description>Recent content in Fiction on automato.farm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://automato-build.github.io/website/tags/fiction/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.automato.farm/tags/fiction/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>teacher of algorithms</title>
-      <link>https://automato-build.github.io/website/portfolio/teach_algorithms/</link>
+      <link>https://www.automato.farm/portfolio/teach_algorithms/</link>
       <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
       
-      <guid>https://automato-build.github.io/website/portfolio/teach_algorithms/</guid>
+      <guid>https://www.automato.farm/portfolio/teach_algorithms/</guid>
       <description>
 
 &lt;p&gt;We think of smart/learning objects as yet not finished entities that can evolve their behaviors by observing, reading and interpreting our habits. They train their algorithms based on deep learning or similar ways to constantly adapt and refine their decisions.&lt;/p&gt;
@@ -44,7 +44,7 @@ So, What if there would be an algorithm trainer?&lt;/p&gt;
 &lt;div class=&#34;container offset&#34;&gt;
     &lt;div class=&#34;row&#34;&gt;
         &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;img src=&#34;https://automato-build.github.io/website/img/studio.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+            &lt;img src=&#34;https://www.automato.farmimg/studio.jpg&#34; class=&#34;responsive_images&#34;/&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -54,7 +54,7 @@ So, What if there would be an algorithm trainer?&lt;/p&gt;
 &lt;div class=&#34;container offset&#34;&gt;
     &lt;div class=&#34;row&#34;&gt;
         &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;img src=&#34;https://automato-build.github.io/website/img/Training&amp;#43;dirt.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+            &lt;img src=&#34;https://www.automato.farmimg/Training&amp;#43;dirt.jpg&#34; class=&#34;responsive_images&#34;/&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -64,7 +64,7 @@ So, What if there would be an algorithm trainer?&lt;/p&gt;
 &lt;div class=&#34;container offset&#34;&gt;
     &lt;div class=&#34;row&#34;&gt;
         &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;img src=&#34;https://automato-build.github.io/website/img/punish.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+            &lt;img src=&#34;https://www.automato.farmimg/punish.jpg&#34; class=&#34;responsive_images&#34;/&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -74,7 +74,7 @@ So, What if there would be an algorithm trainer?&lt;/p&gt;
 &lt;div class=&#34;container offset&#34;&gt;
     &lt;div class=&#34;row&#34;&gt;
         &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;img src=&#34;https://automato-build.github.io/website/img/training.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+            &lt;img src=&#34;https://www.automato.farmimg/training.jpg&#34; class=&#34;responsive_images&#34;/&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;

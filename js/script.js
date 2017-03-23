@@ -8,15 +8,15 @@ var $root = $('html, body');
 var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
 var isMenuTransparent;
 
-window.onload = function() {
-    //add scrollspy to activate menu on scroll
-    $('body').scrollspy({
-        target: ".navbar"
-    });
-    $('#heroCarousel').carousel({
-        interval: 3000
-    });
-}
+// window.onload = function() {
+//     //add scrollspy to activate menu on scroll
+//     $('body').scrollspy({
+//         target: ".navbar"
+//     });
+//     $('#heroCarousel').carousel({
+//         interval: 3000
+//     });
+// }
 
 
 $('#mainNav .navbar-toggle, #fullMenu').click(function() {

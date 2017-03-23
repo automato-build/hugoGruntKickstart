@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Connected Home on automato.farm</title>
-    <link>https://automato-build.github.io/website/tags/connected-home/index.xml</link>
+    <link>https://www.automato.farm/tags/connected-home/index.xml</link>
     <description>Recent content in Connected Home on automato.farm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://automato-build.github.io/website/tags/connected-home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.automato.farm/tags/connected-home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The White Box</title>
-      <link>https://automato-build.github.io/website/portfolio/white_box/</link>
+      <link>https://www.automato.farm/portfolio/white_box/</link>
       <pubDate>Fri, 25 Nov 2016 11:04:14 +0800</pubDate>
       
-      <guid>https://automato-build.github.io/website/portfolio/white_box/</guid>
+      <guid>https://www.automato.farm/portfolio/white_box/</guid>
       <description>
 
 &lt;p&gt;The white Box is a new concept for a home control system that would be &lt;strong&gt;“transparently smart” to its user&lt;/strong&gt;.
@@ -28,7 +28,7 @@ In collaboration with &lt;a href=&#34;http://casajasmina.arduino.cc/&#34;&gt;Cas
 &lt;div class=&#34;container offset&#34;&gt;
     &lt;div class=&#34;row&#34;&gt;
         &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;img src=&#34;https://automato-build.github.io/website/img/whitebox.jpg&#34; class=&#34;responsive_images&#34;/&gt;
+            &lt;img src=&#34;https://www.automato.farmimg/whitebox.jpg&#34; class=&#34;responsive_images&#34;/&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -52,16 +52,16 @@ In collaboration with &lt;a href=&#34;http://casajasmina.arduino.cc/&#34;&gt;Cas
             
                 
                     
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/whitebox01.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/whitebox01.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
+                        &lt;a href=&#34;https://www.automato.farmimg/whitebox01.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
+                            &lt;div style=&#34;background-image:url(&#39;https://www.automato.farmimg/whitebox01.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
                         &lt;/a&gt;
                     
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/whitebox02.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/whitebox02.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
+                        &lt;a href=&#34;https://www.automato.farmimg/whitebox02.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
+                            &lt;div style=&#34;background-image:url(&#39;https://www.automato.farmimg/whitebox02.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
                         &lt;/a&gt;
                     
-                        &lt;a href=&#34;https://automato-build.github.io/website/img/whitebox03.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;https://automato-build.github.io/website/img/whitebox03.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
+                        &lt;a href=&#34;https://www.automato.farmimg/whitebox03.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
+                            &lt;div style=&#34;background-image:url(&#39;https://www.automato.farmimg/whitebox03.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
                         &lt;/a&gt;
                     
                 
