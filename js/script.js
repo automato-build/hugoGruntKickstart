@@ -182,7 +182,6 @@ $(document).ready(function() {
         items: 1,
         loop: true,
         nav: false,
-        lazyLoad: true,
         animateOut: 'fadeOut',
         autoplay:true,
         autoplayTimeout:5000
