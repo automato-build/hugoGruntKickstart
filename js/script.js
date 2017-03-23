@@ -51,7 +51,6 @@ $("#single-project #project-header .title h1").boxfit(
 $("#portfolio .portfolio_item .title h3").boxfit(
   {
   multiline: true,
-  align_center:true
   }
 );
 
@@ -143,11 +142,7 @@ twttr.ready(function (twttr) {
   });
 });
 
-$('iframe.frame').load(function(){
-  var $masonryGrid=$('.masonryGrid').masonry({
-      itemSelector: '.grid-item'
-  });
-});
+
 
 
 $(document).ready(function() {
@@ -169,6 +164,19 @@ $(document).ready(function() {
             percentPosition: true
         });
     });
+
+    try {
+      $('#experiments iframe').load(function(){
+        var $masonryGrid=$('.masonryGrid').masonry({
+            itemSelector: '.grid-item'
+        });
+      });
+    }
+    catch(err) {
+        console.log("iframe not ready",err);
+    }
+
+
 
     $("img.lazy").lazyload({
         threshold: 200,

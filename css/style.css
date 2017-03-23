@@ -9404,6 +9404,7 @@ a:hover {
   mix-blend-mode: difference;
   letter-spacing: 0;
   text-transform: uppercase;
+  width: 100%;
 }
 #portfolio .portfolio_item .portfolio_item_overlay .inner .subtitle {
   color: #fff;

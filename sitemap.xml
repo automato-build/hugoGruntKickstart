@@ -2,23 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.automato.farm/experiments/09_swipeofdisdain/</loc>
+    <lastmod>2017-04-25T14:19:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.automato.farm/experiments/10_screentoKilo/</loc>
+    <lastmod>2017-04-25T13:20:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.automato.farm/experiments/06chipsandtails/</loc>
+    <lastmod>2017-04-25T13:18:05+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.automato.farm/experiments/07_Piccioni/</loc>
-    <lastmod>2017-04-25T13:19:05+08:00</lastmod>
+    <lastmod>2017-04-25T13:16:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.automato.farm/experiments/05_vrGestures/</loc>
+    <lastmod>2017-04-23T11:05:16+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.automato.farm/experiments/05_realVR_Saurabh_02/</loc>
     <lastmod>2017-04-23T11:04:16+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.automato.farm/experiments/05_realVR_Saurabh_01/</loc>
-    <lastmod>2017-04-23T11:04:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.automato.farm/experiments/08_vrGestures/</loc>
-    <lastmod>2017-03-22T17:03:34+08:00</lastmod>
   </url>
   
   <url>
@@ -54,11 +64,6 @@
   <url>
     <loc>https://www.automato.farm/about/</loc>
     <lastmod>2016-10-25T11:04:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.automato.farm/portfolio/chips_and_tails/</loc>
-    <lastmod>2016-05-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
@@ -113,7 +118,7 @@
   
   <url>
     <loc>https://www.automato.farm/experiments/</loc>
-    <lastmod>2017-04-25T13:19:05+08:00</lastmod>
+    <lastmod>2017-04-25T14:19:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,7 +130,7 @@
   
   <url>
     <loc>https://www.automato.farm/tags/iot/</loc>
-    <lastmod>2016-05-25T11:04:14+08:00</lastmod>
+    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -171,8 +176,14 @@
   </url>
   
   <url>
+    <loc>https://www.automato.farm/tags/thoughts/</loc>
+    <lastmod>2017-03-18T11:04:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.automato.farm/</loc>
-    <lastmod>2017-04-25T13:19:05+08:00</lastmod>
+    <lastmod>2017-04-25T14:19:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
