@@ -2,189 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.automato.farm/experiments/09_swipeofdisdain/</loc>
-    <lastmod>2017-04-25T14:19:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/experiments/10_screentoKilo/</loc>
-    <lastmod>2017-04-25T13:20:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/experiments/06chipsandtails/</loc>
-    <lastmod>2017-04-25T13:18:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/experiments/07_Piccioni/</loc>
-    <lastmod>2017-04-25T13:16:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/experiments/05_vrGestures/</loc>
-    <lastmod>2017-04-23T11:05:16+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/experiments/05_realVR_Saurabh_02/</loc>
-    <lastmod>2017-04-23T11:04:16+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/experiments/04_ethical-autonomous-algorithms/</loc>
-    <lastmod>2017-03-22T12:48:25+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/experiments/03_VitraTwitter_01/</loc>
-    <lastmod>2017-03-21T14:19:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/experiments/01_Domesticating-Intelligence/</loc>
-    <lastmod>2017-03-19T12:48:25+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/experiments/00_welcome/</loc>
-    <lastmod>2017-03-18T11:04:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/portfolio/trainning_cards/</loc>
-    <lastmod>2017-01-25T11:04:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/portfolio/white_box/</loc>
-    <lastmod>2016-11-25T11:04:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/about/</loc>
+    <loc>https://automato-build.github.io/website/</loc>
     <lastmod>2016-10-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.automato.farm/portfolio/politics_of_power/</loc>
-    <lastmod>2016-01-25T11:04:14+08:00</lastmod>
+    <loc>https://automato-build.github.io/website/research/Smart_frictions/</loc>
+    <lastmod>2016-10-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.automato.farm/portfolio/ethical_Thing/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
+    <loc>https://automato-build.github.io/website/about/</loc>
+    <lastmod>2016-10-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.automato.farm/portfolio/teach_algorithms/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
+    <loc>https://automato-build.github.io/website/research/domesticating_intelligence/</loc>
+    <lastmod>2016-10-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.automato.farm/portfolio/ethical_autonomous_vehicles/</loc>
-    <lastmod>2014-10-25T11:04:14+08:00</lastmod>
+    <loc>https://automato-build.github.io/website/portfolio/ethical_Thing/</loc>
+    <lastmod>2016-10-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.automato.farm/tags/algorithms/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://automato-build.github.io/website/research/ethics_of_algorithms/</loc>
+    <lastmod>2016-10-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.automato.farm/tags/automation/</loc>
-    <lastmod>2016-11-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://automato-build.github.io/website/blog/imgPost/</loc>
+    <lastmod>2016-10-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.automato.farm/tags/autonomous-vehicles/</loc>
-    <lastmod>2014-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://automato-build.github.io/website/market/myfirstPost/</loc>
+    <lastmod>2016-10-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.automato.farm/tags/connected-home/</loc>
-    <lastmod>2016-11-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://automato-build.github.io/website/portfolio/politics_of_power/</loc>
+    <lastmod>2016-10-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.automato.farm/tags/ethics/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://automato-build.github.io/website/blog/textPost/</loc>
+    <lastmod>2016-10-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.automato.farm/experiments/</loc>
-    <lastmod>2017-04-25T14:19:05+08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://automato-build.github.io/website/blog/textPost2/</loc>
+    <lastmod>2016-10-25T11:04:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.automato.farm/tags/fiction/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/tags/iot/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/tags/machine-biases/</loc>
-    <lastmod>2016-01-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/tags/machine-learning/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/tags/mturks/</loc>
-    <lastmod>2015-10-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/tags/neural-networks/</loc>
-    <lastmod>2017-01-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/portfolio/</loc>
-    <lastmod>2017-01-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/tags/real/fictional/</loc>
-    <lastmod>2016-01-25T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/tags/thoughts/</loc>
-    <lastmod>2017-03-18T11:04:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.automato.farm/</loc>
-    <lastmod>2017-04-25T14:19:05+08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://automato-build.github.io/website/blog/videoPost/</loc>
+    <lastmod>2016-10-25T11:04:14+08:00</lastmod>
   </url>
   
 </urlset>
