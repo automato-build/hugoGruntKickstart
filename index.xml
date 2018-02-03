@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>automato.farm</title>
-    <link>http://www.automato.farm/index.xml</link>
+    <link>http://www.automato.farm/</link>
     <description>Recent content on automato.farm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Apr 2017 14:19:05 +0800</lastBuildDate>
-    <atom:link href="http://www.automato.farm/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.automato.farm/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
@@ -20,19 +22,19 @@
     
     <item>
       <title></title>
-      <link>http://www.automato.farm/experiments/11_Tommaso/</link>
+      <link>http://www.automato.farm/experiments/11_tommaso/</link>
       <pubDate>Tue, 25 Apr 2017 14:19:05 +0800</pubDate>
       
-      <guid>http://www.automato.farm/experiments/11_Tommaso/</guid>
+      <guid>http://www.automato.farm/experiments/11_tommaso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Screen To Kilos</title>
-      <link>http://www.automato.farm/experiments/10_screentoKilo/</link>
+      <link>http://www.automato.farm/experiments/10_screentokilo/</link>
       <pubDate>Tue, 25 Apr 2017 13:20:05 +0800</pubDate>
       
-      <guid>http://www.automato.farm/experiments/10_screentoKilo/</guid>
+      <guid>http://www.automato.farm/experiments/10_screentokilo/</guid>
       <description></description>
     </item>
     
@@ -42,279 +44,36 @@
       <pubDate>Tue, 25 Apr 2017 13:18:05 +0800</pubDate>
       
       <guid>http://www.automato.farm/experiments/06chipsandtails/</guid>
-      <description>
-
-&lt;p&gt;With objects that learn about our homes and environments or need to be taught about routines and habits, the way we interact with devices and machines will more and more start to look like the one we have with pets.&lt;/p&gt;
-
-&lt;p&gt;The relationship we have with Roombas, drones, cameras and thermostats might become closer to the one we have with dogs, cats, and birds. What products and services could be sold in a shop where pets are not only animals?&lt;/p&gt;
-
-&lt;p&gt;Chips &amp;amp; Tails is a near future pop-up store where people can buy toys, treats, medicines and services for their non-animal pets.  Through a workshop with 20 artists, designers, writers, veterinaries and dog lovers we imagined, prototyped and packaged over 40 products and services.&lt;/p&gt;
-
-&lt;p&gt;This project’s format is inspired by &lt;a href=&#34;http://www.extrapolationfactory.com/99-FUTURES&#34;&gt;99c futures&lt;/a&gt; by The Extrapolation Factory and is a continuation of the work of the &lt;a href=&#34;https://vimeo.com/125768041&#34;&gt;Teacher of algorithms&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;the-products&#34;&gt;The products&lt;/h2&gt;
-
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
-    
-
-        &lt;div class=&#34;gridGallery&#34;&gt;
-            
-                
-            
-                
-            
-                
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/DSC03742.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/DSC03742.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/DSC03747.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/DSC03747.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/DSC03750.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/DSC03750.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/DSC03755.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/DSC03755.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/DSC03758.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/DSC03758.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/DSC03764.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/DSC03764.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/DSC03768.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/DSC03768.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/DSC03772.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/DSC03772.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/DSC03775.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/DSC03775.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/DSC03778.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/DSC03778.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/DSC03782.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/DSC03782.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/DSC03787.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/DSC03787.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                
-            
-                
-            
-        &lt;/div&gt;
-
-        
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
-    
-
-        &lt;div class=&#34;owl-carousel col-md-12&#34;&gt;
-            
-                
-            
-                
-            
-                
-            
-                
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//buy-cp.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//dress-cp.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//entry-cp.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//hi.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//pay.jpg&#34;/&gt;
-                        
-                        
-                    
-                
-            
-        &lt;/div&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;!-- 
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
-    
-
-        &lt;div class=&#34;gridGallery&#34;&gt;
-            
-                
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/Jokies.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/Jokies.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/sample_poster.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/sample_poster.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/Personal-Speaker.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/Personal-Speaker.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/Chair-mount-arm.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/Chair-mount-arm.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/Drone-Manicure.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/Drone-Manicure.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/Drone-Spray.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/Drone-Spray.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/Extra-Hand.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/Extra-Hand.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/Fetchie.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/Fetchie.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                
-            
-                
-            
-                
-            
-                
-            
-        &lt;/div&gt;
-
-        
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-
-&lt;h2 id=&#34;the-service-offerings&#34;&gt;The service offerings&lt;/h2&gt;
-
-&lt;p&gt;
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
-    
-
-        &lt;div class=&#34;owl-carousel col-md-12&#34;&gt;
-            
-                
-            
-                
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//SERVICES-01.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//SERVICES-02.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//SERVICES-03.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//SERVICES-04.jpg&#34;/&gt;
-                        
-                        
-                    
-                
-            
-                
-            
-                
-            
-        &lt;/div&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>With objects that learn about our homes and environments or need to be taught about routines and habits, the way we interact with devices and machines will more and more start to look like the one we have with pets.
+The relationship we have with Roombas, drones, cameras and thermostats might become closer to the one we have with dogs, cats, and birds. What products and services could be sold in a shop where pets are not only animals?</description>
     </item>
     
     <item>
       <title>piccioni!</title>
-      <link>http://www.automato.farm/experiments/07_Piccioni/</link>
+      <link>http://www.automato.farm/experiments/07_piccioni/</link>
       <pubDate>Tue, 25 Apr 2017 13:16:05 +0800</pubDate>
       
-      <guid>http://www.automato.farm/experiments/07_Piccioni/</guid>
-      <description>&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BR3TCb6FS9L/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;Piccioni #wip #threejs #blender&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;A post shared by Lorenzo Romagnoli (@10r3n20) on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2017-03-20T14:54:32+00:00&#34;&gt;Mar 20, 2017 at 7:54am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;
-</description>
+      <guid>http://www.automato.farm/experiments/07_piccioni/</guid>
+      <description> Piccioni #wip #threejs #blender
+A post shared by Lorenzo Romagnoli (@10r3n20) on Mar 20, 2017 at 7:54am PDT
+  </description>
     </item>
     
     <item>
       <title>Gestures for AR in mobile VR</title>
-      <link>http://www.automato.farm/experiments/05_vrGestures/</link>
+      <link>http://www.automato.farm/experiments/05_vrgestures/</link>
       <pubDate>Sun, 23 Apr 2017 11:05:16 +0800</pubDate>
       
-      <guid>http://www.automato.farm/experiments/05_vrGestures/</guid>
+      <guid>http://www.automato.farm/experiments/05_vrgestures/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.automato.farm/experiments/05_realVR_Saurabh_02/</link>
+      <link>http://www.automato.farm/experiments/05_realvr_saurabh_02/</link>
       <pubDate>Sun, 23 Apr 2017 11:04:16 +0800</pubDate>
       
-      <guid>http://www.automato.farm/experiments/05_realVR_Saurabh_02/</guid>
+      <guid>http://www.automato.farm/experiments/05_realvr_saurabh_02/</guid>
       <description></description>
     </item>
     
@@ -329,22 +88,20 @@
     
     <item>
       <title>vitra</title>
-      <link>http://www.automato.farm/experiments/03_VitraTwitter_01/</link>
+      <link>http://www.automato.farm/experiments/03_vitratwitter_01/</link>
       <pubDate>Tue, 21 Mar 2017 14:19:11 +0800</pubDate>
       
-      <guid>http://www.automato.farm/experiments/03_VitraTwitter_01/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Political plugs, ethical fan and training dust are all at &lt;a href=&#34;https://twitter.com/hashtag/hellorobot?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#hellorobot&lt;/a&gt; &lt;a href=&#34;https://twitter.com/VDM_News?ref_src=twsrc%5Etfw&#34;&gt;@VDM_News&lt;/a&gt; !!! In a goooood questioning section... &lt;a href=&#34;https://t.co/bgGWVf09No&#34;&gt;pic.twitter.com/bgGWVf09No&lt;/a&gt;&lt;/p&gt;&amp;mdash; automato (@automato_farm) &lt;a href=&#34;https://twitter.com/automato_farm/status/835074056772849664?ref_src=twsrc%5Etfw&#34;&gt;February 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-</description>
+      <guid>http://www.automato.farm/experiments/03_vitratwitter_01/</guid>
+      <description>Political plugs, ethical fan and training dust are all at #hellorobot @VDM_News !!! In a goooood questioning section... pic.twitter.com/bgGWVf09No
+&amp;mdash; automato (@automato_farm) February 24, 2017  </description>
     </item>
     
     <item>
       <title>Domesticating Intelligence</title>
-      <link>http://www.automato.farm/experiments/01_Domesticating-Intelligence/</link>
+      <link>http://www.automato.farm/experiments/01_domesticating-intelligence/</link>
       <pubDate>Sun, 19 Mar 2017 12:48:25 +0800</pubDate>
       
-      <guid>http://www.automato.farm/experiments/01_Domesticating-Intelligence/</guid>
+      <guid>http://www.automato.farm/experiments/01_domesticating-intelligence/</guid>
       <description></description>
     </item>
     
@@ -354,8 +111,7 @@
       <pubDate>Sat, 18 Mar 2017 11:04:14 +0800</pubDate>
       
       <guid>http://www.automato.farm/experiments/00_welcome/</guid>
-      <description>&lt;p&gt;We launched finally a new website as a way to actually start to make automato.farm somehow less fictional and to put our work in shape and to create a space where we can also share our group and personal explorations beyond the work that we do. You will see all the weird little experiments that we do. From code snippets and awful wires mash ups and from lenghty articles to short stories.&lt;/p&gt;
-</description>
+      <description>We launched finally a new website as a way to actually start to make automato.farm somehow less fictional and to put our work in shape and to create a space where we can also share our group and personal explorations beyond the work that we do. You will see all the weird little experiments that we do. From code snippets and awful wires mash ups and from lenghty articles to short stories.</description>
     </item>
     
     <item>
@@ -364,127 +120,7 @@
       <pubDate>Wed, 25 Jan 2017 11:04:14 +0800</pubDate>
       
       <guid>http://www.automato.farm/portfolio/trainning_cards/</guid>
-      <description>
-
-&lt;p&gt;Recently we hear a lot about Machine Learning, Deep Learning, and Neural Networks as being a revolutionary way for computers and machines in general to sense and recognize the world around them. Security cameras, home robots and other “intelligent” machines will have to recognize not only us but objects, pets and other inhabitants of our life with a training process that is hidden and done digitally through a generic set of images gathered from the web.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;But how much does it take for a “machine” to learn something?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Well, around &lt;strong&gt;1.2 meters and 8 kg of images&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;In order to be able to recognize something as basic as a dog (or any kind of objects), a machine will rely most of the time on what is called a neural network (NN). This has to be trained with a certain number of images representing that object as well as images that do not represent that object. Based on NN specialists best practices, 5000 images is the right number for a neural network to start having some idea about the object you have trained it with.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.automato.farm/img/dog.gif&#34; alt=&#34;alt text&#34; /&gt; &lt;img src=&#34;http://www.automato.farm/img/not-dog.gif&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Our TraiNNing Cards is a set of 5000 training images, physically printed and handpicked by humans to train any of your machines to recognize our first and favorite item in a house: a dog. The set includes both “true” images (dogs) and “false” images (non-dogs) with easy to read QR codes for your machine to clearly identify what is a dog and what is not a dog. It’s like flash cards, but not for your kid…&lt;/p&gt;
-
-&lt;p&gt;The Basic set &lt;strong&gt;001 #dog&lt;/strong&gt; is sold for only &lt;strong&gt;5000$&lt;/strong&gt; , but we can create custom TraiNNing Cards sets for any objects you wish your home robot or camera to recognize. We will personally curate the imagery for you and produce a set with our local machine-lovers producers here in China.&lt;/p&gt;
-
-&lt;p&gt;We will ship to you globally, &lt;a href=&#34;mailto:hi@automato.farm&#34;&gt;contact us to get your first set!&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;the-product&#34;&gt;The product&lt;/h2&gt;
-
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
-    
-
-        &lt;div class=&#34;owl-carousel col-md-12&#34;&gt;
-            
-                
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//front-nnc.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//DSC00482-ncc.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//package_all-nnc.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//DSC00558-nnc.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//tofu-gif-2-nnc.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//DSC00545-nnc.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//training-since-nnc.jpg&#34;/&gt;
-                        
-                        
-                    
-                
-            
-                
-            
-                
-            
-        &lt;/div&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;how-it-works&#34;&gt;How it works&lt;/h2&gt;
-
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
-    
-
-        &lt;div class=&#34;owl-carousel col-md-12&#34;&gt;
-            
-                
-            
-                
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//instructions-01-nnc.jpg&#34;/&gt;
-                        
-                        
-                    
-                
-            
-                
-            
-        &lt;/div&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-    &lt;div class=&#34;row&#34;&gt;
-        &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;img src=&#34;http://www.automato.farm/img/cards-ncc.gif&#34; class=&#34;responsive_images&#34;/&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-</description>
+      <description>Recently we hear a lot about Machine Learning, Deep Learning, and Neural Networks as being a revolutionary way for computers and machines in general to sense and recognize the world around them. Security cameras, home robots and other “intelligent” machines will have to recognize not only us but objects, pets and other inhabitants of our life with a training process that is hidden and done digitally through a generic set of images gathered from the web.</description>
     </item>
     
     <item>
@@ -493,65 +129,8 @@
       <pubDate>Fri, 25 Nov 2016 11:04:14 +0800</pubDate>
       
       <guid>http://www.automato.farm/portfolio/white_box/</guid>
-      <description>
-
-&lt;p&gt;The white Box is a new concept for a home control system that would be &lt;strong&gt;“transparently smart” to its user&lt;/strong&gt;.
-In collaboration with &lt;a href=&#34;http://casajasmina.arduino.cc/&#34;&gt;Casa Jasmina&lt;/a&gt;, the first open-source smart home, we asked ourselves how “smart” can a home be? What kind of smartness are we talking about? Is technology in service of the user or is it becoming the controller of the user?&lt;/p&gt;
-
-&lt;p&gt;If you want to make your home “smart”, most solutions in the market come in form of a black box that takes care of everything for you. Something that doesn’t have to be touched, with a simple and slick UI, something that feels almost magic, but utterly opaque. As these products are designed to to hide control and “simplify” complexity, the user that install them in the home doesn’t actually know what the system does: if it collects data, what kind of data, how the data are transformed or sold by the server administrator etc…&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The white box, is a transparent interface to tweak your home behavior; It is accessible in the same way you can control the main electric switch box at your home, and you can tweak the experience by accessing simple sliders.&lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-    &lt;div class=&#34;row&#34;&gt;
-        &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;img src=&#34;http://www.automato.farm/img/whitebox.jpg&#34; class=&#34;responsive_images&#34;/&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;The white box expose the user with a higher level of intelligence than a simple control interface. &lt;strong&gt;It’s an evolution of the “backend” of an home of the future, a switchboard, allowing people to turn on and off and tweak the new inputs and outputs that a home of the future will have.&lt;/strong&gt; You choose which data you want to feed the box, ( Biometric data, Location, Environment, Market data etc..) While with the slider you can tweak the home behavior: choosing how much you want your home to remember or forget; if you want to publicly express what you are doing or keep it private; whether you home should learn from you or teach you best practices; finally, if you want the home to behave in a selfish way or just doing what’s best for the environment and the other .&lt;/p&gt;
-
-&lt;p&gt;We think of the white box as a product that it’s fictional, but real enough to communicate new needs and challenges that “smart” will bring to our homes. As designers, we have to move deeper in machines to understand the new mechanisms that smartness and connectivity bring, we need to design new interfaces to avoid people turning into unaware inputs.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-prototype&#34;&gt;The prototype&lt;/h2&gt;
-
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
-    
-
-        &lt;div class=&#34;gridGallery&#34;&gt;
-            
-                
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/whitebox01.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/whitebox01.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/whitebox02.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/whitebox02.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/whitebox03.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/whitebox03.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                
-            
-        &lt;/div&gt;
-
-        
-  &lt;/div&gt;
-&lt;/div&gt;
-
-</description>
+      <description>The white Box is a new concept for a home control system that would be “transparently smart” to its user. In collaboration with Casa Jasmina, the first open-source smart home, we asked ourselves how “smart” can a home be? What kind of smartness are we talking about? Is technology in service of the user or is it becoming the controller of the user?
+If you want to make your home “smart”, most solutions in the market come in form of a black box that takes care of everything for you.</description>
     </item>
     
     <item>
@@ -560,105 +139,7 @@ In collaboration with &lt;a href=&#34;http://casajasmina.arduino.cc/&#34;&gt;Cas
       <pubDate>Tue, 25 Oct 2016 11:04:14 +0800</pubDate>
       
       <guid>http://www.automato.farm/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;automato-farm-consists-of-simone-rebaudengo-http-simonerebaudengo-com-matthieu-cherubini-http-mchrbn-net-saurabh-datta-http-www-dattasaurabh-com-and-lorenzo-romagnoli-http-lorenzoromagnoli-me-we-combine-our-pasts-in-computer-science-product-design-and-electrical-engineering-to-work-on-the-fringes-of-product-and-interaction-design&#34;&gt;automato.farm consists of &lt;a href=&#34;http://simonerebaudengo.com&#34;&gt;Simone Rebaudengo&lt;/a&gt;, &lt;a href=&#34;http://mchrbn.net/&#34;&gt;Matthieu Cherubini&lt;/a&gt;, &lt;a href=&#34;http://www.dattasaurabh.com&#34;&gt;Saurabh Datta&lt;/a&gt; and &lt;a href=&#34;http://lorenzoromagnoli.me/&#34;&gt;Lorenzo Romagnoli&lt;/a&gt;. We combine our pasts in computer science, product design and electrical engineering to work on the fringes of product and interaction design.&lt;/h1&gt;
-
-&lt;h1 id=&#34;our-work-focuses-on-exploring-the-next-evolution-of-what-interaction-design-might-mean&#34;&gt;Our work focuses on exploring the next evolution of what interaction design might mean.&lt;/h1&gt;
-
-&lt;h1 id=&#34;bridging-and-blurring-physical-and-digital-interfaces-digging-deeper-into-algorithms-and-behaviors-of-products-translating-complex-black-boxes-into-interfaces-and-using-connectivity-and-intelligence-as-new-materials-to-be-shaped&#34;&gt;Bridging and blurring physical and digital interfaces, digging deeper into algorithms and behaviors of products, translating complex black boxes into interfaces and using connectivity and intelligence as new materials to be shaped.&lt;/h1&gt;
-
-&lt;h1 id=&#34;we-research-and-develop-future-products-and-interfaces-sometimes-real-and-sometimes-fictional&#34;&gt;We research and develop future products and interfaces, sometimes real and sometimes fictional.&lt;/h1&gt;
-
-&lt;h1 id=&#34;we-collaborate-with-studios-companies-and-institutions-to-envision-what-happens-when-emerging-technologies-hits-reality-we-can-talk-fluently-to-both-people-and-machines-but-we-like-machines-more&#34;&gt;We collaborate with studios, companies, and institutions to envision what happens when emerging technologies hits reality. We can talk fluently to both people and machines, but we like machines more.&lt;/h1&gt;
-
-&lt;h1 id=&#34;we-also-teach-and-talk-a-lot-about-machines-mundane-appliances-and-dogs-with-very-painful-accents&#34;&gt;We also teach and talk a lot about machines, mundane appliances, and dogs…with very painful accents.&lt;/h1&gt;
-
-&lt;h1 id=&#34;if-you-have-a-future-to-explore-or-if-you-are-just-scared-of-it-contact-us-mailto-hi-automato-farm&#34;&gt;If you have a future to explore or if you are just scared of it, &lt;a href=&#34;mailto:hi@automato.farm&#34;&gt;contact us&lt;/a&gt;.&lt;/h1&gt;
-
-&lt;!-- 
-
-&lt;div class=&#34;container offset&#34;&gt;
-    &lt;div class=&#34;row&#34;&gt;
-        &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;img src=&#34;http://www.automato.farm/img/WechatScreenshot.jpg&#34; class=&#34;responsive_images&#34;/&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-
-&lt;div class=&#34;container offset&#34;&gt;
-
-  &lt;div class=&#34;columns col-md-12&#34;&gt;
-    &lt;h4 id=&#34;teaching-and-workshops&#34;&gt;Teaching and Workshops&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34;&gt;NYU Shanghai&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ciid.dk/&#34;&gt;Copenhagen Institute of Interaction Design&lt;/a&gt;, Copenhagen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hesge.ch/head/en&#34;&gt;HEAD&lt;/a&gt;, Geneva&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.maind.supsi.ch/&#34;&gt;Master of Advanced Studies in Interaction Design&lt;/a&gt;, Lugano&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tjdi.tongji.edu.cn/?lang=en&#34;&gt;Tongji University&lt;/a&gt;, Shanghai&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cafa.edu.cn/&#34;&gt;China Academy of Fine Arts&lt;/a&gt;, Beijing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;selected-awards&#34;&gt;Selected Awards&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.fastcodesign.com/product/politics-of-power&#34;&gt;FastCompany’s 2016 Design Awards&lt;/a&gt; – Honorable Mention&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.postscapes.com/2015-16/top-design-fiction-project/&#34;&gt;IoT Award 2016&lt;/a&gt;– Design Fiction Winner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hack.wired.jp/en/winners/&#34;&gt;Wired Creative Hack Award 2016&lt;/a&gt;-Quasi Grand Prix Winner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.core77.com/posts/36960/&#34;&gt;Core77 Awards 2015&lt;/a&gt; – Speculative Concept Runner-up&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.toshare.it/tshr/share-prize/?lang=en&#34;&gt;Share Prize 2014&lt;/a&gt; - Winner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://awards.ixda.org/entry/2014/addicted-products&#34;&gt;IxDA Award 2014&lt;/a&gt; - Best In show&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://robotfilmfestival.com/2014films/&#34;&gt;Robot Film Festival 2014&lt;/a&gt; – Botsker Prize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;selected-exhibitions&#34;&gt;Selected Exhibitions&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.design-museum.de/en/exhibitions/detailpages/hello-robot-design-between-human-and-machine.html&#34;&gt;Hello Robot&lt;/a&gt;,Vitra Design Museum, Weil Am Rhein&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.toshare.it/&#34;&gt;Share Festival&lt;/a&gt;, Casa Jasmina, Torino&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://adhocracy.athens.sgt.gr/&#34;&gt;Adhocracy&lt;/a&gt;, Onassis Cultural Center, Athens&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.biennale-design.com/saint-etienne/2017/fr/home/&#34;&gt;Biennale Internationale Design&lt;/a&gt;, St-Etienne&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sonarplusd.com/&#34;&gt;Sonar+D&lt;/a&gt;, Barcelona&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.fact.co.uk/&#34;&gt;FACT Center&lt;/a&gt;, Liverpool&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;selected-talks-interviews&#34;&gt;Selected Talks &amp;amp; Interviews&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34;&gt;semipermanent 2017 Sydney&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://interaction17.ixda.org/&#34;&gt;Interaction17&lt;/a&gt;, New York&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://interaction16.ixda.org/&#34;&gt;Interaction16&lt;/a&gt;, Helsinki&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ethicalmachines.com/&#34;&gt;Ethical Machines&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://push-conference.com/2015/&#34;&gt;Push Conference 15&lt;/a&gt;, Münich&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://resonate.io/2014/&#34;&gt;Resonate 14&lt;/a&gt;, Belgrade&lt;/li&gt;
-&lt;li&gt;TEI2015, Stanford&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://node15.vvvv.org/&#34;&gt;NODE15&lt;/a&gt;, Frankfurt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.tasmeemdoha.com/&#34;&gt;Tasmeem Art&amp;amp;Design Biennale&lt;/a&gt;, Doha&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cbc.ca/radio/spark/spark-248-1.2848222/brad-the-toaster-1.2848225&#34;&gt;CBC Radio&amp;rsquo;s Spark&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;selected-media&#34;&gt;Selected Media&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://form.de/en/magazine/form268/filter&#34;&gt;form design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://we-make-money-not-art.com/house-guests-where-even-plugs-and-bread-crumbs-have-a-mind-of-their-own/&#34;&gt;We Make Money not Art&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;CreativeApplications &lt;a href=&#34;http://www.creativeapplications.net/objects/politics-of-power-products-with-embedded-ideologies/&#34;&gt;1&lt;/a&gt; – &lt;a href=&#34;http://www.creativeapplications.net/objects/ethical-things-the-mundane-the-insignificant-and-the-smart-things&#34;&gt;2&lt;/a&gt;– &lt;a href=&#34;http://www.creativeapplications.net/processing/conditional_lover-a-physical-bot-that-automates-your-tinder/&#34;&gt;3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.fastcodesign.com/3056806/innovation-by-design/the-ideologies-hidden-in-your-gadgets-visualized-with-power-strips&#34;&gt;Fast Company&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://motherboard.vice.com/read/a-fat-man-and-a-skinny-man-are-in-a-room-who-does-the-robot-choose&#34;&gt;Motherboard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wired.com/2015/08/robot-better-tinder/&#34;&gt;Wired&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hyperallergic.com/182595/the-dystopian-possibilities-of-a-drawing-machine/&#34;&gt;Hyperallergic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.designindaba.com/articles/creative-work/ethical-things-look-morality-smart-devices&#34;&gt;Design Indaba&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.psfk.com/2015/03/ethical-things-ethical-fan-moral-decisions-technology-ai.html&#34;&gt;pfsk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theatlantic.com/technology/archive/2013/09/if-this-toaster-could-talk/279276/&#34;&gt;The Atlantic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://news.bbc.co.uk/2/hi/programmes/click_online/9714635.stm&#34;&gt;BBC Click&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-</description>
+      <description>automato.farm consists of Simone Rebaudengo, Matthieu Cherubini, Saurabh Datta and Lorenzo Romagnoli. We combine our pasts in computer science, product design and electrical engineering to work on the fringes of product and interaction design. Our work focuses on exploring the next evolution of what interaction design might mean. Bridging and blurring physical and digital interfaces, digging deeper into algorithms and behaviors of products, translating complex black boxes into interfaces and using connectivity and intelligence as new materials to be shaped.</description>
     </item>
     
     <item>
@@ -667,419 +148,39 @@ In collaboration with &lt;a href=&#34;http://casajasmina.arduino.cc/&#34;&gt;Cas
       <pubDate>Mon, 25 Jan 2016 11:04:14 +0800</pubDate>
       
       <guid>http://www.automato.farm/portfolio/politics_of_power/</guid>
-      <description>
-
-&lt;p&gt;With a growing number of networked and autonomous objects as well as the outbreak of fields such as « the IoT », communication protocols used by connected products are increasingly important as they act as the network’s backbone.
-Since the end product is « black-boxed » to the user, we often assume that all nodes of a network are equal.
-But is it?&lt;/p&gt;
-
-&lt;p&gt;For example, in a home, two appliances in the same network must be working at the same time, but because of a power shortage, they cannot run in parallel. This bring us to question, who should be given the priority and why?
-In every existing network – be it machine or nature, rules are established in order to determine its structure, hierarchy, and the way the communication will be synchronized between all the actors of the network. But who and what criterions will define this power hierarchy? Products and networks are inherently embedded with ideologies of the designers, engineers, and other stakeholders who shape their trajectory along the way.&lt;/p&gt;
-
-&lt;p&gt;“Politics of Power” is an exploration of these questions on a micro-scale by using a simple ubiquitous product, the multi-plug.
-The project looks at how a mass-manufactured product – although developed for a precise and unique purpose – could behave differently depending on the nature of its communication protocol and how the design of the product itself could reflect these hidden logic and rules.
-Three multi-plugs – Model D, M and T – are designed to look and behave based on different ideologies and structures, allowing people to experience the hidden politics of networks in an everyday life products through an electrical system.&lt;/p&gt;
-
-&lt;div class=&#34;container offset&#34;&gt;
-    &lt;div class=&#34;row&#34;&gt;
-
-        
-            &lt;div class=&#34;flex-video col-md-12&#34;&gt;
-                &lt;iframe src=&#34;//player.vimeo.com/video/155295826&#34; allowfullscreen&gt;&lt;/iframe&gt;
-            &lt;/div&gt;
-            
-
-    &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;the-products&#34;&gt;The products&lt;/h2&gt;
-
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
+      <description>With a growing number of networked and autonomous objects as well as the outbreak of fields such as « the IoT », communication protocols used by connected products are increasingly important as they act as the network’s backbone. Since the end product is « black-boxed » to the user, we often assume that all nodes of a network are equal. But is it?
+For example, in a home, two appliances in the same network must be working at the same time, but because of a power shortage, they cannot run in parallel.</description>
+    </item>
     
-
-        &lt;div class=&#34;owl-carousel col-md-12&#34;&gt;
-            
-                
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//pop1a.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//pop6a.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//pop5a.jpg&#34;/&gt;
-                        
-                        
-                    
-                        
-                            &lt;img class=&#34;owl-lazy img-responsive&#34; data-src=&#34;http://www.automato.farm/img//pop8.jpg&#34;/&gt;
-                        
-                        
-                    
-                
-            
-                
-            
-        &lt;/div&gt;
+    <item>
+      <title>ethical things</title>
+      <link>http://www.automato.farm/portfolio/ethical_thing/</link>
+      <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/portfolio/ethical_thing/</guid>
+      <description>Due to fast-developing technology and its endless promises, autonomous systems are heading increasingly towards complex algorithms aimed at solving situations requiring some form of moral reasoning. Autonomous vehicles and lethal battlefield robots are good examples of such products due to the tremendous complexity of their tasks that they must carry out.
+When it comes to discussion around the ethics of machines, the focus is often put on extreme examples (such as the above mentioned projects) where human life and death are involved.</description>
+    </item>
     
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;how-it-works&#34;&gt;How it works&lt;/h2&gt;
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-    &lt;div class=&#34;row&#34;&gt;
-        &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;img src=&#34;http://www.automato.farm/img/technic.jpg&#34; class=&#34;responsive_images&#34;/&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
+    <item>
+      <title>teacher of algorithms</title>
+      <link>http://www.automato.farm/portfolio/teach_algorithms/</link>
+      <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/portfolio/teach_algorithms/</guid>
+      <description>We think of smart/learning objects as yet not finished entities that can evolve their behaviors by observing, reading and interpreting our habits. They train their algorithms based on deep learning or similar ways to constantly adapt and refine their decisions.
+But what if things are not that good at learning after all without some help?
+What if in a near future, i could just get a person to train my products better as i do with pets?</description>
+    </item>
     
-
-        &lt;div class=&#34;gridGallery&#34;&gt;
-            
-                
-            
-                
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/model-d.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/model-d.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/model-m.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/model-m.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/model-t.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/model-t.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                
-            
-        &lt;/div&gt;
-
-        
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;plugs-constitutions&#34;&gt;Plugs Constitutions&lt;/h2&gt;
-
-&lt;div class=&#39;code-tabs&#39;&gt;
-  &lt;ul class=&#34;nav nav-tabs&#34;&gt;&lt;/ul&gt;
-  &lt;div class=&#34;tab-content&#34;&gt;
-  &lt;div class=&#34;tab-pane&#34; title=&#34;Model D&#34;&gt;
-  &lt;pre&gt;&lt;code&gt;# Constitution for Model D
-# Egalitarian architecture
-
-# --- Election Routine ---
-# Define which plug has the
-# highest power
-
-Elections:
-
-# When are the next elections?
-In_Charge_Time = Random(X_MINUTES)
-
-# Each plugs vote for the president
-for 1 to N_PLUGS:
-
-vote = Random(1,N_PLUGS)
-
-In_Charge = Plug with Highest vote
-In_Charge_Corruption++
-
-# The plug on left and right of the
-# president become party
-Right_Party = In_Charge + 1
-Left_Party = In_Charge - 1
-Citizens = Remaining Plugs
-
-# --- Attribute Power Levels ---
-# What amount of power each plug
-# should have
-
-Attribute_Power_Levels:
-
-for 1 to N_PLUGS:
-
-if In_Charge:
-
-In_Charge = HIGHEST_POWER_LEVEL
-
-else if Party:
-
-Party = MIDDLE_POWER_LEVEL
-
-else if Citizens:
-
-Citizens = LOW_POWER_LEVEL
-
-# --- Egalitarian Setup ---
-Egalitarian_Constitution:
-
-Elections()
-Attribute_Level_Power()
-
-# --- Reelection Routine ---
-# Reelect a plug that is
-# in charge
-
-Reelections:
-
-if Current_Time &amp;amp;gt;= Presidency Time:
-
-Elections()
-if President Corruption &amp;amp;gt; 3:
-
-HIGHEST_POWER_LEVEL++
-MIDDLE_POWER_LEVEL--
-LOW_POWER_LEVEL--
-
-else:
-
-President Corruption = 0
-
-Attribute_Power_Level()
-
-# --- In_Charge Unplugged ---
-# Delegate when the In_charge
-# is unplugged
-
-In_Charge_Unplugged:
-
-# The new In_Charge is either
-# the left or right party
-In_Charge = Random(Left, Right)
-
-if In_Charge == Right:
-
-Right_Party = In_Charge+1
-# Left party stays the same
-
-else if In_Charge == Left
-
-Left_Party = In_Charge-1
-#Right party stays the same
-
-Attribute_Power_Level()
-
-# --- Party Unplugged ---
-# Delegate when one Party
-# is unplugged
-
-Party_Unplugged:
-
-# If right party unplugged
-# then the plug on its right
-# is becoming right party...
-# Same for left party
-if Party_Unplugged == Right:
-
-Right_Party = Right_Party + 1
-
-else if Party_Unplugged == Left:
-
-Left_Party = Left_Party - 1
-
-Attribute_Power_Level()
-
-# --- Citizen Unplugged ---
-# Delegate when one Citizen
-# is unplugged
-
-Citizen_Unplugged:
-
-# If a citizen is unplugged
-# then nothing happen
-if Plugged_Citizen == 0:
-
-# The egalitarian is destroyed
-# as no citizen are remaining
-# The government become citizens..
-Citizen = Party
-Citizen = In_Charge
-
-Attribute_Power_Level()
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;/div&gt;
-
-  &lt;div class=&#34;tab-pane&#34; title=&#34;Model M&#34;&gt;
-  &lt;pre&gt;&lt;code&gt;# Constitution for Model M
-# Pyramidal architecture
-
-# --- Establish Pyramidal ---
-# Define which plug has the
-# highest power
-
-Assign_Hierarchical_Power:
-
-Top_Pyramid = HIGHEST_POWER_LEVEL
-Middle_Pyramid = MIDDLE_POWER_LEVEL
-Bottom_Pyramid = LOWEST_POWER_LEVEL
-
-Top_Lifespan = Random(X_MINUTES)
-
-# --- Pyramidal Setup ---
-Pyramidal_Constitution:
-Assign_Hierarchical_Power()
-
-# --- Pyramidal Refresh ---
-Refresh_Pyramidal:
-
-Top_Pyramid = NO_POWER_LEVEL
-Middle_Pyramid = HIGHEST_POWER_LEVEL
-Bottom_Pyramid = LOWEST_POWER_LEVEL
-
-if Current_Time &amp;gt;= Mourning_Time:
-Assign_Hierarchical_Power()
-Assign_Hierarchical_Power()
-
-// --- Top Unplugged ---
-// Delegate when the top is unplugged
-Top_Unplugged:
-// The top is more of an icon
-//no big power changes if he isnt here
-Middle_Pyramid = HIGHEST_POWER_LEVEL
-Bottom_Pyramid = LOWEST_POWER_LEVEL
-# --- Middle Unplugged ---
-# Delegate when one plug in middle is
-# unplugged
-Middle_Unplugged:
-# If all middle plugs are out
-# then the bottom level is in chaos
-if Middle_Pyramid == 0:
-
-Bottom_Pyramid = UNSTABLE_POWER_LEVEL
-
-# --- Bottom Unplugged ---
-# Delegate when one plug in bottom is
-# unplugged
-Bottom_Unplugged:
-
-# Plebs, nothing happen
-NULL
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;/div&gt;
-
-
-  &lt;div class=&#34;tab-pane&#34; title=&#34;Model T&#34;&gt;
-  &lt;pre&gt;&lt;code&gt;# Constitution for ModelT
-# Uneven architecture
-
-# --- Define Tyran Power ---
-# Define the power relation
-# of the authoritarian ideology
-
-Set_Tyran_Behaviour:
-
-# Benevolent or not tyran?
-Is_Benevolant = Random(1,2)
-
-if Is_Benevolent:
-
-Citizens = VERY_LOW_POWER_LEVEL
-Tyran = HIGHEST_POWER_LEVEL
-# Citizen take longer to rebel
-# if the tyran is benevolent
-Rebellion_Time = Random(X_MINUTES*2)
-
-else:
-
-Citizen = NO_POWER_LEVEL
-Tyran = HIGHEST_POWER_LEVEL
-Rebellion_Time = Random(X_MINUTES)
-
-# --- Authoritarian Setup ---
-Authoritarian_Constitution:
-
-Set_Tyran_Behaviour()
-
-# --- Define the rebellion ---
-# Define the power behaviour
-# once citizens rebel against the tyran
-Rebellion:
-
-if Current_Time &amp;amp;gt;= Rebellion_Time:
-
-Tyran = MIDDLE_POWER_LEVEL
-# Unstable means the power fluctuate
-# between HIGH / LOW
-Citizen = UNSTABLE_POWER_LEVEL
-Rebellion_Lifespan = Random(X_MINUTES)
-
-# Stop the rebellion after a certain
-# time. The tyran goes back to power
-if Current_Time &amp;amp;gt;= Rebellion_Lifespan:
-
-Set_Tyran_Behaviour()
-
-# --- Tyran Unplugged ---
-# Delegate when the tyran is unplugged
-Tyran_Unplugged:
-
-# NO ORDER = CHAOS
-Citizen = UNSTABLE_POWER_LEVEL
-
-# Chaotic times...
-Time_Chaos = Random(X_MINUTES)
-
-# --- Citizens Unplugged ---
-# Delegate when a citizen is unplugged
-Citizen_Unplugged:
-
-# Nothing happens, citizens are
-# worthless
-NULL
-
-# --- Egalitarian emerges ---
-# If tyran isn&#39;t plugged for a certain
-# amount of time, egalitarian emerges from
-# chaos
-Birth_Of_Egalitarian:
-
-if Current_Time &amp;amp;gt;= Time_Chaos:
-
-destroy(Authoritarian_Constitution()) Egalitarian_Constitution()
-
-# --- Egalitarian Destroyed ---
-# If tyran is plugged back when egalitarian
-# then it destroys it
-Death_Of_Egalitarian:
-
-destroy(Egalitarian_Constitution()) Authoritarian_Constitution()
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-
-</description>
+    <item>
+      <title>ethical autonomous vehicles</title>
+      <link>http://www.automato.farm/portfolio/ethical_autonomous_vehicles/</link>
+      <pubDate>Sat, 25 Oct 2014 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/portfolio/ethical_autonomous_vehicles/</guid>
+      <description>Many car manufacturers are projecting that by 2025 most cars will operate on driveless systems. While it is valid to think that our roads will be safer as autonomous vehicles replace traditional cars, the unpredictability of real-life situations that involve the complexities of moral and ethical reasoning complicate this assumption.
+How can such systems be designed to accommodate the complicatedness of moral and ethical thought processes, especially when human lives are involved?</description>
     </item>
     
   </channel>

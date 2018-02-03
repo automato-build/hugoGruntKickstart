@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automation on automato.farm</title>
-    <link>http://www.automato.farm/tags/automation/index.xml</link>
+    <link>http://www.automato.farm/tags/automation/</link>
     <description>Recent content in Automation on automato.farm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.automato.farm/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Nov 2016 11:04:14 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.automato.farm/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The White Box</title>
@@ -14,65 +17,8 @@
       <pubDate>Fri, 25 Nov 2016 11:04:14 +0800</pubDate>
       
       <guid>http://www.automato.farm/portfolio/white_box/</guid>
-      <description>
-
-&lt;p&gt;The white Box is a new concept for a home control system that would be &lt;strong&gt;“transparently smart” to its user&lt;/strong&gt;.
-In collaboration with &lt;a href=&#34;http://casajasmina.arduino.cc/&#34;&gt;Casa Jasmina&lt;/a&gt;, the first open-source smart home, we asked ourselves how “smart” can a home be? What kind of smartness are we talking about? Is technology in service of the user or is it becoming the controller of the user?&lt;/p&gt;
-
-&lt;p&gt;If you want to make your home “smart”, most solutions in the market come in form of a black box that takes care of everything for you. Something that doesn’t have to be touched, with a simple and slick UI, something that feels almost magic, but utterly opaque. As these products are designed to to hide control and “simplify” complexity, the user that install them in the home doesn’t actually know what the system does: if it collects data, what kind of data, how the data are transformed or sold by the server administrator etc…&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The white box, is a transparent interface to tweak your home behavior; It is accessible in the same way you can control the main electric switch box at your home, and you can tweak the experience by accessing simple sliders.&lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-    &lt;div class=&#34;row&#34;&gt;
-        &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;img src=&#34;http://www.automato.farm/img/whitebox.jpg&#34; class=&#34;responsive_images&#34;/&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;The white box expose the user with a higher level of intelligence than a simple control interface. &lt;strong&gt;It’s an evolution of the “backend” of an home of the future, a switchboard, allowing people to turn on and off and tweak the new inputs and outputs that a home of the future will have.&lt;/strong&gt; You choose which data you want to feed the box, ( Biometric data, Location, Environment, Market data etc..) While with the slider you can tweak the home behavior: choosing how much you want your home to remember or forget; if you want to publicly express what you are doing or keep it private; whether you home should learn from you or teach you best practices; finally, if you want the home to behave in a selfish way or just doing what’s best for the environment and the other .&lt;/p&gt;
-
-&lt;p&gt;We think of the white box as a product that it’s fictional, but real enough to communicate new needs and challenges that “smart” will bring to our homes. As designers, we have to move deeper in machines to understand the new mechanisms that smartness and connectivity bring, we need to design new interfaces to avoid people turning into unaware inputs.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-prototype&#34;&gt;The prototype&lt;/h2&gt;
-
-
-
-
-&lt;div class=&#34;container offset&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-
-    
-
-        &lt;div class=&#34;gridGallery&#34;&gt;
-            
-                
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/whitebox01.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/whitebox01.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/whitebox02.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/whitebox02.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                        &lt;a href=&#34;http://www.automato.farm/img/whitebox03.jpg&#34; class=&#34;col-md-4 col-sm-6 col-xs-6 item&#34;&gt;
-                            &lt;div style=&#34;background-image:url(&#39;http://www.automato.farm/img/whitebox03.jpg&#39;)&#34; class=&#34;img-responsive thumb&#34;&gt;&lt;/div&gt;
-                        &lt;/a&gt;
-                    
-                
-            
-        &lt;/div&gt;
-
-        
-  &lt;/div&gt;
-&lt;/div&gt;
-
-</description>
+      <description>The white Box is a new concept for a home control system that would be “transparently smart” to its user. In collaboration with Casa Jasmina, the first open-source smart home, we asked ourselves how “smart” can a home be? What kind of smartness are we talking about? Is technology in service of the user or is it becoming the controller of the user?
+If you want to make your home “smart”, most solutions in the market come in form of a black box that takes care of everything for you.</description>
     </item>
     
   </channel>

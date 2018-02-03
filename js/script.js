@@ -191,7 +191,7 @@ $(document).ready(function() {
 
     theFuture();
 
-  
+
 });
 
 
@@ -199,4 +199,9 @@ $(document).ready(function() {
 var resetBannerPosition = function() {
     $("#brutalistBanner").css('top', Math.random() * 800);
     $("#brutalistBanner").css('left', Math.random() * 800);
+
+		$("#brutalistBanner2").css('top', Math.random() * 800);
+		$("#brutalistBanner2").css('left', Math.random() * 800);
+
+
 }

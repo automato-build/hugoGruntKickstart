@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on automato.farm</title>
+    <link>http://www.automato.farm/tags/</link>
+    <description>Recent content in Tags on automato.farm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Oct 2015 11:04:14 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.automato.farm/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algorithms</title>
+      <link>http://www.automato.farm/tags/algorithms/</link>
+      <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>http://www.automato.farm/tags/automation/</link>
+      <pubDate>Fri, 25 Nov 2016 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Vehicles</title>
+      <link>http://www.automato.farm/tags/autonomous-vehicles/</link>
+      <pubDate>Sat, 25 Oct 2014 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/autonomous-vehicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connected Home</title>
+      <link>http://www.automato.farm/tags/connected-home/</link>
+      <pubDate>Fri, 25 Nov 2016 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/connected-home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>http://www.automato.farm/tags/ethics/</link>
+      <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiction</title>
+      <link>http://www.automato.farm/tags/fiction/</link>
+      <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iot</title>
+      <link>http://www.automato.farm/tags/iot/</link>
+      <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Biases</title>
+      <link>http://www.automato.farm/tags/machine-biases/</link>
+      <pubDate>Mon, 25 Jan 2016 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/machine-biases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://www.automato.farm/tags/machine-learning/</link>
+      <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mturks</title>
+      <link>http://www.automato.farm/tags/mturks/</link>
+      <pubDate>Sun, 25 Oct 2015 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/mturks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Networks</title>
+      <link>http://www.automato.farm/tags/neural-networks/</link>
+      <pubDate>Wed, 25 Jan 2017 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real/Fictional</title>
+      <link>http://www.automato.farm/tags/real/fictional/</link>
+      <pubDate>Mon, 25 Jan 2016 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/real/fictional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>http://www.automato.farm/tags/thoughts/</link>
+      <pubDate>Sat, 18 Mar 2017 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
