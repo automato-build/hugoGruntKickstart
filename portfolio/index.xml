@@ -6,39 +6,10 @@
     <description>Recent content in Portfolios on automato.farm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jan 2017 11:04:14 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2015 11:04:14 +0800</lastBuildDate>
     
 	<atom:link href="http://www.automato.farm/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>traiNNing cards</title>
-      <link>http://www.automato.farm/portfolio/trainning_cards/</link>
-      <pubDate>Wed, 25 Jan 2017 11:04:14 +0800</pubDate>
-      
-      <guid>http://www.automato.farm/portfolio/trainning_cards/</guid>
-      <description>Recently we hear a lot about Machine Learning, Deep Learning, and Neural Networks as being a revolutionary way for computers and machines in general to sense and recognize the world around them. Security cameras, home robots and other “intelligent” machines will have to recognize not only us but objects, pets and other inhabitants of our life with a training process that is hidden and done digitally through a generic set of images gathered from the web.</description>
-    </item>
-    
-    <item>
-      <title>The White Box</title>
-      <link>http://www.automato.farm/portfolio/white_box/</link>
-      <pubDate>Fri, 25 Nov 2016 11:04:14 +0800</pubDate>
-      
-      <guid>http://www.automato.farm/portfolio/white_box/</guid>
-      <description>The white Box is a new concept for a home control system that would be “transparently smart” to its user. In collaboration with Casa Jasmina, the first open-source smart home, we asked ourselves how “smart” can a home be? What kind of smartness are we talking about? Is technology in service of the user or is it becoming the controller of the user?
-If you want to make your home “smart”, most solutions in the market come in form of a black box that takes care of everything for you.</description>
-    </item>
-    
-    <item>
-      <title>politics of power</title>
-      <link>http://www.automato.farm/portfolio/politics_of_power/</link>
-      <pubDate>Mon, 25 Jan 2016 11:04:14 +0800</pubDate>
-      
-      <guid>http://www.automato.farm/portfolio/politics_of_power/</guid>
-      <description>With a growing number of networked and autonomous objects as well as the outbreak of fields such as « the IoT », communication protocols used by connected products are increasingly important as they act as the network’s backbone. Since the end product is « black-boxed » to the user, we often assume that all nodes of a network are equal. But is it?
-For example, in a home, two appliances in the same network must be working at the same time, but because of a power shortage, they cannot run in parallel.</description>
-    </item>
     
     <item>
       <title>ethical things</title>
