@@ -197,11 +197,25 @@ $(document).ready(function() {
 
 
 var resetBannerPosition = function() {
-    $("#brutalistBanner").css('top', Math.random() * 800);
-    $("#brutalistBanner").css('left', Math.random() * 800);
 
-		$("#brutalistBanner2").css('top', Math.random() * 800);
-		$("#brutalistBanner2").css('left', Math.random() * 800);
+	 var bannerHeight=$("#brutalistBanner").height();
+	 var bannerWidth=$("#brutalistBanner").width();
+
+	 var windowHeight= $( window ).height();
+	 var windowWidth= $( window ).width();
+
+	 console.log(windowWidth,windowHeight,bannerWidth,bannerHeight);
+
+    $("#brutalistBanner").css('top', Math.random() * (windowHeight-bannerHeight));
+    $("#brutalistBanner").css('left', Math.random() * (windowWidth-bannerWidth));
+
+		// $("#brutalistBanner2").css('top', Math.random() * (windowHeight-bannerHeight));
+    // $("#brutalistBanner2").css('left', Math.random() * (windowWidth-bannerWidth));
+
 
 
 }
+
+Number.prototype.clamp = function(min, max) {
+  return Math.min(Math.max(this, min), max);
+};
