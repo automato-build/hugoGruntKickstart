@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.automato.farm/portfolio/believe_it_yourself/</loc>
+    <lastmod>2018-02-15T11:04:14+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.automato.farm/portfolio/objective_realities/</loc>
     <lastmod>2018-02-15T11:04:14+08:00</lastmod>
   </url>
@@ -116,6 +121,12 @@
   </url>
   
   <url>
+    <loc>http://www.automato.farm/tags/biy/</loc>
+    <lastmod>2018-02-15T11:04:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.automato.farm/categories/</loc>
     <priority>0</priority>
   </url>
@@ -157,6 +168,12 @@
   </url>
   
   <url>
+    <loc>http://www.automato.farm/tags/machine-divination/</loc>
+    <lastmod>2018-02-15T11:04:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.automato.farm/tags/machine-learning/</loc>
     <lastmod>2015-10-25T11:04:14+08:00</lastmod>
     <priority>0</priority>
@@ -175,7 +192,19 @@
   </url>
   
   <url>
+    <loc>http://www.automato.farm/tags/numerology/</loc>
+    <lastmod>2018-02-15T11:04:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.automato.farm/tags/object-centered-design/</loc>
+    <lastmod>2018-02-15T11:04:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.automato.farm/tags/pcb/</loc>
     <lastmod>2018-02-15T11:04:14+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -187,7 +216,7 @@
   </url>
   
   <url>
-    <loc>http://www.automato.farm/tags/real/fictional/</loc>
+    <loc>http://www.automato.farm/tags/real-fictional/</loc>
     <lastmod>2016-01-25T11:04:14+08:00</lastmod>
     <priority>0</priority>
   </url>

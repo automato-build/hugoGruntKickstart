@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Real/Fictional on automato.farm</title>
+    <link>http://www.automato.farm/tags/real-fictional/</link>
+    <description>Recent content in Real/Fictional on automato.farm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jan 2016 11:04:14 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.automato.farm/tags/real-fictional/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>politics of power</title>
+      <link>http://www.automato.farm/portfolio/politics_of_power/</link>
+      <pubDate>Mon, 25 Jan 2016 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/portfolio/politics_of_power/</guid>
+      <description>With a growing number of networked and autonomous objects as well as the outbreak of fields such as « the IoT », communication protocols used by connected products are increasingly important as they act as the network’s backbone. Since the end product is « black-boxed » to the user, we often assume that all nodes of a network are equal. But is it?
+For example, in a home, two appliances in the same network must be working at the same time, but because of a power shortage, they cannot run in parallel.</description>
+    </item>
+    
+  </channel>
+</rss>

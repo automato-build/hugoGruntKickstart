@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biy on automato.farm</title>
+    <link>http://www.automato.farm/tags/biy/</link>
+    <description>Recent content in Biy on automato.farm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Feb 2018 11:04:14 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.automato.farm/tags/biy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Believe it yourself</title>
+      <link>http://www.automato.farm/portfolio/believe_it_yourself/</link>
+      <pubDate>Thu, 15 Feb 2018 11:04:14 +0800</pubDate>
+      
+      <guid>http://www.automato.farm/portfolio/believe_it_yourself/</guid>
+      <description>BIY™ is the world’s first belief-based computing kit, that turns popular beliefs and superstitions into 0100110010. Most technology is made for you to blindly believe in it, but BIY™ lets you create and hack with your own logic and beliefs!
+Our BIY™ kits are built with state-of-the-art machine intelligence software, translating vernacular knowledge and popular wisdom into playful and educational electronic kits: Tinker with cameras that can see luck, microphones that interpret your destiny, and compasses that can help point you to harmony.</description>
+    </item>
+    
+  </channel>
+</rss>
